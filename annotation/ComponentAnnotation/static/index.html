@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>多页面图片标注工具</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+        }
+
+        .header h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 14px;
+        }
+
+        .main-content {
+            display: flex;
+            gap: 20px;
+            padding: 20px;
+            min-height: calc(100vh - 200px);
+        }
+
+        .canvas-area {
+            flex: 3;
+            display: flex;
+            flex-direction: column;
+            min-width: 0;
+        }
+
+        .sidebar {
+            flex: 1;
+            min-width: 280px;
+            max-width: 350px;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .canvas-wrapper {
+            position: relative;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            overflow: auto;
+            background: #fafafa;
+            max-height: calc(100vh - 300px);
+            min-height: 400px;
+        }
+
+        #canvas {
+            display: block;
+            cursor: crosshair;
+            max-width: 100%;
+            height: auto;
+        }
+
+        .info-panel {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+            font-size: 14px;
+            color: #666;
+        }
+
+        .section {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 20px;
+            flex-shrink: 0;
+        }
+
+        .section h3 {
+            font-size: 16px;
+            margin-bottom: 15px;
+            color: #333;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn {
+            width: 100%;
+            padding: 12px;
+            border: none;
+            border-radius: 6px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 500;
+        }
+
+        .btn:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+
+        .btn-danger {
+            background: #f56565;
+            color: white;
+        }
+
+        .btn-secondary {
+            background: #e0e0e0;
+            color: #333;
+        }
+
+        .btn-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+
+        .rectangle-list {
+            max-height: 200px;
+            overflow-y: auto;
+            margin-top: 10px;
+        }
+
+        .rectangle-item {
+            background: #f8f9fa;
+            padding: 10px;
+            border-radius: 6px;
+            margin-bottom: 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 13px;
+        }
+
+        .rectangle-item .coords {
+            color: #666;
+        }
+
+        .rectangle-item .delete-btn {
+            background: #ff4444;
+            color: white;
+            border: none;
+            padding: 4px 10px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+
+        .status {
+            background: #d4edda;
+            color: #155724;
+            padding: 12px;
+            border-radius: 6px;
+            margin-top: 10px;
+            font-size: 13px;
+            display: none;
+            white-space: pre-line;
+        }
+
+        .status.error {
+            background: #f8d7da;
+            color: #721c24;
+        }
+
+        .status.show {
+            display: block;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📝 多页面图片标注工具</h1>
+            <p>拖拽鼠标绘制矩形框，自动保存标注区域和坐标信息</p>
+        </div>
+
+        <div class="main-content">
+            <div class="canvas-area">
+                <div class="canvas-wrapper">
+                    <canvas id="canvas"></canvas>
+                </div>
+                <div class="info-panel">
+                    <div><strong>📁 当前文件夹:</strong> <span id="folderInfo">-</span></div>
+                    <div><strong>📄 当前页面:</strong> <span id="pageInfo">-</span></div>
+                    <div><strong>🔲 已标注区域:</strong> <span id="rectCount">0</span></div>
+                    <div style="margin-top: 10px; color: #999; font-size: 12px;">
+                        💡 提示:<br>
+                        • 拖拽绘制新矩形框<br>
+                        • 点击矩形可移动位置<br>
+                        • 拖拽角落/边缘调整大小<br>
+                        • Shift+点击删除矩形
+                    </div>
+                </div>
+            </div>
+
+            <div class="sidebar">
+                <div class="section">
+                    <h3>🗂️ 导航控制</h3>
+                    <div class="btn-row">
+                        <button class="btn btn-secondary" onclick="prevFolder()">⬅️ 上个文件夹</button>
+                        <button class="btn btn-secondary" onclick="nextFolder()">下个文件夹 ➡️</button>
+                    </div>
+                    <div class="btn-row">
+                        <button class="btn btn-secondary" onclick="prevPage()">⬅️ 上一页</button>
+                        <button class="btn btn-secondary" onclick="nextPage()">下一页 ➡️</button>
+                    </div>
+                </div>
+
+                <div class="section">
+                    <h3>✏️ 标注区域</h3>
+                    <div class="rectangle-list" id="rectangleList"></div>
+                    <button class="btn btn-danger" onclick="clearRectangles()" style="margin-top: 10px;">🗑️ 清空所有</button>
+                </div>
+
+                <div class="section">
+                    <h3>💾 保存</h3>
+                    <button class="btn btn-primary" onclick="saveAnnotations()" id="saveBtn">💾 保存所有区域</button>
+                    <div class="status" id="status"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // API配置
+        const API_BASE = 'http://localhost:7881/api';
+
+        // 应用状态
+        const state = {
+            folders: [],
+            currentFolderIndex: 0,
+            currentPage: 0,
+            maxPages: 0,
+            rectangles: [],
+            drawing: false,
+            startX: 0,
+            startY: 0,
+            currentRect: null
+        };
+
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+        let currentImage = null;
+
+        // 初始化
+        async function init() {
+            // 初始化保存的标注对象
+            state.savedAnnotations = {};
+
+            await loadFolders();
+            if (state.folders.length > 0) {
+                await loadCurrentImage();
+                updateInfo();
+            }
+            setupCanvasEvents();
+        }
+
+        // 从后端加载文件夹列表
+        async function loadFolders() {
+            try {
+                const response = await fetch(`${API_BASE}/folders`);
+                const data = await response.json();
+
+                if (data.success) {
+                    state.folders = data.folders;
+                    console.log('Loaded folders:', state.folders);
+                } else {
+                    showStatus('加载文件夹失败: ' + data.error, true);
+                }
+            } catch (error) {
+                showStatus('连接服务器失败，请确保后端已启动', true);
+                console.error('Error loading folders:', error);
+            }
+        }
+
+        // 从后端加载当前图片
+        async function loadCurrentImage() {
+            if (state.folders.length === 0) return;
+
+            try {
+                const folder = state.folders[state.currentFolderIndex].name;
+
+                // 先加载图片
+                const response = await fetch(`${API_BASE}/image/${folder}/${state.currentPage}`);
+                const data = await response.json();
+
+                if (data.success) {
+                    state.currentFilename = data.filename;
+
+                    const img = new Image();
+                    img.onload = async function() {
+                        currentImage = img;
+                        canvas.width = img.width;
+                        canvas.height = img.height;
+
+                        // 图片加载完成后再加载标注
+                        await loadSavedAnnotations(folder, state.currentPage);
+                        redrawCanvas();
+                    };
+                    img.src = data.image;
+                } else {
+                    showStatus('加载图片失败: ' + data.error, true);
+                }
+            } catch (error) {
+                showStatus('加载图片时出错', true);
+                console.error('Error loading image:', error);
+            }
+        }
+
+        // 加载已保存的标注
+        async function loadSavedAnnotations(folder, page) {
+            // 初始化文件夹缓存
+            if (!state.savedAnnotations[folder]) {
+                state.savedAnnotations[folder] = {};
+            }
+
+            try {
+                const response = await fetch(`${API_BASE}/annotations/${folder}/${page}`);
+                const data = await response.json();
+
+                if (data.success && data.rectangles) {
+                    state.rectangles = data.rectangles;
+                    // 缓存到本地
+                    state.savedAnnotations[folder][page] = data.rectangles;
+                } else {
+                    // 检查本地缓存
+                    if (state.savedAnnotations[folder][page]) {
+                        state.rectangles = [...state.savedAnnotations[folder][page]];
+                    } else {
+                        state.rectangles = [];
+                    }
+                }
+
+                updateRectangleList();
+                updateInfo();
+            } catch (error) {
+                // 如果加载失败，尝试使用本地缓存
+                if (state.savedAnnotations[folder][page]) {
+                    state.rectangles = [...state.savedAnnotations[folder][page]];
+                } else {
+                    state.rectangles = [];
+                }
+                updateRectangleList();
+                updateInfo();
+                console.log('No saved annotations found for this page');
+            }
+        }
+
+        // 设置画布事件
+        function setupCanvasEvents() {
+            canvas.addEventListener('mousedown', handleMouseDown);
+            canvas.addEventListener('mousemove', handleMouseMove);
+            canvas.addEventListener('mouseup', handleMouseUp);
+            canvas.addEventListener('mouseleave', handleMouseUp);
+        }
+
+        function getMousePos(e) {
+            const rect = canvas.getBoundingClientRect();
+            const scaleX = canvas.width / rect.width;
+            const scaleY = canvas.height / rect.height;
+            return {
+                x: (e.clientX - rect.left) * scaleX,
+                y: (e.clientY - rect.top) * scaleY
+            };
+        }
+
+        function isPointInRect(px, py, rect) {
+            return px >= rect.x1 && px <= rect.x2 && py >= rect.y1 && py <= rect.y2;
+        }
+
+        function getResizeHandle(px, py, rect) {
+            const threshold = 10;
+            const onLeft = Math.abs(px - rect.x1) < threshold;
+            const onRight = Math.abs(px - rect.x2) < threshold;
+            const onTop = Math.abs(py - rect.y1) < threshold;
+            const onBottom = Math.abs(py - rect.y2) < threshold;
+
+            if (onTop && onLeft) return 'tl';
+            if (onTop && onRight) return 'tr';
+            if (onBottom && onLeft) return 'bl';
+            if (onBottom && onRight) return 'br';
+            if (onTop) return 'top';
+            if (onBottom) return 'bottom';
+            if (onLeft) return 'left';
+            if (onRight) return 'right';
+            return null;
+        }
+
+        function findRectAtPoint(px, py) {
+            for (let i = state.rectangles.length - 1; i >= 0; i--) {
+                if (isPointInRect(px, py, state.rectangles[i])) {
+                    return i;
+                }
+            }
+            return -1;
+        }
+
+        function handleMouseDown(e) {
+            const pos = getMousePos(e);
+
+            // 检查是否点击了矩形
+            const rectIndex = findRectAtPoint(pos.x, pos.y);
+
+            if (rectIndex !== -1) {
+                state.selectedRectIndex = rectIndex;
+                const rect = state.rectangles[rectIndex];
+
+                // 检查是否点击了调整大小的控制点
+                const handle = getResizeHandle(pos.x, pos.y, rect);
+
+                if (handle) {
+                    // 开始调整大小
+                    state.resizing = true;
+                    state.resizeHandle = handle;
+                    state.startX = pos.x;
+                    state.startY = pos.y;
+                } else if (e.shiftKey) {
+                    // 按住Shift删除矩形
+                    state.rectangles.splice(rectIndex, 1);
+                    state.selectedRectIndex = -1;
+                    updateRectangleList();
+                    updateInfo();
+                    redrawCanvas();
+                    return;
+                } else {
+                    // 开始拖动
+                    state.dragging = true;
+                    state.dragOffset = {
+                        x: pos.x - rect.x1,
+                        y: pos.y - rect.y1
+                    };
+                }
+                redrawCanvas();
+            } else {
+                // 开始绘制新矩形
+                state.drawing = true;
+                state.startX = pos.x;
+                state.startY = pos.y;
+                state.selectedRectIndex = -1;
+            }
+        }
+
+        function handleMouseMove(e) {
+            const pos = getMousePos(e);
+
+            if (state.drawing) {
+                // 绘制新矩形
+                state.currentRect = {
+                    x: Math.min(state.startX, pos.x),
+                    y: Math.min(state.startY, pos.y),
+                    width: Math.abs(pos.x - state.startX),
+                    height: Math.abs(pos.y - state.startY)
+                };
+                redrawCanvas();
+            } else if (state.dragging && state.selectedRectIndex !== -1) {
+                // 拖动矩形
+                const rect = state.rectangles[state.selectedRectIndex];
+                const width = rect.x2 - rect.x1;
+                const height = rect.y2 - rect.y1;
+
+                rect.x1 = pos.x - state.dragOffset.x;
+                rect.y1 = pos.y - state.dragOffset.y;
+                rect.x2 = rect.x1 + width;
+                rect.y2 = rect.y1 + height;
+
+                updateRectangleList();
+                redrawCanvas();
+            } else if (state.resizing && state.selectedRectIndex !== -1) {
+                // 调整矩形大小
+                const rect = state.rectangles[state.selectedRectIndex];
+                const dx = pos.x - state.startX;
+                const dy = pos.y - state.startY;
+
+                switch (state.resizeHandle) {
+                    case 'tl':
+                        rect.x1 += dx;
+                        rect.y1 += dy;
+                        break;
+                    case 'tr':
+                        rect.x2 += dx;
+                        rect.y1 += dy;
+                        break;
+                    case 'bl':
+                        rect.x1 += dx;
+                        rect.y2 += dy;
+                        break;
+                    case 'br':
+                        rect.x2 += dx;
+                        rect.y2 += dy;
+                        break;
+                    case 'top':
+                        rect.y1 += dy;
+                        break;
+                    case 'bottom':
+                        rect.y2 += dy;
+                        break;
+                    case 'left':
+                        rect.x1 += dx;
+                        break;
+                    case 'right':
+                        rect.x2 += dx;
+                        break;
+                }
+
+                // 确保坐标顺序正确
+                if (rect.x1 > rect.x2) [rect.x1, rect.x2] = [rect.x2, rect.x1];
+                if (rect.y1 > rect.y2) [rect.y1, rect.y2] = [rect.y2, rect.y1];
+
+                state.startX = pos.x;
+                state.startY = pos.y;
+
+                updateRectangleList();
+                redrawCanvas();
+            } else {
+                // 更新鼠标悬停状态
+                const rectIndex = findRectAtPoint(pos.x, pos.y);
+                const oldHovered = state.hoveredRectIndex;
+                state.hoveredRectIndex = rectIndex;
+
+                // 更新光标样式
+                if (rectIndex !== -1) {
+                    const rect = state.rectangles[rectIndex];
+                    const handle = getResizeHandle(pos.x, pos.y, rect);
+
+                    if (handle) {
+                        const cursors = {
+                            'tl': 'nw-resize', 'tr': 'ne-resize',
+                            'bl': 'sw-resize', 'br': 'se-resize',
+                            'top': 'n-resize', 'bottom': 's-resize',
+                            'left': 'w-resize', 'right': 'e-resize'
+                        };
+                        canvas.style.cursor = cursors[handle];
+                    } else {
+                        canvas.style.cursor = 'move';
+                    }
+                } else {
+                    canvas.style.cursor = 'crosshair';
+                }
+
+                if (oldHovered !== state.hoveredRectIndex) {
+                    redrawCanvas();
+                }
+            }
+        }
+
+        function handleMouseUp(e) {
+            if (state.drawing) {
+                state.drawing = false;
+
+                if (state.currentRect && state.currentRect.width > 5 && state.currentRect.height > 5) {
+                    const rect = {
+                        x1: Math.round(state.currentRect.x),
+                        y1: Math.round(state.currentRect.y),
+                        x2: Math.round(state.currentRect.x + state.currentRect.width),
+                        y2: Math.round(state.currentRect.y + state.currentRect.height)
+                    };
+                    state.rectangles.push(rect);
+                    updateRectangleList();
+                    updateInfo();
+                }
+
+                state.currentRect = null;
+            }
+
+            state.dragging = false;
+            state.resizing = false;
+            state.resizeHandle = null;
+            redrawCanvas();
+        }
+
+        // 重绘画布
+        function redrawCanvas() {
+            if (!currentImage) return;
+
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.drawImage(currentImage, 0, 0);
+
+            // 绘制已保存的矩形
+            state.rectangles.forEach((rect, index) => {
+                const width = rect.x2 - rect.x1;
+                const height = rect.y2 - rect.y1;
+
+                // 判断是否被选中或悬停
+                const isSelected = index === state.selectedRectIndex;
+                const isHovered = index === state.hoveredRectIndex;
+
+                // 设置样式
+                if (isSelected) {
+                    ctx.strokeStyle = 'blue';
+                    ctx.lineWidth = 3;
+                    ctx.fillStyle = 'rgba(0, 0, 255, 0.15)';
+                } else if (isHovered) {
+                    ctx.strokeStyle = 'orange';
+                    ctx.lineWidth = 3;
+                    ctx.fillStyle = 'rgba(255, 165, 0, 0.1)';
+                } else {
+                    ctx.strokeStyle = 'red';
+                    ctx.lineWidth = 3;
+                    ctx.fillStyle = 'rgba(255, 0, 0, 0.1)';
+                }
+
+                ctx.fillRect(rect.x1, rect.y1, width, height);
+                ctx.strokeRect(rect.x1, rect.y1, width, height);
+
+                // 绘制标签
+                ctx.fillStyle = isSelected ? 'blue' : 'red';
+                ctx.font = 'bold 16px Arial';
+                ctx.fillText(`区域 ${index + 1}`, rect.x1 + 5, rect.y1 + 20);
+
+                // 如果被选中，绘制调整大小的控制点
+                if (isSelected) {
+                    drawResizeHandles(rect);
+                }
+            });
+
+            // 绘制正在绘制的矩形
+            if (state.currentRect) {
+                ctx.strokeStyle = 'blue';
+                ctx.lineWidth = 2;
+                ctx.setLineDash([5, 5]);
+                ctx.strokeRect(state.currentRect.x, state.currentRect.y,
+                              state.currentRect.width, state.currentRect.height);
+                ctx.setLineDash([]);
+            }
+        }
+
+        function drawResizeHandles(rect) {
+            const handleSize = 8;
+            const handles = [
+                { x: rect.x1, y: rect.y1 }, // 左上
+                { x: rect.x2, y: rect.y1 }, // 右上
+                { x: rect.x1, y: rect.y2 }, // 左下
+                { x: rect.x2, y: rect.y2 }, // 右下
+                { x: (rect.x1 + rect.x2) / 2, y: rect.y1 }, // 上中
+                { x: (rect.x1 + rect.x2) / 2, y: rect.y2 }, // 下中
+                { x: rect.x1, y: (rect.y1 + rect.y2) / 2 }, // 左中
+                { x: rect.x2, y: (rect.y1 + rect.y2) / 2 }  // 右中
+            ];
+
+            ctx.fillStyle = 'white';
+            ctx.strokeStyle = 'blue';
+            ctx.lineWidth = 2;
+
+            handles.forEach(handle => {
+                ctx.fillRect(handle.x - handleSize / 2, handle.y - handleSize / 2, handleSize, handleSize);
+                ctx.strokeRect(handle.x - handleSize / 2, handle.y - handleSize / 2, handleSize, handleSize);
+            });
+        }
+
+        // 更新矩形列表
+        function updateRectangleList() {
+            const list = document.getElementById('rectangleList');
+            list.innerHTML = '';
+
+            if (state.rectangles.length === 0) {
+                list.innerHTML = '<div style="color: #999; text-align: center; padding: 20px;">暂无标注区域</div>';
+                return;
+            }
+
+            state.rectangles.forEach((rect, index) => {
+                const item = document.createElement('div');
+                item.className = 'rectangle-item';
+                item.innerHTML = `
+                    <div>
+                        <strong>区域 ${index + 1}</strong>
+                        <div class="coords">[${rect.x1}, ${rect.y1}, ${rect.x2}, ${rect.y2}]</div>
+                    </div>
+                    <button class="delete-btn" onclick="deleteRectangle(${index})">删除</button>
+                `;
+                list.appendChild(item);
+            });
+        }
+
+        // 删除矩形
+        function deleteRectangle(index) {
+            state.rectangles.splice(index, 1);
+            updateRectangleList();
+            updateInfo();
+            redrawCanvas();
+        }
+
+        // 清空所有矩形
+        function clearRectangles() {
+            if (state.rectangles.length === 0) return;
+            if (!confirm('确定要清空所有标注区域吗？')) return;
+
+            state.rectangles = [];
+            updateRectangleList();
+            updateInfo();
+            redrawCanvas();
+            showStatus('已清空所有标注区域', false);
+        }
+
+        // 导航功能
+        async function nextFolder() {
+            if (state.currentFolderIndex < state.folders.length - 1) {
+                state.currentFolderIndex++;
+                state.currentPage = 0;
+                state.selectedRectIndex = -1;
+                state.hoveredRectIndex = -1;
+                await loadCurrentImage();
+                updateInfo();
+            }
+        }
+
+        async function prevFolder() {
+            if (state.currentFolderIndex > 0) {
+                state.currentFolderIndex--;
+                state.currentPage = 0;
+                state.selectedRectIndex = -1;
+                state.hoveredRectIndex = -1;
+                await loadCurrentImage();
+                updateInfo();
+            }
+        }
+
+        async function nextPage() {
+            const folder = state.folders[state.currentFolderIndex];
+            // 尝试加载下一页
+            const oldPage = state.currentPage;
+            state.currentPage++;
+
+            // 临时加载看是否存在
+            const response = await fetch(`${API_BASE}/image/${folder.name}/${state.currentPage}`);
+            const data = await response.json();
+
+            if (data.success) {
+                state.selectedRectIndex = -1;
+                state.hoveredRectIndex = -1;
+                await loadCurrentImage();
+                updateInfo();
+            } else {
+                // 恢复原来的页码
+                state.currentPage = oldPage;
+                showStatus('已经是最后一页', true);
+            }
+        }
+
+        async function prevPage() {
+            if (state.currentPage > 0) {
+                state.currentPage--;
+                state.selectedRectIndex = -1;
+                state.hoveredRectIndex = -1;
+                await loadCurrentImage();
+                updateInfo();
+            }
+        }
+
+        // 更新信息显示
+        function updateInfo() {
+            if (state.folders.length === 0) {
+                document.getElementById('folderInfo').textContent = '无可用文件夹';
+                document.getElementById('pageInfo').textContent = '-';
+                document.getElementById('rectCount').textContent = '0';
+                return;
+            }
+
+            const folder = state.folders[state.currentFolderIndex];
+            document.getElementById('folderInfo').textContent =
+                `${folder.name} (${state.currentFolderIndex + 1}/${state.folders.length})`;
+            document.getElementById('pageInfo').textContent =
+                state.currentFilename || `第 ${state.currentPage + 1} 张`;
+            document.getElementById('rectCount').textContent = state.rectangles.length;
+        }
+
+        // 保存标注
+        async function saveAnnotations() {
+            if (state.rectangles.length === 0) {
+                showStatus('没有可保存的标注区域', true);
+                return;
+            }
+
+            const saveBtn = document.getElementById('saveBtn');
+            saveBtn.disabled = true;
+            saveBtn.textContent = '保存中...';
+
+            try {
+                const folder = state.folders[state.currentFolderIndex].name;
+                const response = await fetch(`${API_BASE}/save`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        folder: folder,
+                        page: state.currentPage,
+                        filename: state.currentFilename,
+                        rectangles: state.rectangles
+                    })
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    // 缓存已保存的标注
+                    if (!state.savedAnnotations[folder]) {
+                        state.savedAnnotations[folder] = {};
+                    }
+                    state.savedAnnotations[folder][state.currentPage] = [...state.rectangles];
+
+                    let message = `✅ 已保存 ${state.rectangles.length} 个区域到 ${data.save_path}`;
+                    if (data.marked_image) {
+                        const filenameBase = state.currentFilename.replace('.png', '');
+                        message += `\n📸 已生成标注图片: ${filenameBase}_marked.png`;
+                    }
+                    showStatus(message, false);
+                } else {
+                    showStatus('保存失败: ' + data.error, true);
+                }
+            } catch (error) {
+                showStatus('保存时出错: ' + error.message, true);
+                console.error('Error saving:', error);
+            } finally {
+                saveBtn.disabled = false;
+                saveBtn.textContent = '💾 保存所有区域';
+            }
+        }
+
+        // 显示状态消息
+        function showStatus(message, isError) {
+            const status = document.getElementById('status');
+            status.textContent = message;
+            status.className = 'status show' + (isError ? ' error' : '');
+
+            setTimeout(() => {
+                status.classList.remove('show');
+            }, 3000);
+        }
+
+        // 初始化应用
+        init();
+    </script>
+</body>
+</html>

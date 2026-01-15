@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>截图组件管理器</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            padding: 30px;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #e0e0e0;
+        }
+
+        h1 {
+            color: #333;
+            font-size: 28px;
+        }
+
+        .nav-buttons {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+
+        .btn-primary {
+            background: #007bff;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #0056b3;
+        }
+
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background: #545b62;
+        }
+
+        .btn-success {
+            background: #28a745;
+            color: white;
+            font-size: 16px;
+            padding: 12px 30px;
+            margin-right: 10px;
+        }
+
+        .btn-warning {
+            background: #ffc107;
+            color: #333;
+            font-size: 16px;
+            padding: 12px 30px;
+        }
+
+        .btn-warning:hover {
+            background: #e0a800;
+        }
+
+        .btn-success:hover {
+            background: #218838;
+        }
+
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .folder-info {
+            font-size: 16px;
+            color: #666;
+            font-weight: 500;
+        }
+
+        .groups-container {
+            margin-top: 20px;
+        }
+
+        .group-row {
+            margin-bottom: 30px;
+            padding: 20px;
+            background: #fafafa;
+            border-radius: 8px;
+            border: 1px solid #e0e0e0;
+        }
+
+        .group-title {
+            font-size: 18px;
+            color: #333;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+
+        .images-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 15px;
+        }
+
+        .image-item {
+            position: relative;
+            cursor: pointer;
+            border-radius: 8px;
+            overflow: hidden;
+            transition: transform 0.2s;
+            border: 3px solid transparent;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .image-item:hover {
+            transform: scale(1.05);
+        }
+
+        .image-item.selected {
+            border-color: #007bff;
+            box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.3);
+        }
+
+        .image-item img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        .image-name {
+            margin-top: 8px;
+            color: #333;
+            padding: 5px;
+            font-size: 13px;
+            text-align: center;
+            word-break: break-all;
+        }
+
+        .selection-info {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            display: none;
+        }
+
+        .selection-info.show {
+            display: block;
+        }
+
+        .selection-count {
+            margin-bottom: 15px;
+            font-size: 16px;
+            color: #333;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+
+        .empty {
+            text-align: center;
+            padding: 60px;
+            color: #999;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📸 截图组件管理器</h1>
+            <div class="nav-buttons">
+                <button class="btn btn-secondary" id="prevBtn" onclick="navigateFolder(-1)">
+                    ← 上一个
+                </button>
+                <span class="folder-info" id="folderInfo">-</span>
+                <button class="btn btn-secondary" id="nextBtn" onclick="navigateFolder(1)">
+                    下一个 →
+                </button>
+            </div>
+        </div>
+
+        <div id="groupsContainer" class="groups-container">
+            <div class="loading">加载中...</div>
+        </div>
+
+        <div class="selection-info" id="selectionInfo">
+            <div class="selection-count" id="selectionCount">已选择 0 张图片</div>
+            <div>
+                <button class="btn btn-success" onclick="mergeSelected()">
+                    🔗 合并选中的图片
+                </button>
+                <button class="btn btn-warning" onclick="renumberGroups()">
+                    💾 保存并重新编号
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let folders = [];
+        let currentFolderIndex = 0;
+        let selectedImages = [];
+
+        // 初始化
+        async function init() {
+            await loadFolders();
+            if (folders.length > 0) {
+                loadGroups(folders[currentFolderIndex]);
+            }
+        }
+
+        // 加载文件夹列表
+        async function loadFolders() {
+            const response = await fetch('/api/folders');
+            folders = await response.json();
+            updateNavButtons();
+        }
+
+        // 加载 groups
+        async function loadGroups(folderName) {
+            const container = document.getElementById('groupsContainer');
+            container.innerHTML = '<div class="loading">加载中...</div>';
+
+            document.getElementById('folderInfo').textContent = 
+                `${currentFolderIndex + 1} / ${folders.length}: ${folderName}`;
+
+            const response = await fetch(`/api/groups/${folderName}`);
+            const groups = await response.json();
+
+            selectedImages = [];
+            updateSelectionInfo();
+
+            if (Object.keys(groups).length === 0) {
+                container.innerHTML = '<div class="empty">该文件夹没有 group</div>';
+                return;
+            }
+
+            container.innerHTML = '';
+
+            for (const [groupName, images] of Object.entries(groups)) {
+                const groupRow = document.createElement('div');
+                groupRow.className = 'group-row';
+
+                const title = document.createElement('div');
+                title.className = 'group-title';
+                title.textContent = groupName;
+                groupRow.appendChild(title);
+
+                const grid = document.createElement('div');
+                grid.className = 'images-grid';
+
+                images.forEach(img => {
+                    const item = document.createElement('div');
+                    item.className = 'image-item';
+                    item.onclick = () => toggleSelection(groupName, img.name, item);
+
+                    const imgEl = document.createElement('img');
+                    imgEl.src = img.path;
+                    imgEl.alt = img.name;
+
+                    const nameEl = document.createElement('div');
+                    nameEl.className = 'image-name';
+                    nameEl.textContent = img.name;
+
+                    item.appendChild(imgEl);
+                    item.appendChild(nameEl);
+                    grid.appendChild(item);
+                });
+
+                groupRow.appendChild(grid);
+                container.appendChild(groupRow);
+            }
+        }
+
+        // 切换图片选择状态
+        function toggleSelection(groupName, imageName, element) {
+            const index = selectedImages.findIndex(
+                img => img.group === groupName && img.image === imageName
+            );
+
+            if (index > -1) {
+                selectedImages.splice(index, 1);
+                element.classList.remove('selected');
+            } else {
+                selectedImages.push({ group: groupName, image: imageName });
+                element.classList.add('selected');
+            }
+
+            updateSelectionInfo();
+        }
+
+        // 更新选择信息
+        function updateSelectionInfo() {
+            const info = document.getElementById('selectionInfo');
+            const count = document.getElementById('selectionCount');
+
+            count.textContent = `已选择 ${selectedImages.length} 张图片`;
+
+            if (selectedImages.length > 0) {
+                info.classList.add('show');
+            } else {
+                info.classList.remove('show');
+            }
+        }
+
+        // 导航到其他文件夹
+        function navigateFolder(direction) {
+            const newIndex = currentFolderIndex + direction;
+            if (newIndex >= 0 && newIndex < folders.length) {
+                currentFolderIndex = newIndex;
+                loadGroups(folders[currentFolderIndex]);
+                updateNavButtons();
+            }
+        }
+
+        // 更新导航按钮状态
+        function updateNavButtons() {
+            document.getElementById('prevBtn').disabled = currentFolderIndex === 0;
+            document.getElementById('nextBtn').disabled = currentFolderIndex === folders.length - 1;
+        }
+
+        // 合并选中的图片
+        async function mergeSelected() {
+            if (selectedImages.length === 0) {
+                alert('请先选择要合并的图片');
+                return;
+            }
+
+            const response = await fetch('/api/merge', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    folder: folders[currentFolderIndex],
+                    images: selectedImages
+                })
+            });
+
+            const result = await response.json();
+
+            if (result.success) {
+                alert(result.message);
+                loadGroups(folders[currentFolderIndex]);
+            } else {
+                alert('合并失败: ' + result.error);
+            }
+        }
+
+        // 重新编号所有 group
+        async function renumberGroups() {
+            if (!confirm('确定要重新编号所有 group 吗？这将把所有 group 按顺序重命名为 group1, group2, group3...')) {
+                return;
+            }
+
+            const response = await fetch('/api/renumber', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    folder: folders[currentFolderIndex]
+                })
+            });
+
+            const result = await response.json();
+
+            if (result.success) {
+                alert(result.message);
+                loadGroups(folders[currentFolderIndex]);
+            } else {
+                alert('重新编号失败: ' + result.error);
+            }
+        }
+
+        // 页面加载时初始化
+        init();
+    </script>
+</body>
+</html>
