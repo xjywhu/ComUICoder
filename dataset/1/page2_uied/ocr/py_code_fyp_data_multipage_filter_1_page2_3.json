@@ -1,0 +1,29 @@
+{
+    "img_shape": [
+        92,
+        1170,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "We'd love 2 mins of yourtime to\nget\nfeedback on yOUT visit today This will help improve our website",
+            "column_min": 101,
+            "row_min": 37,
+            "column_max": 859,
+            "row_max": 57,
+            "width": 758,
+            "height": 20
+        },
+        {
+            "id": 1,
+            "content": "GIVE FEEDBACK",
+            "column_min": 913,
+            "row_min": 37,
+            "column_max": 1045,
+            "row_max": 57,
+            "width": 132,
+            "height": 20
+        }
+    ]
+}

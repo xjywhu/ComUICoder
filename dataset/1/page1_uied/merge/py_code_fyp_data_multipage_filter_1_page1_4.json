@@ -1,0 +1,680 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Block",
+            "height": 150,
+            "width": 268,
+            "position": {
+                "column_min": 8,
+                "row_min": 65,
+                "column_max": 276,
+                "row_max": 215
+            },
+            "children": [
+                4,
+                9
+            ]
+        },
+        {
+            "id": 1,
+            "class": "Block",
+            "height": 150,
+            "width": 268,
+            "position": {
+                "column_min": 308,
+                "row_min": 65,
+                "column_max": 576,
+                "row_max": 215
+            },
+            "children": [
+                5,
+                10
+            ]
+        },
+        {
+            "id": 2,
+            "class": "Block",
+            "height": 150,
+            "width": 268,
+            "position": {
+                "column_min": 608,
+                "row_min": 65,
+                "column_max": 876,
+                "row_max": 215
+            },
+            "children": [
+                6,
+                11
+            ]
+        },
+        {
+            "id": 3,
+            "class": "Block",
+            "height": 150,
+            "width": 268,
+            "position": {
+                "column_min": 908,
+                "row_min": 65,
+                "column_max": 1176,
+                "row_max": 215
+            },
+            "children": [
+                7,
+                12
+            ]
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 47,
+            "width": 93,
+            "position": {
+                "column_min": 9,
+                "row_min": 167,
+                "column_max": 102,
+                "row_max": 214
+            },
+            "children": [
+                9
+            ],
+            "parent": 0
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 47,
+            "width": 94,
+            "position": {
+                "column_min": 309,
+                "row_min": 167,
+                "column_max": 403,
+                "row_max": 214
+            },
+            "children": [
+                10
+            ],
+            "parent": 1
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 47,
+            "width": 92,
+            "position": {
+                "column_min": 609,
+                "row_min": 167,
+                "column_max": 701,
+                "row_max": 214
+            },
+            "children": [
+                11
+            ],
+            "parent": 2
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 47,
+            "width": 92,
+            "position": {
+                "column_min": 909,
+                "row_min": 167,
+                "column_max": 1001,
+                "row_max": 214
+            },
+            "children": [
+                12
+            ],
+            "parent": 3
+        }
+    ],
+    "texts": [
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 36,
+            "width": 180,
+            "position": {
+                "column_min": 21,
+                "row_min": 11,
+                "column_max": 201,
+                "row_max": 47
+            },
+            "text_content": "Listen back"
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 18,
+            "width": 64,
+            "position": {
+                "column_min": 21,
+                "row_min": 183,
+                "column_max": 85,
+                "row_max": 201
+            },
+            "text_content": "\"\n104",
+            "parent": 4
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 18,
+            "width": 64,
+            "position": {
+                "column_min": 321,
+                "row_min": 183,
+                "column_max": 385,
+                "row_max": 201
+            },
+            "text_content": "I  38m",
+            "parent": 5
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 16,
+            "width": 32,
+            "position": {
+                "column_min": 651,
+                "row_min": 185,
+                "column_max": 683,
+                "row_max": 201
+            },
+            "text_content": "12m",
+            "parent": 6
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 20,
+            "width": 62,
+            "position": {
+                "column_min": 921,
+                "row_min": 183,
+                "column_max": 983,
+                "row_max": 203
+            },
+            "text_content": "\" I5m",
+            "parent": 7
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 89,
+            "width": 194,
+            "position": {
+                "column_min": 6,
+                "row_min": 232,
+                "column_max": 200,
+                "row_max": 321
+            },
+            "text_content": "Nightlife Foreign\nCorrespondent\nPakistan"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 60,
+            "width": 238,
+            "position": {
+                "column_min": 304,
+                "row_min": 230,
+                "column_max": 542,
+                "row_max": 290
+            },
+            "text_content": "History of Christmas\nTraditions"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 58,
+            "width": 228,
+            "position": {
+                "column_min": 606,
+                "row_min": 232,
+                "column_max": 834,
+                "row_max": 290
+            },
+            "text_content": "Nightlife Economics\nwith lan Verrender"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 90,
+            "width": 236,
+            "position": {
+                "column_min": 906,
+                "row_min": 232,
+                "column_max": 1142,
+                "row_max": 322
+            },
+            "text_content": "Nightlife Food\nSurviving Christmas\nLunch"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 136,
+            "width": 268,
+            "position": {
+                "column_min": 309,
+                "row_min": 307,
+                "column_max": 577,
+                "row_max": 443
+            },
+            "text_content": "From Yule Logto Mistletoe Christmas\nCarols to Hanging Stockings, Christmas\nhas\nlong history oftraditions. Where\ndid they come from, and what are some\nOfyour unique traditions during\nChristmas?"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 88,
+            "width": 256,
+            "position": {
+                "column_min": 607,
+                "row_min": 307,
+                "column_max": 863,
+                "row_max": 395
+            },
+            "text_content": "lan Verrender ABC5 Business and\nFinance Editor joined Nic Healey on\nNightlife to discuss the latest in\neconomic; business and fnance news"
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 88,
+            "width": 258,
+            "position": {
+                "column_min": 7,
+                "row_min": 339,
+                "column_max": 265,
+                "row_max": 427
+            },
+            "text_content": "Christmas is different in many other\nCountries ofthe world.How do\nChristians livingin Pakistan celebrate\n»√?"
+        },
+        {
+            "id": 20,
+            "class": "Text",
+            "height": 114,
+            "width": 268,
+            "position": {
+                "column_min": 907,
+                "row_min": 339,
+                "column_max": 1175,
+                "row_max": 453
+            },
+            "text_content": "Santa Clausisnt the only person\nfeeling the pressure tonight with many\npeople working long hours to prepare\ndelicious Christmas lunch for\nlarge\ngathering offamily and friends°£"
+        },
+        {
+            "id": 21,
+            "class": "Text",
+            "height": 36,
+            "width": 202,
+            "position": {
+                "column_min": 609,
+                "row_min": 409,
+                "column_max": 811,
+                "row_max": 445
+            },
+            "text_content": "ABC RADIO SYDNEY\nECONOMICS AND FINANCE\nBUSINES5"
+        },
+        {
+            "id": 22,
+            "class": "Text",
+            "height": 16,
+            "width": 120,
+            "position": {
+                "column_min": 9,
+                "row_min": 441,
+                "column_max": 129,
+                "row_max": 457
+            },
+            "text_content": "ABC RADIO SYDNEY"
+        },
+        {
+            "id": 23,
+            "class": "Text",
+            "height": 14,
+            "width": 102,
+            "position": {
+                "column_min": 149,
+                "row_min": 443,
+                "column_max": 251,
+                "row_max": 457
+            },
+            "text_content": "WORLD POLITIC5"
+        },
+        {
+            "id": 24,
+            "class": "Text",
+            "height": 16,
+            "width": 120,
+            "position": {
+                "column_min": 309,
+                "row_min": 457,
+                "column_max": 429,
+                "row_max": 473
+            },
+            "text_content": "ABC RADIO SYDNEY"
+        },
+        {
+            "id": 25,
+            "class": "Text",
+            "height": 14,
+            "width": 74,
+            "position": {
+                "column_min": 449,
+                "row_min": 459,
+                "column_max": 523,
+                "row_max": 473
+            },
+            "text_content": "CHRISTMA5"
+        },
+        {
+            "id": 26,
+            "class": "Text",
+            "height": 16,
+            "width": 120,
+            "position": {
+                "column_min": 909,
+                "row_min": 465,
+                "column_max": 1029,
+                "row_max": 481
+            },
+            "text_content": "ABC RADIO SYDNEY"
+        },
+        {
+            "id": 27,
+            "class": "Text",
+            "height": 16,
+            "width": 110,
+            "position": {
+                "column_min": 1049,
+                "row_min": 465,
+                "column_max": 1159,
+                "row_max": 481
+            },
+            "text_content": "CHRISTMAS FOOD"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": 8,
+            "bottom": 13,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 14
+        },
+        "1": {
+            "top": null,
+            "bottom": 14,
+            "left": 0,
+            "right": 2,
+            "top_left": 8,
+            "top_right": null,
+            "bottom_left": 13,
+            "bottom_right": 15
+        },
+        "2": {
+            "top": null,
+            "bottom": 15,
+            "left": 1,
+            "right": 3,
+            "top_left": 8,
+            "top_right": null,
+            "bottom_left": 14,
+            "bottom_right": 16
+        },
+        "3": {
+            "top": null,
+            "bottom": 16,
+            "left": 2,
+            "right": null,
+            "top_left": 8,
+            "top_right": null,
+            "bottom_left": 15,
+            "bottom_right": null
+        },
+        "4": {
+            "top": 8,
+            "bottom": 13,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 23
+        },
+        "5": {
+            "top": null,
+            "bottom": 14,
+            "left": 0,
+            "right": 2,
+            "top_left": 8,
+            "top_right": null,
+            "bottom_left": 13,
+            "bottom_right": 25
+        },
+        "6": {
+            "top": null,
+            "bottom": 15,
+            "left": 1,
+            "right": 3,
+            "top_left": 8,
+            "top_right": null,
+            "bottom_left": 14,
+            "bottom_right": 16
+        },
+        "7": {
+            "top": null,
+            "bottom": 16,
+            "left": 2,
+            "right": null,
+            "top_left": 8,
+            "top_right": null,
+            "bottom_left": 15,
+            "bottom_right": 27
+        },
+        "8": {
+            "top": null,
+            "bottom": 0,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 10
+        },
+        "9": {
+            "top": 8,
+            "bottom": 13,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 23
+        },
+        "10": {
+            "top": null,
+            "bottom": 14,
+            "left": 0,
+            "right": 2,
+            "top_left": 8,
+            "top_right": null,
+            "bottom_left": 13,
+            "bottom_right": 25
+        },
+        "11": {
+            "top": null,
+            "bottom": 15,
+            "left": 1,
+            "right": 3,
+            "top_left": 8,
+            "top_right": null,
+            "bottom_left": 14,
+            "bottom_right": 16
+        },
+        "12": {
+            "top": null,
+            "bottom": 16,
+            "left": 2,
+            "right": null,
+            "top_left": 8,
+            "top_right": null,
+            "bottom_left": 15,
+            "bottom_right": 27
+        },
+        "13": {
+            "top": 0,
+            "bottom": 19,
+            "left": null,
+            "right": 14,
+            "top_left": null,
+            "top_right": 10,
+            "bottom_left": null,
+            "bottom_right": 24
+        },
+        "14": {
+            "top": 1,
+            "bottom": 17,
+            "left": 13,
+            "right": 15,
+            "top_left": 0,
+            "top_right": 6,
+            "bottom_left": 23,
+            "bottom_right": 18
+        },
+        "15": {
+            "top": 2,
+            "bottom": 18,
+            "left": 14,
+            "right": 16,
+            "top_left": 1,
+            "top_right": 12,
+            "bottom_left": 17,
+            "bottom_right": 26
+        },
+        "16": {
+            "top": 3,
+            "bottom": 20,
+            "left": 18,
+            "right": null,
+            "top_left": 2,
+            "top_right": null,
+            "bottom_left": 21,
+            "bottom_right": null
+        },
+        "17": {
+            "top": 14,
+            "bottom": 24,
+            "left": 19,
+            "right": 18,
+            "top_left": 0,
+            "top_right": 6,
+            "bottom_left": null,
+            "bottom_right": 26
+        },
+        "18": {
+            "top": 15,
+            "bottom": 21,
+            "left": 17,
+            "right": 16,
+            "top_left": 14,
+            "top_right": 12,
+            "bottom_left": 25,
+            "bottom_right": 26
+        },
+        "19": {
+            "top": 13,
+            "bottom": 22,
+            "left": null,
+            "right": 17,
+            "top_left": null,
+            "top_right": 10,
+            "bottom_left": null,
+            "bottom_right": 24
+        },
+        "20": {
+            "top": 16,
+            "bottom": 26,
+            "left": 18,
+            "right": null,
+            "top_left": 15,
+            "top_right": null,
+            "bottom_left": 25,
+            "bottom_right": null
+        },
+        "21": {
+            "top": 18,
+            "bottom": null,
+            "left": 17,
+            "right": 20,
+            "top_left": 14,
+            "top_right": 12,
+            "bottom_left": 25,
+            "bottom_right": 26
+        },
+        "22": {
+            "top": 19,
+            "bottom": null,
+            "left": null,
+            "right": 23,
+            "top_left": null,
+            "top_right": 10,
+            "bottom_left": null,
+            "bottom_right": 25
+        },
+        "23": {
+            "top": 19,
+            "bottom": null,
+            "left": 22,
+            "right": 17,
+            "top_left": 9,
+            "top_right": 14,
+            "bottom_left": null,
+            "bottom_right": 25
+        },
+        "24": {
+            "top": 17,
+            "bottom": null,
+            "left": 23,
+            "right": 25,
+            "top_left": 19,
+            "top_right": 21,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "25": {
+            "top": 17,
+            "bottom": null,
+            "left": 24,
+            "right": 26,
+            "top_left": 23,
+            "top_right": 21,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "26": {
+            "top": 20,
+            "bottom": null,
+            "left": 25,
+            "right": 27,
+            "top_left": 18,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "27": {
+            "top": 20,
+            "bottom": null,
+            "left": 26,
+            "right": null,
+            "top_left": 12,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

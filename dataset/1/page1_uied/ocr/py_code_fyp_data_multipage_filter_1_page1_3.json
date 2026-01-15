@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        544,
+        1191,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "59m",
+            "column_min": 957,
+            "row_min": 101,
+            "column_max": 991,
+            "row_max": 115,
+            "width": 34,
+            "height": 14
+        },
+        {
+            "id": 1,
+            "content": "White Christmas in\nTasmaniaasheat\nclimbsin other states",
+            "column_min": 12,
+            "row_min": 148,
+            "column_max": 258,
+            "row_max": 238,
+            "width": 246,
+            "height": 90
+        },
+        {
+            "id": 2,
+            "content": "'We pushit to the max:\nSheready toaddto\nSydney to Hobart\nhistory",
+            "column_min": 310,
+            "row_min": 147,
+            "column_max": 572,
+            "row_max": 274,
+            "width": 262,
+            "height": 127
+        },
+        {
+            "id": 3,
+            "content": "Festive 'Friendsmas'\ncelebrations combat\nloneliness; social\nisolation",
+            "column_min": 611,
+            "row_min": 148,
+            "column_max": 847,
+            "row_max": 270,
+            "width": 236,
+            "height": 122
+        },
+        {
+            "id": 4,
+            "content": "The Mighty Challenge\nTest yOUr knowledge ofallthings\nobscure and specifc with the 1009\noriginal, custom-built Mighty\nChallengel",
+            "column_min": 911,
+            "row_min": 144,
+            "column_max": 1163,
+            "row_max": 281,
+            "width": 252,
+            "height": 137
+        },
+        {
+            "id": 5,
+            "content": "Snow has arrived in the island state on\nChristmas morning\u3002 but hotter\nconditions are expected around the\ncountryincluding\nsCorcherinthe\nWeSt",
+            "column_min": 15,
+            "row_min": 255,
+            "column_max": 277,
+            "row_max": 367,
+            "width": 262,
+            "height": 112
+        },
+        {
+            "id": 6,
+            "content": "Afellowship of sailors willembark on\nShe's 23rd Sydney to Hobart campaign\nAs they dothey willhonour one ofthe\nmost resilient boats in the race's history\nand remember late owner Peter\nRodgers",
+            "column_min": 313,
+            "row_min": 287,
+            "column_max": 585,
+            "row_max": 425,
+            "width": 272,
+            "height": 138
+        },
+        {
+            "id": 7,
+            "content": "Despite our screens being filled with\nimages of happy families celebrating\nChristmas  some feelthe festive season\ni5 lonelier than ever",
+            "column_min": 613,
+            "row_min": 285,
+            "column_max": 883,
+            "row_max": 375,
+            "width": 270,
+            "height": 90
+        },
+        {
+            "id": 8,
+            "content": "Wed ABC RADIO SYDNEY",
+            "column_min": 913,
+            "row_min": 295,
+            "column_max": 1083,
+            "row_max": 309,
+            "width": 170,
+            "height": 14
+        },
+        {
+            "id": 9,
+            "content": "IOha90\nby Gian De Poloni,Scout Wallen,\nABC NEWIS\nWEATHER\nRebecca Triggerandkelsey Reid",
+            "column_min": 15,
+            "row_min": 383,
+            "column_max": 231,
+            "row_max": 439,
+            "width": 216,
+            "height": 56
+        },
+        {
+            "id": 10,
+            "content": "21h a90\nby Gemma Ferguson\nABC NEWS",
+            "column_min": 615,
+            "row_min": 391,
+            "column_max": 751,
+            "row_max": 428,
+            "width": 136,
+            "height": 37
+        },
+        {
+            "id": 11,
+            "content": "FRIENDSHIP",
+            "column_min": 769,
+            "row_min": 391,
+            "column_max": 843,
+            "row_max": 405,
+            "width": 74,
+            "height": 14
+        },
+        {
+            "id": 12,
+            "content": "IOha90\nby Andrew McGarry\nABC NEWIS",
+            "column_min": 313,
+            "row_min": 439,
+            "column_max": 451,
+            "row_max": 475,
+            "width": 138,
+            "height": 36
+        },
+        {
+            "id": 13,
+            "content": "SAILING",
+            "column_min": 469,
+            "row_min": 437,
+            "column_max": 519,
+            "row_max": 453,
+            "width": 50,
+            "height": 16
+        },
+        {
+            "id": 14,
+            "content": "More from Sydney",
+            "column_min": 984,
+            "row_min": 502,
+            "column_max": 1156,
+            "row_max": 526,
+            "width": 172,
+            "height": 24
+        }
+    ]
+}

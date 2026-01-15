@@ -1,0 +1,59 @@
+{
+    "img_shape": [
+        268,
+        1187,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "ABC Radio SYDNEY",
+            "column_min": 25,
+            "row_min": 15,
+            "column_max": 309,
+            "row_max": 51,
+            "width": 284,
+            "height": 36
+        },
+        {
+            "id": 1,
+            "content": "LIVE\nOvernights\nwith MichaelPavlich\n20OAMto 6.OOAM",
+            "column_min": 156,
+            "row_min": 95,
+            "column_max": 299,
+            "row_max": 185,
+            "width": 143,
+            "height": 90
+        },
+        {
+            "id": 2,
+            "content": "PLAY LIVE RADIO",
+            "column_min": 997,
+            "row_min": 97,
+            "column_max": 1129,
+            "row_max": 115,
+            "width": 132,
+            "height": 18
+        },
+        {
+            "id": 3,
+            "content": "SCHEDULE",
+            "column_min": 1003,
+            "row_min": 160,
+            "column_max": 1089,
+            "row_max": 178,
+            "width": 86,
+            "height": 18
+        },
+        {
+            "id": 4,
+            "content": "Listen onthe goon ABC listenapp [",
+            "column_min": 899,
+            "row_min": 241,
+            "column_max": 1183,
+            "row_max": 261,
+            "width": 284,
+            "height": 20
+        }
+    ]
+}

@@ -1,0 +1,403 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 2,
+                "row_min": 57,
+                "column_max": 270,
+                "row_max": 208
+            }
+        },
+        {
+            "id": 1,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 602,
+                "row_min": 57,
+                "column_max": 870,
+                "row_max": 208
+            }
+        },
+        {
+            "id": 2,
+            "class": "Block",
+            "height": 151,
+            "width": 257,
+            "position": {
+                "column_min": 902,
+                "row_min": 57,
+                "column_max": 1159,
+                "row_max": 208
+            }
+        },
+        {
+            "id": 3,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 302,
+                "row_min": 57,
+                "column_max": 570,
+                "row_max": 208
+            },
+            "children": [
+                4,
+                6
+            ]
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 47,
+            "width": 85,
+            "position": {
+                "column_min": 303,
+                "row_min": 160,
+                "column_max": 388,
+                "row_max": 207
+            },
+            "children": [
+                6
+            ],
+            "parent": 3
+        }
+    ],
+    "texts": [
+        {
+            "id": 5,
+            "class": "Text",
+            "height": 36,
+            "width": 140,
+            "position": {
+                "column_min": 17,
+                "row_min": 3,
+                "column_max": 157,
+                "row_max": 39
+            },
+            "text_content": "Features"
+        },
+        {
+            "id": 6,
+            "class": "Text",
+            "height": 16,
+            "width": 26,
+            "position": {
+                "column_min": 345,
+                "row_min": 177,
+                "column_max": 371,
+                "row_max": 193
+            },
+            "text_content": "2m",
+            "parent": 4
+        },
+        {
+            "id": 7,
+            "class": "Text",
+            "height": 174,
+            "width": 270,
+            "position": {
+                "column_min": 0,
+                "row_min": 223,
+                "column_max": 270,
+                "row_max": 397
+            },
+            "text_content": "Former rough sleeper's\ncoffee sacrifice planted\nSeeds\nhis charity\nGraham Lee is behind\nCharity raising\nthousands of dollars through people\nsacrifcing one takeaway Coffee\nWeek\nfor"
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 200,
+            "width": 268,
+            "position": {
+                "column_min": 299,
+                "row_min": 219,
+                "column_max": 567,
+                "row_max": 419
+            },
+            "text_content": "The\nbudding musicians\n'staying proud' through\nIndigenous rap music\nWNith sounds recordedin a makeshift\nstudio, this group of high school\nstudents produced music about First\nNations Culture¡£"
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 92,
+            "width": 230,
+            "position": {
+                "column_min": 600,
+                "row_min": 224,
+                "column_max": 830,
+                "row_max": 316
+            },
+            "text_content": "Rare orchidsand\nWattles thriveinold\ncemeteries"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 124,
+            "width": 211,
+            "position": {
+                "column_min": 899,
+                "row_min": 224,
+                "column_max": 1110,
+                "row_max": 348
+            },
+            "text_content": "Art breaks taboos\naboutend oflife\npalliative careand\ndeath"
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 112,
+            "width": 260,
+            "position": {
+                "column_min": 603,
+                "row_min": 331,
+                "column_max": 863,
+                "row_max": 443
+            },
+            "text_content": "Australian cemeteries have become\nSafe haven for fora and fauna affected\nby urban expansion including\n¡¸re\norchid unique to\nsmall patch ofthe\nNSIN Mid North Coast"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 90,
+            "width": 256,
+            "position": {
+                "column_min": 901,
+                "row_min": 363,
+                "column_max": 1157,
+                "row_max": 453
+            },
+            "text_content": "Inits ffth year Palliative Care\nAustralias Live Well Die Well national\nart prize continues to spark importan\nConversations about dying¡£"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 36,
+            "width": 224,
+            "position": {
+                "column_min": 3,
+                "row_min": 411,
+                "column_max": 227,
+                "row_max": 447
+            },
+            "text_content": "ABC MID NORTH COAST\nCONMUNITIES\nby Emma Siossian\nREGIONAL"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 36,
+            "width": 246,
+            "position": {
+                "column_min": 301,
+                "row_min": 435,
+                "column_max": 547,
+                "row_max": 471
+            },
+            "text_content": "ABC SOUTH EAST NSW\nMUSIC\nby Floss Adams andlsla Evans\nINDIGENOUS"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 36,
+            "width": 236,
+            "position": {
+                "column_min": 603,
+                "row_min": 459,
+                "column_max": 839,
+                "row_max": 495
+            },
+            "text_content": "ABC MID NORTH COAST\nby Meredith Kirton andEmma Siossian\nPLANTS"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 36,
+            "width": 232,
+            "position": {
+                "column_min": 903,
+                "row_min": 467,
+                "column_max": 1135,
+                "row_max": 503
+            },
+            "text_content": "ABC MID NORTH COAST\nDYING\nby Emma Siossian\nDEATH AND"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": 5,
+            "bottom": 7,
+            "left": null,
+            "right": 3,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 8
+        },
+        "1": {
+            "top": null,
+            "bottom": 9,
+            "left": 3,
+            "right": 2,
+            "top_left": 5,
+            "top_right": null,
+            "bottom_left": 8,
+            "bottom_right": 10
+        },
+        "2": {
+            "top": null,
+            "bottom": 10,
+            "left": 1,
+            "right": null,
+            "top_left": 5,
+            "top_right": null,
+            "bottom_left": 9,
+            "bottom_right": null
+        },
+        "3": {
+            "top": null,
+            "bottom": 8,
+            "left": 0,
+            "right": 1,
+            "top_left": 5,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": 9
+        },
+        "4": {
+            "top": null,
+            "bottom": 8,
+            "left": 0,
+            "right": 1,
+            "top_left": 5,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": 9
+        },
+        "5": {
+            "top": null,
+            "bottom": 0,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 4
+        },
+        "6": {
+            "top": null,
+            "bottom": 8,
+            "left": 0,
+            "right": 1,
+            "top_left": 5,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": 9
+        },
+        "7": {
+            "top": 0,
+            "bottom": 13,
+            "left": null,
+            "right": 8,
+            "top_left": null,
+            "top_right": 4,
+            "bottom_left": null,
+            "bottom_right": 14
+        },
+        "8": {
+            "top": 3,
+            "bottom": 14,
+            "left": 7,
+            "right": 9,
+            "top_left": 0,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 15
+        },
+        "9": {
+            "top": 1,
+            "bottom": 11,
+            "left": 8,
+            "right": 10,
+            "top_left": 3,
+            "top_right": 2,
+            "bottom_left": 14,
+            "bottom_right": 12
+        },
+        "10": {
+            "top": 2,
+            "bottom": 12,
+            "left": 11,
+            "right": null,
+            "top_left": 1,
+            "top_right": null,
+            "bottom_left": 15,
+            "bottom_right": null
+        },
+        "11": {
+            "top": 9,
+            "bottom": 15,
+            "left": 8,
+            "right": 10,
+            "top_left": 3,
+            "top_right": 2,
+            "bottom_left": null,
+            "bottom_right": 16
+        },
+        "12": {
+            "top": 10,
+            "bottom": 16,
+            "left": 11,
+            "right": null,
+            "top_left": 9,
+            "top_right": null,
+            "bottom_left": 15,
+            "bottom_right": null
+        },
+        "13": {
+            "top": 7,
+            "bottom": null,
+            "left": null,
+            "right": 8,
+            "top_left": null,
+            "top_right": 4,
+            "bottom_left": null,
+            "bottom_right": 15
+        },
+        "14": {
+            "top": 8,
+            "bottom": null,
+            "left": 13,
+            "right": 11,
+            "top_left": 7,
+            "top_right": 9,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "15": {
+            "top": 11,
+            "bottom": null,
+            "left": 14,
+            "right": 16,
+            "top_left": 8,
+            "top_right": 12,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "16": {
+            "top": 12,
+            "bottom": null,
+            "left": 15,
+            "right": null,
+            "top_left": 11,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

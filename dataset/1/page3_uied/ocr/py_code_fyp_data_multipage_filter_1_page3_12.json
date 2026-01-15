@@ -1,0 +1,59 @@
+{
+    "img_shape": [
+        310,
+        1185,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Other ways to listen",
+            "column_min": 11,
+            "row_min": 7,
+            "column_max": 315,
+            "row_max": 47,
+            "width": 304,
+            "height": 40
+        },
+        {
+            "id": 1,
+            "content": "Listen online onthe ABC listen app orOn Airin",
+            "column_min": 12,
+            "row_min": 76,
+            "column_max": 370,
+            "row_max": 100,
+            "width": 358,
+            "height": 24
+        },
+        {
+            "id": 2,
+            "content": "Coffs Harbour 92.3 FN",
+            "column_min": 35,
+            "row_min": 117,
+            "column_max": 207,
+            "row_max": 135,
+            "width": 172,
+            "height": 18
+        },
+        {
+            "id": 3,
+            "content": "Orask your smart speaker to \"play ABC Coffs Coast\"",
+            "column_min": 12,
+            "row_min": 162,
+            "column_max": 412,
+            "row_max": 187,
+            "width": 400,
+            "height": 25
+        },
+        {
+            "id": 4,
+            "content": "Backtotop",
+            "column_min": 1083,
+            "row_min": 267,
+            "column_max": 1159,
+            "row_max": 285,
+            "width": 76,
+            "height": 18
+        }
+    ]
+}

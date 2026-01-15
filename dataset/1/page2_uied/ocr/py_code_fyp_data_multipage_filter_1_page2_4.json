@@ -1,0 +1,219 @@
+{
+    "img_shape": [
+        572,
+        1187,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Listen back",
+            "column_min": 25,
+            "row_min": 3,
+            "column_max": 205,
+            "row_max": 39,
+            "width": 180,
+            "height": 36
+        },
+        {
+            "id": 1,
+            "content": "I 4m 585",
+            "column_min": 23,
+            "row_min": 175,
+            "column_max": 111,
+            "row_max": 193,
+            "width": 88,
+            "height": 18
+        },
+        {
+            "id": 2,
+            "content": "I\n6m",
+            "column_min": 325,
+            "row_min": 177,
+            "column_max": 381,
+            "row_max": 193,
+            "width": 56,
+            "height": 16
+        },
+        {
+            "id": 3,
+            "content": "I 11m",
+            "column_min": 623,
+            "row_min": 175,
+            "column_max": 687,
+            "row_max": 193,
+            "width": 64,
+            "height": 18
+        },
+        {
+            "id": 4,
+            "content": "I'  7m",
+            "column_min": 925,
+            "row_min": 177,
+            "column_max": 981,
+            "row_max": 193,
+            "width": 56,
+            "height": 16
+        },
+        {
+            "id": 5,
+            "content": "ABC Iawarra Local\nNews",
+            "column_min": 12,
+            "row_min": 226,
+            "column_max": 232,
+            "row_max": 284,
+            "width": 220,
+            "height": 58
+        },
+        {
+            "id": 6,
+            "content": "Tips for makingan\nAussie Christmas\nwreath",
+            "column_min": 310,
+            "row_min": 224,
+            "column_max": 518,
+            "row_max": 316,
+            "width": 208,
+            "height": 92
+        },
+        {
+            "id": 7,
+            "content": "UFC champ, cooking\nstarand locallegend\nAlex Volkanovskiis\nready to rumble",
+            "column_min": 609,
+            "row_min": 221,
+            "column_max": 852,
+            "row_max": 350,
+            "width": 243,
+            "height": 129
+        },
+        {
+            "id": 8,
+            "content": "Artistic roller skatingis\nmorethanjusta sport\nTo encourage members of Wollongongs\nArtistic Roller Skating Sport, Aussie\ninternational champions rolled out to\nperform\u3002",
+            "column_min": 911,
+            "row_min": 226,
+            "column_max": 1183,
+            "row_max": 389,
+            "width": 272,
+            "height": 163
+        },
+        {
+            "id": 9,
+            "content": "Localnews\u3002 updated weekdays at\nG.3Oam",
+            "column_min": 13,
+            "row_min": 299,
+            "column_max": 239,
+            "row_max": 339,
+            "width": 226,
+            "height": 40
+        },
+        {
+            "id": 10,
+            "content": "From Billy buttons to banxsia blossoms\nnative flowers look\nsplendid onan\nAussie Christmas wreath_",
+            "column_min": 313,
+            "row_min": 333,
+            "column_max": 577,
+            "row_max": 395,
+            "width": 264,
+            "height": 62
+        },
+        {
+            "id": 11,
+            "content": "LISTEN",
+            "column_min": 11,
+            "row_min": 355,
+            "column_max": 57,
+            "row_max": 371,
+            "width": 46,
+            "height": 16
+        },
+        {
+            "id": 12,
+            "content": "With\nVolkanovski begins his long\nfght coming upin February Alex\npreparation\nbult 255UTeS +ans this isnt\nhis last hurrah",
+            "column_min": 611,
+            "row_min": 363,
+            "column_max": 879,
+            "row_max": 451,
+            "width": 268,
+            "height": 88
+        },
+        {
+            "id": 13,
+            "content": "LISTEN",
+            "column_min": 911,
+            "row_min": 403,
+            "column_max": 957,
+            "row_max": 419,
+            "width": 46,
+            "height": 16
+        },
+        {
+            "id": 14,
+            "content": "SPORT",
+            "column_min": 975,
+            "row_min": 403,
+            "column_max": 1017,
+            "row_max": 417,
+            "width": 42,
+            "height": 14
+        },
+        {
+            "id": 15,
+            "content": "by Sarah Moss",
+            "column_min": 1035,
+            "row_min": 403,
+            "column_max": 1127,
+            "row_max": 419,
+            "width": 92,
+            "height": 16
+        },
+        {
+            "id": 16,
+            "content": "ABC ILLAWARRA\nby Sarah Moss",
+            "column_min": 313,
+            "row_min": 411,
+            "column_max": 413,
+            "row_max": 447,
+            "width": 100,
+            "height": 36
+        },
+        {
+            "id": 17,
+            "content": "CHRISTMAS",
+            "column_min": 431,
+            "row_min": 411,
+            "column_max": 505,
+            "row_max": 427,
+            "width": 74,
+            "height": 16
+        },
+        {
+            "id": 18,
+            "content": "LISTEN",
+            "column_min": 611,
+            "row_min": 467,
+            "column_max": 657,
+            "row_max": 483,
+            "width": 46,
+            "height": 16
+        },
+        {
+            "id": 19,
+            "content": "MIXED MARTIAL ARTS",
+            "column_min": 675,
+            "row_min": 467,
+            "column_max": 807,
+            "row_max": 481,
+            "width": 132,
+            "height": 14
+        },
+        {
+            "id": 20,
+            "content": "Radio producerand presenter Stefan\nPosthuma-Grbic",
+            "column_min": 613,
+            "row_min": 507,
+            "column_max": 843,
+            "row_max": 541,
+            "width": 230,
+            "height": 34
+        }
+    ]
+}

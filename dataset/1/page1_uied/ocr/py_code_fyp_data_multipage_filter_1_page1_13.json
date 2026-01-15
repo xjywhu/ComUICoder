@@ -1,0 +1,59 @@
+{
+    "img_shape": [
+        323,
+        1201,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Other ways to listen",
+            "column_min": 13,
+            "row_min": 11,
+            "column_max": 317,
+            "row_max": 53,
+            "width": 304,
+            "height": 42
+        },
+        {
+            "id": 1,
+            "content": "Listen online\nonthe ABC listenapp\non channel 25 on your television, via DABt\nDigital Radio, or On Air",
+            "column_min": 13,
+            "row_min": 79,
+            "column_max": 792,
+            "row_max": 105,
+            "width": 779,
+            "height": 26
+        },
+        {
+            "id": 2,
+            "content": "702 AM",
+            "column_min": 37,
+            "row_min": 121,
+            "column_max": 97,
+            "row_max": 141,
+            "width": 60,
+            "height": 20
+        },
+        {
+            "id": 3,
+            "content": "Orask your smart speaker to \"play ABC Radio Sydney",
+            "column_min": 14,
+            "row_min": 168,
+            "column_max": 422,
+            "row_max": 192,
+            "width": 408,
+            "height": 24
+        },
+        {
+            "id": 4,
+            "content": "Backtotop",
+            "column_min": 1085,
+            "row_min": 273,
+            "column_max": 1161,
+            "row_max": 289,
+            "width": 76,
+            "height": 16
+        }
+    ]
+}

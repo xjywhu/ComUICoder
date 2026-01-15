@@ -1,0 +1,359 @@
+{
+    "img_shape": [
+        492,
+        1875,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "AABC",
+            "column_min": 3,
+            "row_min": 9,
+            "column_max": 143,
+            "row_max": 53,
+            "width": 140,
+            "height": 44
+        },
+        {
+            "id": 1,
+            "content": "SECTIONS",
+            "column_min": 389,
+            "row_min": 31,
+            "column_max": 475,
+            "row_max": 51,
+            "width": 86,
+            "height": 20
+        },
+        {
+            "id": 2,
+            "content": "CONNECT WITH US",
+            "column_min": 775,
+            "row_min": 31,
+            "column_max": 931,
+            "row_max": 51,
+            "width": 156,
+            "height": 20
+        },
+        {
+            "id": 3,
+            "content": "CONTACT Us",
+            "column_min": 1159,
+            "row_min": 31,
+            "column_max": 1265,
+            "row_max": 51,
+            "width": 106,
+            "height": 20
+        },
+        {
+            "id": 4,
+            "content": "GET THE ABC SYDNEY NEWSLETTER",
+            "column_min": 1543,
+            "row_min": 31,
+            "column_max": 1833,
+            "row_max": 51,
+            "width": 290,
+            "height": 20
+        },
+        {
+            "id": 5,
+            "content": "SYDNEY",
+            "column_min": 6,
+            "row_min": 64,
+            "column_max": 100,
+            "row_max": 90,
+            "width": 94,
+            "height": 26
+        },
+        {
+            "id": 6,
+            "content": "HOME",
+            "column_min": 391,
+            "row_min": 73,
+            "column_max": 435,
+            "row_max": 89,
+            "width": 44,
+            "height": 16
+        },
+        {
+            "id": 7,
+            "content": "LISTENING FAQ",
+            "column_min": 567,
+            "row_min": 73,
+            "column_max": 673,
+            "row_max": 89,
+            "width": 106,
+            "height": 16
+        },
+        {
+            "id": 8,
+            "content": "FACEBOOK",
+            "column_min": 811,
+            "row_min": 73,
+            "column_max": 885,
+            "row_max": 89,
+            "width": 74,
+            "height": 16
+        },
+        {
+            "id": 9,
+            "content": "SMS: 0467 922702 (RATES APPLY )",
+            "column_min": 1161,
+            "row_min": 73,
+            "column_max": 1397,
+            "row_max": 91,
+            "width": 236,
+            "height": 18
+        },
+        {
+            "id": 10,
+            "content": "Emailaddress",
+            "column_min": 1545,
+            "row_min": 75,
+            "column_max": 1655,
+            "row_max": 93,
+            "width": 110,
+            "height": 18
+        },
+        {
+            "id": 11,
+            "content": "PROGRAMS",
+            "column_min": 393,
+            "row_min": 107,
+            "column_max": 471,
+            "row_max": 123,
+            "width": 78,
+            "height": 16
+        },
+        {
+            "id": 12,
+            "content": "WEATHER",
+            "column_min": 567,
+            "row_min": 107,
+            "column_max": 635,
+            "row_max": 123,
+            "width": 68,
+            "height": 16
+        },
+        {
+            "id": 13,
+            "content": "INSTAGRAM",
+            "column_min": 809,
+            "row_min": 111,
+            "column_max": 893,
+            "row_max": 127,
+            "width": 84,
+            "height": 16
+        },
+        {
+            "id": 14,
+            "content": "TALKBACK: 1300222 702",
+            "column_min": 1161,
+            "row_min": 107,
+            "column_max": 1331,
+            "row_max": 123,
+            "width": 170,
+            "height": 16
+        },
+        {
+            "id": 15,
+            "content": "Stay informed and entertained with ABC\nAustralia\nAccess live events, news, audio\nand on-demand video streaming from the\nnations most trusted broadcaster",
+            "column_min": 4,
+            "row_min": 113,
+            "column_max": 330,
+            "row_max": 207,
+            "width": 326,
+            "height": 94
+        },
+        {
+            "id": 16,
+            "content": "Enter your emailaddress",
+            "column_min": 1563,
+            "row_min": 121,
+            "column_max": 1757,
+            "row_max": 139,
+            "width": 194,
+            "height": 18
+        },
+        {
+            "id": 17,
+            "content": "LISTEN BACK",
+            "column_min": 391,
+            "row_min": 141,
+            "column_max": 483,
+            "row_max": 157,
+            "width": 92,
+            "height": 16
+        },
+        {
+            "id": 18,
+            "content": "FREQUENCY FINDER",
+            "column_min": 567,
+            "row_min": 141,
+            "column_max": 705,
+            "row_max": 157,
+            "width": 138,
+            "height": 16
+        },
+        {
+            "id": 19,
+            "content": "GENERAL ABC ENQUIRIES: 13 9994",
+            "column_min": 1161,
+            "row_min": 141,
+            "column_max": 1395,
+            "row_max": 157,
+            "width": 234,
+            "height": 16
+        },
+        {
+            "id": 20,
+            "content": "CONTACT Us",
+            "column_min": 393,
+            "row_min": 175,
+            "column_max": 481,
+            "row_max": 191,
+            "width": 88,
+            "height": 16
+        },
+        {
+            "id": 21,
+            "content": "SCHEDULE",
+            "column_min": 567,
+            "row_min": 175,
+            "column_max": 643,
+            "row_max": 191,
+            "width": 76,
+            "height": 16
+        },
+        {
+            "id": 22,
+            "content": "SUBSCRIBE",
+            "column_min": 1665,
+            "row_min": 179,
+            "column_max": 1761,
+            "row_max": 197,
+            "width": 96,
+            "height": 18
+        },
+        {
+            "id": 23,
+            "content": "More from ABC",
+            "column_min": 9,
+            "row_min": 225,
+            "column_max": 143,
+            "row_max": 245,
+            "width": 134,
+            "height": 20
+        },
+        {
+            "id": 24,
+            "content": "Your informationis being handledin accordance witl\nthe ABC Privacy Collection Statemeqt",
+            "column_min": 1545,
+            "row_min": 222,
+            "column_max": 1875,
+            "row_max": 260,
+            "width": 330,
+            "height": 38
+        },
+        {
+            "id": 25,
+            "content": "Weacknowledge Aboriginaland Torres Strait Islander\npeoplesas the First Australians and Traditional\nCustodians ofthe lands Where We live learnand work\u3002",
+            "column_min": 7,
+            "row_min": 271,
+            "column_max": 323,
+            "row_max": 333,
+            "width": 316,
+            "height": 62
+        },
+        {
+            "id": 26,
+            "content": "This site is protected by reCAPTCHA and the Google\nPrivacy Policy and Terms Of Service apply\u3002",
+            "column_min": 1545,
+            "row_min": 274,
+            "column_max": 1869,
+            "row_max": 311,
+            "width": 324,
+            "height": 37
+        },
+        {
+            "id": 27,
+            "content": "Editorial Policies",
+            "column_min": 7,
+            "row_min": 443,
+            "column_max": 117,
+            "row_max": 457,
+            "width": 110,
+            "height": 14
+        },
+        {
+            "id": 28,
+            "content": "Accessibility",
+            "column_min": 144,
+            "row_min": 441,
+            "column_max": 229,
+            "row_max": 459,
+            "width": 85,
+            "height": 18
+        },
+        {
+            "id": 29,
+            "content": "Help",
+            "column_min": 254,
+            "row_min": 442,
+            "column_max": 289,
+            "row_max": 460,
+            "width": 35,
+            "height": 18
+        },
+        {
+            "id": 30,
+            "content": "Contact Us",
+            "column_min": 317,
+            "row_min": 443,
+            "column_max": 389,
+            "row_max": 457,
+            "width": 72,
+            "height": 14
+        },
+        {
+            "id": 31,
+            "content": "About the ABC",
+            "column_min": 417,
+            "row_min": 443,
+            "column_max": 513,
+            "row_max": 457,
+            "width": 96,
+            "height": 14
+        },
+        {
+            "id": 32,
+            "content": "Privacy\nPolicy",
+            "column_min": 540,
+            "row_min": 441,
+            "column_max": 629,
+            "row_max": 459,
+            "width": 89,
+            "height": 18
+        },
+        {
+            "id": 33,
+            "content": "Terms Of Use",
+            "column_min": 657,
+            "row_min": 443,
+            "column_max": 741,
+            "row_max": 457,
+            "width": 84,
+            "height": 14
+        },
+        {
+            "id": 34,
+            "content": "2025A8C",
+            "column_min": 783,
+            "row_min": 443,
+            "column_max": 845,
+            "row_max": 457,
+            "width": 62,
+            "height": 14
+        }
+    ]
+}

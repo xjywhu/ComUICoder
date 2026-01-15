@@ -1,0 +1,59 @@
+{
+    "img_shape": [
+        301,
+        1187,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Other ways to listen",
+            "column_min": 13,
+            "row_min": 3,
+            "column_max": 317,
+            "row_max": 45,
+            "width": 304,
+            "height": 42
+        },
+        {
+            "id": 1,
+            "content": "Listen online\nonthe ABC listenapp Or On Air",
+            "column_min": 13,
+            "row_min": 72,
+            "column_max": 358,
+            "row_max": 96,
+            "width": 345,
+            "height": 24
+        },
+        {
+            "id": 2,
+            "content": "Illawarra 97.3FM\u3002",
+            "column_min": 37,
+            "row_min": 113,
+            "column_max": 167,
+            "row_max": 133,
+            "width": 130,
+            "height": 20
+        },
+        {
+            "id": 3,
+            "content": "Orask your smart speaker to \"play ABC Illawarra\"",
+            "column_min": 14,
+            "row_min": 160,
+            "column_max": 390,
+            "row_max": 184,
+            "width": 376,
+            "height": 24
+        },
+        {
+            "id": 4,
+            "content": "Backtotop",
+            "column_min": 1085,
+            "row_min": 265,
+            "column_max": 1161,
+            "row_max": 281,
+            "width": 76,
+            "height": 16
+        }
+    ]
+}

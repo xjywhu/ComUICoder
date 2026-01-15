@@ -1,0 +1,97 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 48,
+            "width": 48,
+            "position": {
+                "column_min": 46,
+                "row_min": 128,
+                "column_max": 94,
+                "row_max": 176
+            }
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 48,
+            "width": 48,
+            "position": {
+                "column_min": 110,
+                "row_min": 128,
+                "column_max": 158,
+                "row_max": 176
+            }
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 48,
+            "width": 48,
+            "position": {
+                "column_min": 174,
+                "row_min": 128,
+                "column_max": 222,
+                "row_max": 176
+            }
+        }
+    ],
+    "texts": [
+        {
+            "id": 3,
+            "class": "Text",
+            "height": 67,
+            "width": 617,
+            "position": {
+                "column_min": 43,
+                "row_min": 39,
+                "column_max": 660,
+                "row_max": 106
+            },
+            "text_content": "Connect with ABC Coffs Coast\nDiscover more on Facebook. Text us on 0467 922684 (rates apply) or callus on 1300 222923."
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": 3,
+            "bottom": null,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "1": {
+            "top": 3,
+            "bottom": null,
+            "left": 0,
+            "right": 2,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "2": {
+            "top": 3,
+            "bottom": null,
+            "left": 1,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "3": {
+            "top": null,
+            "bottom": 0,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "img_shape": [
+        610,
+        1177,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "National NeWs",
+            "column_min": 18,
+            "row_min": 6,
+            "column_max": 242,
+            "row_max": 38,
+            "width": 224,
+            "height": 32
+        },
+        {
+            "id": 1,
+            "content": "145",
+            "column_min": 645,
+            "row_min": 179,
+            "column_max": 673,
+            "row_max": 193,
+            "width": 28,
+            "height": 14
+        },
+        {
+            "id": 2,
+            "content": "105",
+            "column_min": 945,
+            "row_min": 179,
+            "column_max": 973,
+            "row_max": 193,
+            "width": 28,
+            "height": 14
+        },
+        {
+            "id": 3,
+            "content": "King pays homage to\nacts of 'spontaneous\nbravery'in Christmas\nmessage",
+            "column_min": 0,
+            "row_min": 223,
+            "column_max": 244,
+            "row_max": 352,
+            "width": 244,
+            "height": 129
+        },
+        {
+            "id": 4,
+            "content": "Pope Leoasks people to\nthinkabout Gaza\nduring Christmas Day\nspeech",
+            "column_min": 298,
+            "row_min": 225,
+            "column_max": 568,
+            "row_max": 353,
+            "width": 270,
+            "height": 128
+        },
+        {
+            "id": 5,
+            "content": "Crane\ncollapse;\nthousands without\npowerafter Christmas\nDay stormsin SEQ",
+            "column_min": 598,
+            "row_min": 221,
+            "column_max": 858,
+            "row_max": 353,
+            "width": 260,
+            "height": 132
+        },
+        {
+            "id": 6,
+            "content": "Boddington locals\nurgedto 'leave\nimmediately'as\nbushfire fast\napproaching",
+            "column_min": 898,
+            "row_min": 226,
+            "column_max": 1110,
+            "row_max": 384,
+            "width": 212,
+            "height": 158
+        },
+        {
+            "id": 7,
+            "content": "King Charles II pays homage to those\nWho confronted terrorat the Bondi\nBeach massacre, acknowledging their\nspontaneous acts of bravery\"in his\nannual Christmas message",
+            "column_min": 1,
+            "row_min": 364,
+            "column_max": 259,
+            "row_max": 479,
+            "width": 258,
+            "height": 115
+        },
+        {
+            "id": 8,
+            "content": "During his Urbiet Orbi (city and world)\nspeechon Christmas\nPope Leo XIV\nhas Called foran end to all wars and for\npeople to think about the conditions in\nGaza\nDay",
+            "column_min": 303,
+            "row_min": 365,
+            "column_max": 569,
+            "row_max": 477,
+            "width": 266,
+            "height": 112
+        },
+        {
+            "id": 9,
+            "content": "Storms hit south-east Queensland on\nChristmas Day afternoon, knocking out\npower to thousands of homes",
+            "column_min": 603,
+            "row_min": 365,
+            "column_max": 867,
+            "row_max": 429,
+            "width": 264,
+            "height": 64
+        },
+        {
+            "id": 10,
+            "content": "Several bushfires burning northand\nSouth of Perth have caused major\npower blackouts, including the entire\ntown of Margaret River",
+            "column_min": 903,
+            "row_min": 397,
+            "column_max": 1155,
+            "row_max": 488,
+            "width": 252,
+            "height": 91
+        },
+        {
+            "id": 11,
+            "content": "7hag0\n(ASSEMBLING)\nABC NEWS\nby Lottie Twyford\nCONSTRUCTION",
+            "column_min": 601,
+            "row_min": 445,
+            "column_max": 848,
+            "row_max": 481,
+            "width": 247,
+            "height": 36
+        },
+        {
+            "id": 12,
+            "content": "Ihago ABC NEWS ROYALTY",
+            "column_min": 1,
+            "row_min": 493,
+            "column_max": 207,
+            "row_max": 509,
+            "width": 206,
+            "height": 16
+        },
+        {
+            "id": 13,
+            "content": "3hag0",
+            "column_min": 303,
+            "row_min": 493,
+            "column_max": 347,
+            "row_max": 509,
+            "width": 44,
+            "height": 16
+        },
+        {
+            "id": 14,
+            "content": "ABC NEWS",
+            "column_min": 365,
+            "row_min": 493,
+            "column_max": 433,
+            "row_max": 507,
+            "width": 68,
+            "height": 14
+        },
+        {
+            "id": 15,
+            "content": "CHRISTMAS",
+            "column_min": 451,
+            "row_min": 491,
+            "column_max": 525,
+            "row_max": 507,
+            "width": 74,
+            "height": 16
+        },
+        {
+            "id": 16,
+            "content": "Ghago\nby Bridget McArthur Madigan Landry and\nABC NEWS\nBUSHFIRES\nGian De Poloni",
+            "column_min": 903,
+            "row_min": 501,
+            "column_max": 1159,
+            "row_max": 555,
+            "width": 256,
+            "height": 54
+        },
+        {
+            "id": 17,
+            "content": "More National Stories\n0n\nABC NEWS",
+            "column_min": 807,
+            "row_min": 585,
+            "column_max": 1143,
+            "row_max": 605,
+            "width": 336,
+            "height": 20
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "img_shape": [
+        515,
+        1185,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Listen back",
+            "column_min": 21,
+            "row_min": 11,
+            "column_max": 201,
+            "row_max": 47,
+            "width": 180,
+            "height": 36
+        },
+        {
+            "id": 1,
+            "content": "\"\n104",
+            "column_min": 21,
+            "row_min": 183,
+            "column_max": 85,
+            "row_max": 201,
+            "width": 64,
+            "height": 18
+        },
+        {
+            "id": 2,
+            "content": "I  38m",
+            "column_min": 321,
+            "row_min": 183,
+            "column_max": 385,
+            "row_max": 201,
+            "width": 64,
+            "height": 18
+        },
+        {
+            "id": 3,
+            "content": "12m",
+            "column_min": 651,
+            "row_min": 185,
+            "column_max": 683,
+            "row_max": 201,
+            "width": 32,
+            "height": 16
+        },
+        {
+            "id": 4,
+            "content": "\" I5m",
+            "column_min": 921,
+            "row_min": 183,
+            "column_max": 983,
+            "row_max": 203,
+            "width": 62,
+            "height": 20
+        },
+        {
+            "id": 5,
+            "content": "Nightlife Foreign\nCorrespondent\nPakistan",
+            "column_min": 6,
+            "row_min": 232,
+            "column_max": 200,
+            "row_max": 321,
+            "width": 194,
+            "height": 89
+        },
+        {
+            "id": 6,
+            "content": "History of Christmas\nTraditions",
+            "column_min": 304,
+            "row_min": 230,
+            "column_max": 542,
+            "row_max": 290,
+            "width": 238,
+            "height": 60
+        },
+        {
+            "id": 7,
+            "content": "Nightlife Economics\nwith lan Verrender",
+            "column_min": 606,
+            "row_min": 232,
+            "column_max": 834,
+            "row_max": 290,
+            "width": 228,
+            "height": 58
+        },
+        {
+            "id": 8,
+            "content": "Nightlife Food\nSurviving Christmas\nLunch",
+            "column_min": 906,
+            "row_min": 232,
+            "column_max": 1142,
+            "row_max": 322,
+            "width": 236,
+            "height": 90
+        },
+        {
+            "id": 9,
+            "content": "From Yule Logto Mistletoe Christmas\nCarols to Hanging Stockings, Christmas\nhas\nlong history oftraditions. Where\ndid they come from, and what are some\nOfyour unique traditions during\nChristmas?",
+            "column_min": 309,
+            "row_min": 307,
+            "column_max": 577,
+            "row_max": 443,
+            "width": 268,
+            "height": 136
+        },
+        {
+            "id": 10,
+            "content": "lan Verrender ABC5 Business and\nFinance Editor joined Nic Healey on\nNightlife to discuss the latest in\neconomic; business and fnance news",
+            "column_min": 607,
+            "row_min": 307,
+            "column_max": 863,
+            "row_max": 395,
+            "width": 256,
+            "height": 88
+        },
+        {
+            "id": 11,
+            "content": "Christmas is different in many other\nCountries ofthe world.How do\nChristians livingin Pakistan celebrate\n\u8ba9?",
+            "column_min": 7,
+            "row_min": 339,
+            "column_max": 265,
+            "row_max": 427,
+            "width": 258,
+            "height": 88
+        },
+        {
+            "id": 12,
+            "content": "Santa Clausisnt the only person\nfeeling the pressure tonight with many\npeople working long hours to prepare\ndelicious Christmas lunch for\nlarge\ngathering offamily and friends\u3002",
+            "column_min": 907,
+            "row_min": 339,
+            "column_max": 1175,
+            "row_max": 453,
+            "width": 268,
+            "height": 114
+        },
+        {
+            "id": 13,
+            "content": "ABC RADIO SYDNEY\nECONOMICS AND FINANCE\nBUSINES5",
+            "column_min": 609,
+            "row_min": 409,
+            "column_max": 811,
+            "row_max": 445,
+            "width": 202,
+            "height": 36
+        },
+        {
+            "id": 14,
+            "content": "ABC RADIO SYDNEY",
+            "column_min": 9,
+            "row_min": 441,
+            "column_max": 129,
+            "row_max": 457,
+            "width": 120,
+            "height": 16
+        },
+        {
+            "id": 15,
+            "content": "WORLD POLITIC5",
+            "column_min": 149,
+            "row_min": 443,
+            "column_max": 251,
+            "row_max": 457,
+            "width": 102,
+            "height": 14
+        },
+        {
+            "id": 16,
+            "content": "ABC RADIO SYDNEY",
+            "column_min": 309,
+            "row_min": 457,
+            "column_max": 429,
+            "row_max": 473,
+            "width": 120,
+            "height": 16
+        },
+        {
+            "id": 17,
+            "content": "CHRISTMA5",
+            "column_min": 449,
+            "row_min": 459,
+            "column_max": 523,
+            "row_max": 473,
+            "width": 74,
+            "height": 14
+        },
+        {
+            "id": 18,
+            "content": "ABC RADIO SYDNEY",
+            "column_min": 909,
+            "row_min": 465,
+            "column_max": 1029,
+            "row_max": 481,
+            "width": 120,
+            "height": 16
+        },
+        {
+            "id": 19,
+            "content": "CHRISTMAS FOOD",
+            "column_min": 1049,
+            "row_min": 465,
+            "column_max": 1159,
+            "row_max": 481,
+            "width": 110,
+            "height": 16
+        }
+    ]
+}

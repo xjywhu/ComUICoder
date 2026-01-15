@@ -1,0 +1,129 @@
+{
+    "img_shape": [
+        525,
+        1160,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Features",
+            "column_min": 17,
+            "row_min": 3,
+            "column_max": 157,
+            "row_max": 39,
+            "width": 140,
+            "height": 36
+        },
+        {
+            "id": 1,
+            "content": "2m",
+            "column_min": 345,
+            "row_min": 177,
+            "column_max": 371,
+            "row_max": 193,
+            "width": 26,
+            "height": 16
+        },
+        {
+            "id": 2,
+            "content": "Former rough sleeper's\ncoffee sacrifice planted\nSeeds\nhis charity\nGraham Lee is behind\nCharity raising\nthousands of dollars through people\nsacrifcing one takeaway Coffee\nWeek\nfor",
+            "column_min": 0,
+            "row_min": 223,
+            "column_max": 270,
+            "row_max": 397,
+            "width": 270,
+            "height": 174
+        },
+        {
+            "id": 3,
+            "content": "The\nbudding musicians\n'staying proud' through\nIndigenous rap music\nWNith sounds recordedin a makeshift\nstudio, this group of high school\nstudents produced music about First\nNations Culture\u3002",
+            "column_min": 299,
+            "row_min": 219,
+            "column_max": 567,
+            "row_max": 419,
+            "width": 268,
+            "height": 200
+        },
+        {
+            "id": 4,
+            "content": "Rare orchidsand\nWattles thriveinold\ncemeteries",
+            "column_min": 600,
+            "row_min": 224,
+            "column_max": 830,
+            "row_max": 316,
+            "width": 230,
+            "height": 92
+        },
+        {
+            "id": 5,
+            "content": "Art breaks taboos\naboutend oflife\npalliative careand\ndeath",
+            "column_min": 899,
+            "row_min": 224,
+            "column_max": 1110,
+            "row_max": 348,
+            "width": 211,
+            "height": 124
+        },
+        {
+            "id": 6,
+            "content": "Australian cemeteries have become\nSafe haven for fora and fauna affected\nby urban expansion including\n\u300cre\norchid unique to\nsmall patch ofthe\nNSIN Mid North Coast",
+            "column_min": 603,
+            "row_min": 331,
+            "column_max": 863,
+            "row_max": 443,
+            "width": 260,
+            "height": 112
+        },
+        {
+            "id": 7,
+            "content": "Inits ffth year Palliative Care\nAustralias Live Well Die Well national\nart prize continues to spark importan\nConversations about dying\u3002",
+            "column_min": 901,
+            "row_min": 363,
+            "column_max": 1157,
+            "row_max": 453,
+            "width": 256,
+            "height": 90
+        },
+        {
+            "id": 8,
+            "content": "ABC MID NORTH COAST\nCONMUNITIES\nby Emma Siossian\nREGIONAL",
+            "column_min": 3,
+            "row_min": 411,
+            "column_max": 227,
+            "row_max": 447,
+            "width": 224,
+            "height": 36
+        },
+        {
+            "id": 9,
+            "content": "ABC SOUTH EAST NSW\nMUSIC\nby Floss Adams andlsla Evans\nINDIGENOUS",
+            "column_min": 301,
+            "row_min": 435,
+            "column_max": 547,
+            "row_max": 471,
+            "width": 246,
+            "height": 36
+        },
+        {
+            "id": 10,
+            "content": "ABC MID NORTH COAST\nby Meredith Kirton andEmma Siossian\nPLANTS",
+            "column_min": 603,
+            "row_min": 459,
+            "column_max": 839,
+            "row_max": 495,
+            "width": 236,
+            "height": 36
+        },
+        {
+            "id": 11,
+            "content": "ABC MID NORTH COAST\nDYING\nby Emma Siossian\nDEATH AND",
+            "column_min": 903,
+            "row_min": 467,
+            "column_max": 1135,
+            "row_max": 503,
+            "width": 232,
+            "height": 36
+        }
+    ]
+}

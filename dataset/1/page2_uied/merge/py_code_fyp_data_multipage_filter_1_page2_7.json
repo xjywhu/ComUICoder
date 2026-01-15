@@ -1,0 +1,431 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 48,
+            "width": 90,
+            "position": {
+                "column_min": 316,
+                "row_min": 174,
+                "column_max": 406,
+                "row_max": 222
+            },
+            "children": [
+                4
+            ]
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 48,
+            "width": 116,
+            "position": {
+                "column_min": 616,
+                "row_min": 174,
+                "column_max": 732,
+                "row_max": 222
+            },
+            "children": [
+                5
+            ]
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 48,
+            "width": 90,
+            "position": {
+                "column_min": 916,
+                "row_min": 174,
+                "column_max": 1006,
+                "row_max": 222
+            },
+            "children": [
+                6
+            ]
+        }
+    ],
+    "texts": [
+        {
+            "id": 3,
+            "class": "Text",
+            "height": 36,
+            "width": 104,
+            "position": {
+                "column_min": 31,
+                "row_min": 17,
+                "column_max": 135,
+                "row_max": 53
+            },
+            "text_content": "Watch"
+        },
+        {
+            "id": 4,
+            "class": "Text",
+            "height": 14,
+            "width": 30,
+            "position": {
+                "column_min": 359,
+                "row_min": 193,
+                "column_max": 389,
+                "row_max": 207
+            },
+            "text_content": "305",
+            "parent": 0
+        },
+        {
+            "id": 5,
+            "class": "Text",
+            "height": 14,
+            "width": 56,
+            "position": {
+                "column_min": 659,
+                "row_min": 193,
+                "column_max": 715,
+                "row_max": 207
+            },
+            "text_content": "3ß¶ 335",
+            "parent": 1
+        },
+        {
+            "id": 6,
+            "class": "Text",
+            "height": 16,
+            "width": 30,
+            "position": {
+                "column_min": 959,
+                "row_min": 191,
+                "column_max": 989,
+                "row_max": 207
+            },
+            "text_content": "325",
+            "parent": 2
+        },
+        {
+            "id": 7,
+            "class": "Text",
+            "height": 65,
+            "width": 155,
+            "position": {
+                "column_min": 13,
+                "row_min": 236,
+                "column_max": 168,
+                "row_max": 301
+            },
+            "text_content": "Natalie\nventriloquist\nMay"
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 163,
+            "width": 256,
+            "position": {
+                "column_min": 314,
+                "row_min": 238,
+                "column_max": 570,
+                "row_max": 401
+            },
+            "text_content": "Worlds tallest spotted\ngum\nStanding at over 72 metres tall Big\nSpotty liesin state forestjust off the\nPrinces Highway onthe NSW South\nCoast"
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 228,
+            "width": 268,
+            "position": {
+                "column_min": 609,
+                "row_min": 239,
+                "column_max": 877,
+                "row_max": 467
+            },
+            "text_content": "Darren Coggan\nperforms Fireand Rain\ninthe Anitas Theatre\nfoyer:\nWolongong musician Darren Coggan\nperforms an acoustic cover of Fireand\nRain by James Taylor inside the Anitas\nTheatre foyer"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 92,
+            "width": 256,
+            "position": {
+                "column_min": 914,
+                "row_min": 238,
+                "column_max": 1170,
+                "row_max": 330
+            },
+            "text_content": "Electric Vehicleshave\nbeenstoredat\nJamberoo Action Park¡£"
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 43,
+            "width": 262,
+            "position": {
+                "column_min": 15,
+                "row_min": 312,
+                "column_max": 277,
+                "row_max": 355
+            },
+            "text_content": "Ventriloquist Natalie May Says she has\nthe bestjobin the world¡£"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 42,
+            "width": 270,
+            "position": {
+                "column_min": 915,
+                "row_min": 345,
+                "column_max": 1185,
+                "row_max": 387
+            },
+            "text_content": "Hundreds of BYD Vehicles are being\nstored at Jamberoo Action Parkin NSW¡£"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 14,
+            "width": 68,
+            "position": {
+                "column_min": 15,
+                "row_min": 369,
+                "column_max": 83,
+                "row_max": 383
+            },
+            "text_content": "ABC NEWS"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 14,
+            "width": 68,
+            "position": {
+                "column_min": 915,
+                "row_min": 401,
+                "column_max": 983,
+                "row_max": 415
+            },
+            "text_content": "ABC NEWS"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 16,
+            "width": 140,
+            "position": {
+                "column_min": 315,
+                "row_min": 417,
+                "column_max": 455,
+                "row_max": 433
+            },
+            "text_content": "ABC SOUTHEAST NSW"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 14,
+            "width": 68,
+            "position": {
+                "column_min": 615,
+                "row_min": 481,
+                "column_max": 683,
+                "row_max": 495
+            },
+            "text_content": "ABC NEWS"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 24,
+            "width": 455,
+            "position": {
+                "column_min": 703,
+                "row_min": 524,
+                "column_max": 1158,
+                "row_max": 548
+            },
+            "text_content": "Watch\nmore news & entertainment on ABC iview"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": null,
+            "bottom": 8,
+            "left": null,
+            "right": 1,
+            "top_left": 3,
+            "top_right": null,
+            "bottom_left": 11,
+            "bottom_right": 16
+        },
+        "1": {
+            "top": null,
+            "bottom": 9,
+            "left": 0,
+            "right": 2,
+            "top_left": 3,
+            "top_right": null,
+            "bottom_left": 8,
+            "bottom_right": 14
+        },
+        "2": {
+            "top": null,
+            "bottom": 10,
+            "left": 1,
+            "right": null,
+            "top_left": 3,
+            "top_right": null,
+            "bottom_left": 9,
+            "bottom_right": null
+        },
+        "3": {
+            "top": null,
+            "bottom": 7,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 0
+        },
+        "4": {
+            "top": null,
+            "bottom": 8,
+            "left": null,
+            "right": 1,
+            "top_left": 3,
+            "top_right": null,
+            "bottom_left": 11,
+            "bottom_right": 16
+        },
+        "5": {
+            "top": null,
+            "bottom": 9,
+            "left": 0,
+            "right": 2,
+            "top_left": 3,
+            "top_right": null,
+            "bottom_left": 8,
+            "bottom_right": 14
+        },
+        "6": {
+            "top": null,
+            "bottom": 10,
+            "left": 1,
+            "right": null,
+            "top_left": 3,
+            "top_right": null,
+            "bottom_left": 9,
+            "bottom_right": null
+        },
+        "7": {
+            "top": 3,
+            "bottom": 11,
+            "left": null,
+            "right": 8,
+            "top_left": null,
+            "top_right": 0,
+            "bottom_left": null,
+            "bottom_right": 15
+        },
+        "8": {
+            "top": 0,
+            "bottom": 15,
+            "left": 11,
+            "right": 9,
+            "top_left": 3,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 16
+        },
+        "9": {
+            "top": 1,
+            "bottom": 16,
+            "left": 8,
+            "right": 10,
+            "top_left": 4,
+            "top_right": 2,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "10": {
+            "top": 2,
+            "bottom": 12,
+            "left": 9,
+            "right": null,
+            "top_left": 5,
+            "top_right": null,
+            "bottom_left": 16,
+            "bottom_right": null
+        },
+        "11": {
+            "top": 7,
+            "bottom": 13,
+            "left": null,
+            "right": 8,
+            "top_left": null,
+            "top_right": 0,
+            "bottom_left": null,
+            "bottom_right": 15
+        },
+        "12": {
+            "top": 10,
+            "bottom": 14,
+            "left": 9,
+            "right": null,
+            "top_left": 5,
+            "top_right": null,
+            "bottom_left": 16,
+            "bottom_right": null
+        },
+        "13": {
+            "top": 11,
+            "bottom": null,
+            "left": null,
+            "right": 8,
+            "top_left": null,
+            "top_right": 0,
+            "bottom_left": null,
+            "bottom_right": 15
+        },
+        "14": {
+            "top": 12,
+            "bottom": 17,
+            "left": 9,
+            "right": null,
+            "top_left": 5,
+            "top_right": null,
+            "bottom_left": 16,
+            "bottom_right": null
+        },
+        "15": {
+            "top": 8,
+            "bottom": null,
+            "left": null,
+            "right": 9,
+            "top_left": 11,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 16
+        },
+        "16": {
+            "top": 9,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "top_left": 8,
+            "top_right": 14,
+            "bottom_left": null,
+            "bottom_right": 17
+        },
+        "17": {
+            "top": 9,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "top_left": 16,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

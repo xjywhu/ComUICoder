@@ -1,0 +1,487 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 12,
+                "row_min": 61,
+                "column_max": 280,
+                "row_max": 212
+            }
+        },
+        {
+            "id": 1,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 312,
+                "row_min": 61,
+                "column_max": 580,
+                "row_max": 212
+            }
+        },
+        {
+            "id": 2,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 612,
+                "row_min": 61,
+                "column_max": 880,
+                "row_max": 212
+            }
+        },
+        {
+            "id": 3,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 912,
+                "row_min": 61,
+                "column_max": 1180,
+                "row_max": 212
+            }
+        }
+    ],
+    "texts": [
+        {
+            "id": 4,
+            "class": "Text",
+            "height": 36,
+            "width": 138,
+            "position": {
+                "column_min": 27,
+                "row_min": 7,
+                "column_max": 165,
+                "row_max": 43
+            },
+            "text_content": "Features"
+        },
+        {
+            "id": 5,
+            "class": "Text",
+            "height": 122,
+            "width": 242,
+            "position": {
+                "column_min": 8,
+                "row_min": 230,
+                "column_max": 250,
+                "row_max": 352
+            },
+            "text_content": "How NSWs consent\nlaws now protect sex\nWorkers against\nfraudulent clients"
+        },
+        {
+            "id": 6,
+            "class": "Text",
+            "height": 92,
+            "width": 266,
+            "position": {
+                "column_min": 308,
+                "row_min": 228,
+                "column_max": 574,
+                "row_max": 320
+            },
+            "text_content": "Crucialkoala corridors\ndwindlingin Sydney;\nconservationists Warn"
+        },
+        {
+            "id": 7,
+            "class": "Text",
+            "height": 128,
+            "width": 246,
+            "position": {
+                "column_min": 610,
+                "row_min": 228,
+                "column_max": 856,
+                "row_max": 356
+            },
+            "text_content": "Secludedbeach\nbecomes Parramatta\nRiver's newest official\nswimming spot"
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 157,
+            "width": 249,
+            "position": {
+                "column_min": 907,
+                "row_min": 227,
+                "column_max": 1156,
+                "row_max": 384
+            },
+            "text_content": "The rule changethat\ncould stop\n'overpowered' ebikes\nbeing broughtinto\nAustralia"
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 114,
+            "width": 260,
+            "position": {
+                "column_min": 311,
+                "row_min": 335,
+                "column_max": 571,
+                "row_max": 449
+            },
+            "text_content": "Key wildlife links between two of\nSydneys major rivers are under threat\ntrom land clearing tor housing\nacCording to\nkoala Conseration\ngrOUP。"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 112,
+            "width": 263,
+            "position": {
+                "column_min": 12,
+                "row_min": 367,
+                "column_max": 275,
+                "row_max": 479
+            },
+            "text_content": "Victims say NSWI Polices frontline\nofficers are still catching Up with the\nChanged legislation which makes non\npayment for sexual services\nCriminal\nOffence。"
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 90,
+            "width": 261,
+            "position": {
+                "column_min": 612,
+                "row_min": 367,
+                "column_max": 873,
+                "row_max": 457
+            },
+            "text_content": "While new swimming areas have\nopened along the riverin recent years。\nan election promise to open\nWestern\nSydney location has stalled。"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 114,
+            "width": 259,
+            "position": {
+                "column_min": 912,
+                "row_min": 399,
+                "column_max": 1171,
+                "row_max": 513
+            },
+            "text_content": "Bicycle industry fgures welcome\nplanned changes by the tederal\ngovernment。 but hope state\ngovernments will update road rulesto\nhelp entorcement。"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 36,
+            "width": 120,
+            "position": {
+                "column_min": 313,
+                "row_min": 463,
+                "column_max": 433,
+                "row_max": 499
+            },
+            "text_content": "ABC RADIO 5YDNEY\nby Declan Bowring"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 14,
+            "width": 94,
+            "position": {
+                "column_min": 453,
+                "row_min": 463,
+                "column_max": 547,
+                "row_max": 477
+            },
+            "text_content": "CONSERVATION"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 36,
+            "width": 122,
+            "position": {
+                "column_min": 611,
+                "row_min": 471,
+                "column_max": 733,
+                "row_max": 507
+            },
+            "text_content": "ABC RADIO 5YDNEY\nby Declan Bowring"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 14,
+            "width": 54,
+            "position": {
+                "column_min": 751,
+                "row_min": 471,
+                "column_max": 805,
+                "row_max": 485
+            },
+            "text_content": "LEISURE"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 36,
+            "width": 120,
+            "position": {
+                "column_min": 13,
+                "row_min": 495,
+                "column_max": 133,
+                "row_max": 531
+            },
+            "text_content": "ABC RADIO 5YDNEY\nby Esther Linder"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 14,
+            "width": 52,
+            "position": {
+                "column_min": 153,
+                "row_min": 495,
+                "column_max": 205,
+                "row_max": 509
+            },
+            "text_content": "COURTS"
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 36,
+            "width": 120,
+            "position": {
+                "column_min": 913,
+                "row_min": 527,
+                "column_max": 1033,
+                "row_max": 563
+            },
+            "text_content": "ABC RADIO 5YDNEY\nby Dectan Bowring"
+        },
+        {
+            "id": 20,
+            "class": "Text",
+            "height": 14,
+            "width": 54,
+            "position": {
+                "column_min": 1053,
+                "row_min": 527,
+                "column_max": 1107,
+                "row_max": 541
+            },
+            "text_content": "CYCLING"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": 4,
+            "bottom": 5,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 6
+        },
+        "1": {
+            "top": null,
+            "bottom": 6,
+            "left": 0,
+            "right": 2,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 5,
+            "bottom_right": 7
+        },
+        "2": {
+            "top": null,
+            "bottom": 7,
+            "left": 1,
+            "right": 3,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 6,
+            "bottom_right": 8
+        },
+        "3": {
+            "top": null,
+            "bottom": 8,
+            "left": 2,
+            "right": null,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": null
+        },
+        "4": {
+            "top": null,
+            "bottom": 0,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 1
+        },
+        "5": {
+            "top": 0,
+            "bottom": 10,
+            "left": null,
+            "right": 6,
+            "top_left": null,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 13
+        },
+        "6": {
+            "top": 1,
+            "bottom": 9,
+            "left": 5,
+            "right": 7,
+            "top_left": 0,
+            "top_right": 2,
+            "bottom_left": 10,
+            "bottom_right": 15
+        },
+        "7": {
+            "top": 2,
+            "bottom": 11,
+            "left": 6,
+            "right": 8,
+            "top_left": 1,
+            "top_right": 3,
+            "bottom_left": 14,
+            "bottom_right": 12
+        },
+        "8": {
+            "top": 3,
+            "bottom": 12,
+            "left": 11,
+            "right": null,
+            "top_left": 2,
+            "top_right": null,
+            "bottom_left": 16,
+            "bottom_right": null
+        },
+        "9": {
+            "top": 6,
+            "bottom": 13,
+            "left": 10,
+            "right": 7,
+            "top_left": 0,
+            "top_right": 2,
+            "bottom_left": 18,
+            "bottom_right": 15
+        },
+        "10": {
+            "top": 5,
+            "bottom": 17,
+            "left": null,
+            "right": 9,
+            "top_left": null,
+            "top_right": 6,
+            "bottom_left": null,
+            "bottom_right": 19
+        },
+        "11": {
+            "top": 7,
+            "bottom": 15,
+            "left": 9,
+            "right": 8,
+            "top_left": 6,
+            "top_right": 3,
+            "bottom_left": 14,
+            "bottom_right": 19
+        },
+        "12": {
+            "top": 8,
+            "bottom": 19,
+            "left": 11,
+            "right": null,
+            "top_left": 7,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "13": {
+            "top": 9,
+            "bottom": null,
+            "left": 10,
+            "right": 14,
+            "top_left": 5,
+            "top_right": 11,
+            "bottom_left": null,
+            "bottom_right": 19
+        },
+        "14": {
+            "top": 9,
+            "bottom": null,
+            "left": 13,
+            "right": 15,
+            "top_left": 5,
+            "top_right": 11,
+            "bottom_left": 18,
+            "bottom_right": 19
+        },
+        "15": {
+            "top": 11,
+            "bottom": null,
+            "left": 14,
+            "right": 16,
+            "top_left": 9,
+            "top_right": 8,
+            "bottom_left": null,
+            "bottom_right": 19
+        },
+        "16": {
+            "top": 11,
+            "bottom": null,
+            "left": 15,
+            "right": 12,
+            "top_left": 9,
+            "top_right": 8,
+            "bottom_left": 18,
+            "bottom_right": 19
+        },
+        "17": {
+            "top": 10,
+            "bottom": null,
+            "left": null,
+            "right": 18,
+            "top_left": null,
+            "top_right": 9,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "18": {
+            "top": 10,
+            "bottom": null,
+            "left": 17,
+            "right": 13,
+            "top_left": null,
+            "top_right": 9,
+            "bottom_left": null,
+            "bottom_right": 19
+        },
+        "19": {
+            "top": 12,
+            "bottom": null,
+            "left": 17,
+            "right": 20,
+            "top_left": 16,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "20": {
+            "top": 12,
+            "bottom": null,
+            "left": 19,
+            "right": null,
+            "top_left": 16,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

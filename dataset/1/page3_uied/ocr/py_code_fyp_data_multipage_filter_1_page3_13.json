@@ -1,0 +1,289 @@
+{
+    "img_shape": [
+        459,
+        1874,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "AABC\nCOFFSCOAST",
+            "column_min": 3,
+            "row_min": 9,
+            "column_max": 166,
+            "row_max": 90,
+            "width": 163,
+            "height": 81
+        },
+        {
+            "id": 1,
+            "content": "SECTIONS",
+            "column_min": 485,
+            "row_min": 31,
+            "column_max": 571,
+            "row_max": 49,
+            "width": 86,
+            "height": 18
+        },
+        {
+            "id": 2,
+            "content": "CONNECT WITH U5",
+            "column_min": 969,
+            "row_min": 33,
+            "column_max": 1123,
+            "row_max": 49,
+            "width": 154,
+            "height": 16
+        },
+        {
+            "id": 3,
+            "content": "CONTACT Us",
+            "column_min": 1447,
+            "row_min": 31,
+            "column_max": 1553,
+            "row_max": 49,
+            "width": 106,
+            "height": 18
+        },
+        {
+            "id": 4,
+            "content": "HOME",
+            "column_min": 487,
+            "row_min": 73,
+            "column_max": 531,
+            "row_max": 89,
+            "width": 44,
+            "height": 16
+        },
+        {
+            "id": 5,
+            "content": "LISTENING FAQ",
+            "column_min": 711,
+            "row_min": 73,
+            "column_max": 817,
+            "row_max": 89,
+            "width": 106,
+            "height": 16
+        },
+        {
+            "id": 6,
+            "content": "FACEBOOK",
+            "column_min": 1003,
+            "row_min": 71,
+            "column_max": 1077,
+            "row_max": 87,
+            "width": 74,
+            "height": 16
+        },
+        {
+            "id": 7,
+            "content": "SMS: 0467 922 684 (RATES APPLY )",
+            "column_min": 1449,
+            "row_min": 73,
+            "column_max": 1685,
+            "row_max": 89,
+            "width": 236,
+            "height": 16
+        },
+        {
+            "id": 8,
+            "content": "PROGRAMS",
+            "column_min": 489,
+            "row_min": 107,
+            "column_max": 567,
+            "row_max": 123,
+            "width": 78,
+            "height": 16
+        },
+        {
+            "id": 9,
+            "content": "WEATHER",
+            "column_min": 713,
+            "row_min": 107,
+            "column_max": 779,
+            "row_max": 123,
+            "width": 66,
+            "height": 16
+        },
+        {
+            "id": 10,
+            "content": "TALKBACK: 1300222 923",
+            "column_min": 1447,
+            "row_min": 107,
+            "column_max": 1621,
+            "row_max": 123,
+            "width": 174,
+            "height": 16
+        },
+        {
+            "id": 11,
+            "content": "Stay informed and entertained with ABC Australia\u3002\nAccess live events, news, audio and on-demand video\nstreaming from the nations most trusted broadcaster\u3002",
+            "column_min": 5,
+            "row_min": 115,
+            "column_max": 428,
+            "row_max": 186,
+            "width": 423,
+            "height": 71
+        },
+        {
+            "id": 12,
+            "content": "LISTEN BACK",
+            "column_min": 487,
+            "row_min": 141,
+            "column_max": 579,
+            "row_max": 155,
+            "width": 92,
+            "height": 14
+        },
+        {
+            "id": 13,
+            "content": "FREQUENCY FINDER",
+            "column_min": 711,
+            "row_min": 141,
+            "column_max": 849,
+            "row_max": 157,
+            "width": 138,
+            "height": 16
+        },
+        {
+            "id": 14,
+            "content": "ABC COFFS COAST: (02) 6650 3611",
+            "column_min": 1449,
+            "row_min": 141,
+            "column_max": 1685,
+            "row_max": 157,
+            "width": 236,
+            "height": 16
+        },
+        {
+            "id": 15,
+            "content": "CONTACT Us",
+            "column_min": 489,
+            "row_min": 175,
+            "column_max": 577,
+            "row_max": 191,
+            "width": 88,
+            "height": 16
+        },
+        {
+            "id": 16,
+            "content": "SCHEDULE",
+            "column_min": 711,
+            "row_min": 175,
+            "column_max": 787,
+            "row_max": 191,
+            "width": 76,
+            "height": 16
+        },
+        {
+            "id": 17,
+            "content": "GENERAL ABC ENQUIRIES: 13 9994",
+            "column_min": 1449,
+            "row_min": 175,
+            "column_max": 1683,
+            "row_max": 191,
+            "width": 234,
+            "height": 16
+        },
+        {
+            "id": 18,
+            "content": "More from ABC",
+            "column_min": 9,
+            "row_min": 199,
+            "column_max": 143,
+            "row_max": 219,
+            "width": 134,
+            "height": 20
+        },
+        {
+            "id": 19,
+            "content": "Weacknowledge Aboriginaland Torres Strait Islander peoplesas the First\nAustralians and Traditional Custodians ofthe lands where We live\u3002 learn\nand WOTK",
+            "column_min": 7,
+            "row_min": 245,
+            "column_max": 437,
+            "row_max": 307,
+            "width": 430,
+            "height": 62
+        },
+        {
+            "id": 20,
+            "content": "Editorial Policies",
+            "column_min": 7,
+            "row_min": 417,
+            "column_max": 117,
+            "row_max": 433,
+            "width": 110,
+            "height": 16
+        },
+        {
+            "id": 21,
+            "content": "Accessibility",
+            "column_min": 145,
+            "row_min": 419,
+            "column_max": 229,
+            "row_max": 433,
+            "width": 84,
+            "height": 14
+        },
+        {
+            "id": 22,
+            "content": "Help",
+            "column_min": 255,
+            "row_min": 419,
+            "column_max": 289,
+            "row_max": 433,
+            "width": 34,
+            "height": 14
+        },
+        {
+            "id": 23,
+            "content": "Contact Us",
+            "column_min": 317,
+            "row_min": 419,
+            "column_max": 389,
+            "row_max": 433,
+            "width": 72,
+            "height": 14
+        },
+        {
+            "id": 24,
+            "content": "About the ABC",
+            "column_min": 417,
+            "row_min": 419,
+            "column_max": 513,
+            "row_max": 433,
+            "width": 96,
+            "height": 14
+        },
+        {
+            "id": 25,
+            "content": "Privacy Policy",
+            "column_min": 541,
+            "row_min": 419,
+            "column_max": 631,
+            "row_max": 433,
+            "width": 90,
+            "height": 14
+        },
+        {
+            "id": 26,
+            "content": "Terms Of Use",
+            "column_min": 657,
+            "row_min": 417,
+            "column_max": 741,
+            "row_max": 433,
+            "width": 84,
+            "height": 16
+        },
+        {
+            "id": 27,
+            "content": "202548C",
+            "column_min": 783,
+            "row_min": 419,
+            "column_max": 845,
+            "row_max": 433,
+            "width": 62,
+            "height": 14
+        }
+    ]
+}

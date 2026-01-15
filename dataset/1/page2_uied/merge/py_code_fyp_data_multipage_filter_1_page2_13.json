@@ -1,0 +1,122 @@
+{
+    "compos": [],
+    "texts": [
+        {
+            "id": 0,
+            "class": "Text",
+            "height": 42,
+            "width": 304,
+            "position": {
+                "column_min": 13,
+                "row_min": 3,
+                "column_max": 317,
+                "row_max": 45
+            },
+            "text_content": "Other ways to listen"
+        },
+        {
+            "id": 1,
+            "class": "Text",
+            "height": 24,
+            "width": 345,
+            "position": {
+                "column_min": 13,
+                "row_min": 72,
+                "column_max": 358,
+                "row_max": 96
+            },
+            "text_content": "Listen online\nonthe ABC listenapp Or On Air"
+        },
+        {
+            "id": 2,
+            "class": "Text",
+            "height": 20,
+            "width": 130,
+            "position": {
+                "column_min": 37,
+                "row_min": 113,
+                "column_max": 167,
+                "row_max": 133
+            },
+            "text_content": "Illawarra 97.3FM¡£"
+        },
+        {
+            "id": 3,
+            "class": "Text",
+            "height": 24,
+            "width": 376,
+            "position": {
+                "column_min": 14,
+                "row_min": 160,
+                "column_max": 390,
+                "row_max": 184
+            },
+            "text_content": "Orask your smart speaker to \"play ABC Illawarra\""
+        },
+        {
+            "id": 4,
+            "class": "Text",
+            "height": 16,
+            "width": 76,
+            "position": {
+                "column_min": 1085,
+                "row_min": 265,
+                "column_max": 1161,
+                "row_max": 281
+            },
+            "text_content": "Backtotop"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": null,
+            "bottom": 1,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 4
+        },
+        "1": {
+            "top": 0,
+            "bottom": 2,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 4
+        },
+        "2": {
+            "top": 1,
+            "bottom": 3,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 4
+        },
+        "3": {
+            "top": 2,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 4
+        },
+        "4": {
+            "top": null,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "top_left": 3,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

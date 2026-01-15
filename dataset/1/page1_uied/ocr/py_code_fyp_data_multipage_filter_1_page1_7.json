@@ -1,0 +1,189 @@
+{
+    "img_shape": [
+        548,
+        1214,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Watch",
+            "column_min": 35,
+            "row_min": 11,
+            "column_max": 137,
+            "row_max": 47,
+            "width": 102,
+            "height": 36
+        },
+        {
+            "id": 1,
+            "content": "1m 495",
+            "column_min": 63,
+            "row_min": 187,
+            "column_max": 119,
+            "row_max": 201,
+            "width": 56,
+            "height": 14
+        },
+        {
+            "id": 2,
+            "content": "465",
+            "column_min": 363,
+            "row_min": 187,
+            "column_max": 393,
+            "row_max": 201,
+            "width": 30,
+            "height": 14
+        },
+        {
+            "id": 3,
+            "content": "455",
+            "column_min": 663,
+            "row_min": 187,
+            "column_max": 693,
+            "row_max": 201,
+            "width": 30,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": "10 &5",
+            "column_min": 963,
+            "row_min": 187,
+            "column_max": 1009,
+            "row_max": 201,
+            "width": 46,
+            "height": 14
+        },
+        {
+            "id": 5,
+            "content": "NSWpremieris 'ot\ndone'withreformin\nWake of Bonditerror\nattack\u3002",
+            "column_min": 18,
+            "row_min": 232,
+            "column_max": 252,
+            "row_max": 356,
+            "width": 234,
+            "height": 124
+        },
+        {
+            "id": 6,
+            "content": "Terrorattacks\nyoungest victims\nfatherlights Menorah\nCandle",
+            "column_min": 316,
+            "row_min": 231,
+            "column_max": 566,
+            "row_max": 356,
+            "width": 250,
+            "height": 125
+        },
+        {
+            "id": 7,
+            "content": "OneNationMP Barnaby\nJoyce calls for PMtobe\nremovedfromrole",
+            "column_min": 615,
+            "row_min": 234,
+            "column_max": 884,
+            "row_max": 324,
+            "width": 269,
+            "height": 90
+        },
+        {
+            "id": 8,
+            "content": "Governor generalcalls\nfor'national project' of\nlndness",
+            "column_min": 915,
+            "row_min": 232,
+            "column_max": 1183,
+            "row_max": 324,
+            "width": 268,
+            "height": 92
+        },
+        {
+            "id": 9,
+            "content": "Theformer deputy prme minister\nspoketoa small crowd at the Australia\nFirst rallyin Sydney\u3002",
+            "column_min": 619,
+            "row_min": 339,
+            "column_max": 883,
+            "row_max": 405,
+            "width": 264,
+            "height": 66
+        },
+        {
+            "id": 10,
+            "content": "Governor General Sam Mostyn speaks\non the Bondi Day of Reflection, calling\nfor Australians to Use their kindness .",
+            "column_min": 919,
+            "row_min": 338,
+            "column_max": 1179,
+            "row_max": 403,
+            "width": 260,
+            "height": 65
+        },
+        {
+            "id": 11,
+            "content": "NSW Premier Chris Minns pledges to do\n'everything' possible to crack down on\nhate\nspeechin theaftermath of the\nBondi Beach shooting\u3002",
+            "column_min": 19,
+            "row_min": 371,
+            "column_max": 289,
+            "row_max": 461,
+            "width": 270,
+            "height": 90
+        },
+        {
+            "id": 12,
+            "content": "Thefather ofthe IOyearold victim,\nMatilda; lights a candle alongside Rabbi\nVany Super",
+            "column_min": 319,
+            "row_min": 370,
+            "column_max": 593,
+            "row_max": 437,
+            "width": 274,
+            "height": 67
+        },
+        {
+            "id": 13,
+            "content": "ABC NEWS",
+            "column_min": 619,
+            "row_min": 419,
+            "column_max": 687,
+            "row_max": 433,
+            "width": 68,
+            "height": 14
+        },
+        {
+            "id": 14,
+            "content": "ABC NEWS",
+            "column_min": 919,
+            "row_min": 419,
+            "column_max": 987,
+            "row_max": 433,
+            "width": 68,
+            "height": 14
+        },
+        {
+            "id": 15,
+            "content": "ABC NEWS",
+            "column_min": 319,
+            "row_min": 451,
+            "column_max": 387,
+            "row_max": 465,
+            "width": 68,
+            "height": 14
+        },
+        {
+            "id": 16,
+            "content": "ABC NEWS",
+            "column_min": 21,
+            "row_min": 475,
+            "column_max": 87,
+            "row_max": 489,
+            "width": 66,
+            "height": 14
+        },
+        {
+            "id": 17,
+            "content": "Watch\nmore news & entertainment on ABC iview",
+            "column_min": 707,
+            "row_min": 518,
+            "column_max": 1164,
+            "row_max": 542,
+            "width": 457,
+            "height": 24
+        }
+    ]
+}

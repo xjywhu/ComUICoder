@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        573,
+        1177,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Features",
+            "column_min": 19,
+            "row_min": 7,
+            "column_max": 157,
+            "row_max": 43,
+            "width": 138,
+            "height": 36
+        },
+        {
+            "id": 1,
+            "content": "Howanursing home\ntackled racism by\ncelebrating culture\nIn 2024\nTUITSe\nreported racistabuse\ntrom some residents and tamily\nmembers\nyear later instances ot\nabuse have plummeted and staff say i\n15 becalse Of\nnew program promoting\nresDect\u3002",
+            "column_min": 0,
+            "row_min": 228,
+            "column_max": 275,
+            "row_max": 473,
+            "width": 275,
+            "height": 245
+        },
+        {
+            "id": 2,
+            "content": "Embracing live\nentertainments 'human\nconnection'inaged\ncare centres",
+            "column_min": 300,
+            "row_min": 225,
+            "column_max": 574,
+            "row_max": 352,
+            "width": 274,
+            "height": 127
+        },
+        {
+            "id": 3,
+            "content": "Makea Christmas\nwreath with Rowers\nfrom your garden",
+            "column_min": 602,
+            "row_min": 228,
+            "column_max": 832,
+            "row_max": 324,
+            "width": 230,
+            "height": 96
+        },
+        {
+            "id": 4,
+            "content": "Oldfashioned farming\nwithheavy horses",
+            "column_min": 899,
+            "row_min": 225,
+            "column_max": 1159,
+            "row_max": 290,
+            "width": 260,
+            "height": 65
+        },
+        {
+            "id": 5,
+            "content": "Aleks Berzins is tarming the land in the\nSame Way his\ngrandfather did.using\ndraught horses tor jobs now widely\ndone by machines",
+            "column_min": 905,
+            "row_min": 305,
+            "column_max": 1167,
+            "row_max": 393,
+            "width": 262,
+            "height": 88
+        },
+        {
+            "id": 6,
+            "content": "INorried YOU might make\nmess,get i\nwrong Orwaste yoUT time making\nwreath? Read OuTtips trst",
+            "column_min": 603,
+            "row_min": 335,
+            "column_max": 863,
+            "row_max": 401,
+            "width": 260,
+            "height": 66
+        },
+        {
+            "id": 7,
+            "content": "Apertormer and an advocate tor older\nAUstralians are worried that live\nentertainment foraged care residents\n15 onthe decline as other leisure\nactivities, SUCh as Virtualreality\u3002\npopularity\u3002\ngain",
+            "column_min": 303,
+            "row_min": 369,
+            "column_max": 565,
+            "row_max": 505,
+            "width": 262,
+            "height": 136
+        },
+        {
+            "id": 8,
+            "content": "LANDLINE\nby Emily Doak\nHORSE FARMING",
+            "column_min": 903,
+            "row_min": 407,
+            "column_max": 1085,
+            "row_max": 443,
+            "width": 182,
+            "height": 36
+        },
+        {
+            "id": 9,
+            "content": "ABC ILLAWARRA\nby Sarah Moss",
+            "column_min": 603,
+            "row_min": 415,
+            "column_max": 705,
+            "row_max": 452,
+            "width": 102,
+            "height": 37
+        },
+        {
+            "id": 10,
+            "content": "CHRISTNAS",
+            "column_min": 723,
+            "row_min": 415,
+            "column_max": 797,
+            "row_max": 429,
+            "width": 74,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": "ABC ILLAWARRA\nby Penny Burfitt",
+            "column_min": 5,
+            "row_min": 487,
+            "column_max": 107,
+            "row_max": 523,
+            "width": 102,
+            "height": 36
+        },
+        {
+            "id": 12,
+            "content": "AGED CARE",
+            "column_min": 123,
+            "row_min": 487,
+            "column_max": 195,
+            "row_max": 501,
+            "width": 72,
+            "height": 14
+        },
+        {
+            "id": 13,
+            "content": "ABC ILLAWARRA\nby Sarah Moss",
+            "column_min": 305,
+            "row_min": 519,
+            "column_max": 405,
+            "row_max": 556,
+            "width": 100,
+            "height": 37
+        },
+        {
+            "id": 14,
+            "content": "AGED CARE",
+            "column_min": 423,
+            "row_min": 519,
+            "column_max": 495,
+            "row_max": 533,
+            "width": 72,
+            "height": 14
+        }
+    ]
+}

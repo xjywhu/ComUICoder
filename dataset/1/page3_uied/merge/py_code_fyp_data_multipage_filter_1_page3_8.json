@@ -1,0 +1,464 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 6,
+                "row_min": 69,
+                "column_max": 274,
+                "row_max": 220
+            }
+        },
+        {
+            "id": 1,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 306,
+                "row_min": 69,
+                "column_max": 574,
+                "row_max": 220
+            }
+        },
+        {
+            "id": 2,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 606,
+                "row_min": 69,
+                "column_max": 874,
+                "row_max": 220
+            }
+        },
+        {
+            "id": 3,
+            "class": "Block",
+            "height": 151,
+            "width": 255,
+            "position": {
+                "column_min": 906,
+                "row_min": 69,
+                "column_max": 1161,
+                "row_max": 220
+            }
+        }
+    ],
+    "texts": [
+        {
+            "id": 4,
+            "class": "Text",
+            "height": 44,
+            "width": 278,
+            "position": {
+                "column_min": 21,
+                "row_min": 13,
+                "column_max": 299,
+                "row_max": 57
+            },
+            "text_content": "What's happening"
+        },
+        {
+            "id": 5,
+            "class": "Text",
+            "height": 64,
+            "width": 264,
+            "position": {
+                "column_min": 4,
+                "row_min": 236,
+                "column_max": 268,
+                "row_max": 300
+            },
+            "text_content": "Download our free ABC\nlistenapp"
+        },
+        {
+            "id": 6,
+            "class": "Text",
+            "height": 63,
+            "width": 249,
+            "position": {
+                "column_min": 303,
+                "row_min": 236,
+                "column_max": 552,
+                "row_max": 299
+            },
+            "text_content": "Know your ABCsinan\nemergency"
+        },
+        {
+            "id": 7,
+            "class": "Text",
+            "height": 189,
+            "width": 270,
+            "position": {
+                "column_min": 601,
+                "row_min": 236,
+                "column_max": 871,
+                "row_max": 425
+            },
+            "text_content": "Download our free ABC\nlisten app\nThe ABC listen app connects you tothe\nbest\nodcasts and live radio from the\npresenters yoU know and love\nDownload it today and hear the world\ndifferently¡£"
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 60,
+            "width": 210,
+            "position": {
+                "column_min": 904,
+                "row_min": 236,
+                "column_max": 1114,
+                "row_max": 296
+            },
+            "text_content": "Sign upforanABC\nnewsletter"
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 114,
+            "width": 265,
+            "position": {
+                "column_min": 6,
+                "row_min": 311,
+                "column_max": 271,
+                "row_max": 425
+            },
+            "text_content": "The ABC listen app connects you tothe\nbest\nodcasts and live radio from the\npresenters yOU know and love\nDownload it today and hear the world\ndifferently¡£"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 138,
+            "width": 266,
+            "position": {
+                "column_min": 305,
+                "row_min": 311,
+                "column_max": 571,
+                "row_max": 449
+            },
+            "text_content": "This summer know your ABCs: action\nplan\nbe safe\nconnect with UIs.The ABC\nhas\nhost ofuseful resources and tips\non how to best prepare yourself for\nemergency Weather 5O yOU Can Keep\nyou and your household safe"
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 113,
+            "width": 248,
+            "position": {
+                "column_min": 905,
+                "row_min": 312,
+                "column_max": 1153,
+                "row_max": 425
+            },
+            "text_content": "INant informative,educationaland\nentertaining stories straight to yOUr\ninbox? Subscribe to\nwide range Of\nnewsletters from around the ABC\nincluding localand national content"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 16,
+            "width": 76,
+            "position": {
+                "column_min": 7,
+                "row_min": 439,
+                "column_max": 83,
+                "row_max": 455
+            },
+            "text_content": "27 AUg 2024"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 14,
+            "width": 92,
+            "position": {
+                "column_min": 101,
+                "row_min": 439,
+                "column_max": 193,
+                "row_max": 453
+            },
+            "text_content": "ABC BRISBANE"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 16,
+            "width": 76,
+            "position": {
+                "column_min": 607,
+                "row_min": 439,
+                "column_max": 683,
+                "row_max": 455
+            },
+            "text_content": "27 AUg 2024"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 14,
+            "width": 92,
+            "position": {
+                "column_min": 701,
+                "row_min": 439,
+                "column_max": 793,
+                "row_max": 453
+            },
+            "text_content": "ABC BRISBANE"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 14,
+            "width": 74,
+            "position": {
+                "column_min": 907,
+                "row_min": 439,
+                "column_max": 981,
+                "row_max": 453
+            },
+            "text_content": "1 Jun 2024"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 14,
+            "width": 92,
+            "position": {
+                "column_min": 999,
+                "row_min": 439,
+                "column_max": 1091,
+                "row_max": 453
+            },
+            "text_content": "ABC BRISBANE"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 36,
+            "width": 76,
+            "position": {
+                "column_min": 307,
+                "row_min": 463,
+                "column_max": 383,
+                "row_max": 499
+            },
+            "text_content": "1 Dec 2025\nEMERGENCY"
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 36,
+            "width": 72,
+            "position": {
+                "column_min": 399,
+                "row_min": 463,
+                "column_max": 471,
+                "row_max": 499
+            },
+            "text_content": "ABC\nBUSHFIRES"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": 4,
+            "bottom": 5,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 6
+        },
+        "1": {
+            "top": null,
+            "bottom": 6,
+            "left": 0,
+            "right": 2,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 5,
+            "bottom_right": 7
+        },
+        "2": {
+            "top": null,
+            "bottom": 7,
+            "left": 1,
+            "right": 3,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 6,
+            "bottom_right": 8
+        },
+        "3": {
+            "top": null,
+            "bottom": 8,
+            "left": 2,
+            "right": null,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": null
+        },
+        "4": {
+            "top": null,
+            "bottom": 0,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 1
+        },
+        "5": {
+            "top": 0,
+            "bottom": 9,
+            "left": null,
+            "right": 6,
+            "top_left": null,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 18
+        },
+        "6": {
+            "top": 1,
+            "bottom": 10,
+            "left": 5,
+            "right": 7,
+            "top_left": 0,
+            "top_right": 2,
+            "bottom_left": 9,
+            "bottom_right": 14
+        },
+        "7": {
+            "top": 2,
+            "bottom": 14,
+            "left": 10,
+            "right": 8,
+            "top_left": 1,
+            "top_right": 3,
+            "bottom_left": 19,
+            "bottom_right": 16
+        },
+        "8": {
+            "top": 3,
+            "bottom": 11,
+            "left": 7,
+            "right": null,
+            "top_left": 2,
+            "top_right": null,
+            "bottom_left": 15,
+            "bottom_right": null
+        },
+        "9": {
+            "top": 5,
+            "bottom": 12,
+            "left": null,
+            "right": 10,
+            "top_left": null,
+            "top_right": 6,
+            "bottom_left": null,
+            "bottom_right": 18
+        },
+        "10": {
+            "top": 6,
+            "bottom": 18,
+            "left": 9,
+            "right": 7,
+            "top_left": 5,
+            "top_right": 2,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "11": {
+            "top": 8,
+            "bottom": 16,
+            "left": 7,
+            "right": null,
+            "top_left": 2,
+            "top_right": null,
+            "bottom_left": 15,
+            "bottom_right": null
+        },
+        "12": {
+            "top": 9,
+            "bottom": null,
+            "left": null,
+            "right": 13,
+            "top_left": null,
+            "top_right": 6,
+            "bottom_left": null,
+            "bottom_right": 18
+        },
+        "13": {
+            "top": 9,
+            "bottom": null,
+            "left": 12,
+            "right": 10,
+            "top_left": null,
+            "top_right": 6,
+            "bottom_left": null,
+            "bottom_right": 18
+        },
+        "14": {
+            "top": 7,
+            "bottom": null,
+            "left": 10,
+            "right": 15,
+            "top_left": 6,
+            "top_right": 11,
+            "bottom_left": 19,
+            "bottom_right": null
+        },
+        "15": {
+            "top": 7,
+            "bottom": null,
+            "left": 14,
+            "right": 16,
+            "top_left": 6,
+            "top_right": 11,
+            "bottom_left": 19,
+            "bottom_right": null
+        },
+        "16": {
+            "top": 11,
+            "bottom": null,
+            "left": 15,
+            "right": 17,
+            "top_left": 7,
+            "top_right": null,
+            "bottom_left": 19,
+            "bottom_right": null
+        },
+        "17": {
+            "top": 11,
+            "bottom": null,
+            "left": 16,
+            "right": null,
+            "top_left": 7,
+            "top_right": null,
+            "bottom_left": 19,
+            "bottom_right": null
+        },
+        "18": {
+            "top": 10,
+            "bottom": null,
+            "left": null,
+            "right": 19,
+            "top_left": 13,
+            "top_right": 14,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "19": {
+            "top": 10,
+            "bottom": null,
+            "left": 18,
+            "right": null,
+            "top_left": 13,
+            "top_right": 14,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

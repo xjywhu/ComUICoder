@@ -1,0 +1,359 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 40,
+            "width": 254,
+            "position": {
+                "column_min": 1443,
+                "row_min": 1,
+                "column_max": 1697,
+                "row_max": 41
+            },
+            "children": [
+                5
+            ]
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 40,
+            "width": 121,
+            "position": {
+                "column_min": 1715,
+                "row_min": 1,
+                "column_max": 1836,
+                "row_max": 41
+            },
+            "children": [
+                6
+            ]
+        }
+    ],
+    "texts": [
+        {
+            "id": 2,
+            "class": "Text",
+            "height": 32,
+            "width": 108,
+            "position": {
+                "column_min": 6,
+                "row_min": 2,
+                "column_max": 114,
+                "row_max": 34
+            },
+            "text_content": "AIABC"
+        },
+        {
+            "id": 3,
+            "class": "Text",
+            "height": 20,
+            "width": 173,
+            "position": {
+                "column_min": 930,
+                "row_min": 7,
+                "column_max": 1103,
+                "row_max": 27
+            },
+            "text_content": "Friday 26 December 2025"
+        },
+        {
+            "id": 4,
+            "class": "Text",
+            "height": 33,
+            "width": 164,
+            "position": {
+                "column_min": 1148,
+                "row_min": 2,
+                "column_max": 1312,
+                "row_max": 35
+            },
+            "text_content": "Sorcccationsand weather"
+        },
+        {
+            "id": 5,
+            "class": "Text",
+            "height": 16,
+            "width": 58,
+            "position": {
+                "column_min": 1487,
+                "row_min": 9,
+                "column_max": 1545,
+                "row_max": 25
+            },
+            "text_content": "Search¡£",
+            "parent": 0
+        },
+        {
+            "id": 6,
+            "class": "Text",
+            "height": 16,
+            "width": 44,
+            "position": {
+                "column_min": 1771,
+                "row_min": 11,
+                "column_max": 1815,
+                "row_max": 27
+            },
+            "text_content": "Logl",
+            "parent": 1
+        },
+        {
+            "id": 7,
+            "class": "Text",
+            "height": 40,
+            "width": 214,
+            "position": {
+                "column_min": 1053,
+                "row_min": 81,
+                "column_max": 1267,
+                "row_max": 121
+            },
+            "text_content": "Wlisten Z:OOAM\nBOOAM\nOvernights with MichaolPavlich"
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 37,
+            "width": 211,
+            "position": {
+                "column_min": 37,
+                "row_min": 78,
+                "column_max": 248,
+                "row_max": 115
+            },
+            "text_content": "COFFSCOAST"
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 18,
+            "width": 48,
+            "position": {
+                "column_min": 323,
+                "row_min": 89,
+                "column_max": 371,
+                "row_max": 107
+            },
+            "text_content": "Home"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 25,
+            "width": 79,
+            "position": {
+                "column_min": 399,
+                "row_min": 87,
+                "column_max": 478,
+                "row_max": 112
+            },
+            "text_content": "Programs"
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 20,
+            "width": 92,
+            "position": {
+                "column_min": 503,
+                "row_min": 87,
+                "column_max": 595,
+                "row_max": 107
+            },
+            "text_content": "Listen Back"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 16,
+            "width": 46,
+            "position": {
+                "column_min": 623,
+                "row_min": 91,
+                "column_max": 669,
+                "row_max": 107
+            },
+            "text_content": "News"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 18,
+            "width": 68,
+            "position": {
+                "column_min": 697,
+                "row_min": 89,
+                "column_max": 765,
+                "row_max": 107
+            },
+            "text_content": "Weather"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 21,
+            "width": 138,
+            "position": {
+                "column_min": 879,
+                "row_min": 87,
+                "column_max": 1017,
+                "row_max": 108
+            },
+            "text_content": "PLAY LIVE RADIO"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": null,
+            "bottom": null,
+            "left": 4,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": null
+        },
+        "1": {
+            "top": null,
+            "bottom": null,
+            "left": 0,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": null
+        },
+        "2": {
+            "top": null,
+            "bottom": 8,
+            "left": null,
+            "right": 3,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 9
+        },
+        "3": {
+            "top": null,
+            "bottom": 7,
+            "left": 2,
+            "right": 4,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 13,
+            "bottom_right": null
+        },
+        "4": {
+            "top": null,
+            "bottom": 7,
+            "left": 3,
+            "right": 0,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 14,
+            "bottom_right": null
+        },
+        "5": {
+            "top": null,
+            "bottom": null,
+            "left": 4,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": null
+        },
+        "6": {
+            "top": null,
+            "bottom": null,
+            "left": 0,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": null
+        },
+        "7": {
+            "top": 4,
+            "bottom": null,
+            "left": 14,
+            "right": null,
+            "top_left": 2,
+            "top_right": 5,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "8": {
+            "top": 2,
+            "bottom": null,
+            "left": null,
+            "right": 9,
+            "top_left": null,
+            "top_right": 3,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "9": {
+            "top": null,
+            "bottom": null,
+            "left": 8,
+            "right": 10,
+            "top_left": 2,
+            "top_right": 3,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "10": {
+            "top": null,
+            "bottom": null,
+            "left": 9,
+            "right": 11,
+            "top_left": 2,
+            "top_right": 3,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "11": {
+            "top": null,
+            "bottom": null,
+            "left": 10,
+            "right": 12,
+            "top_left": 2,
+            "top_right": 3,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "12": {
+            "top": null,
+            "bottom": null,
+            "left": 11,
+            "right": 13,
+            "top_left": 2,
+            "top_right": 3,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "13": {
+            "top": null,
+            "bottom": null,
+            "left": 12,
+            "right": 14,
+            "top_left": 2,
+            "top_right": 3,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "14": {
+            "top": 3,
+            "bottom": null,
+            "left": 13,
+            "right": 7,
+            "top_left": 2,
+            "top_right": 4,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

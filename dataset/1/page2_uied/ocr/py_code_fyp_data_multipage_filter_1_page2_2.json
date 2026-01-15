@@ -1,0 +1,219 @@
+{
+    "img_shape": [
+        1182,
+        1197,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Latest",
+            "column_min": 33,
+            "row_min": 15,
+            "column_max": 137,
+            "row_max": 51,
+            "width": 104,
+            "height": 36
+        },
+        {
+            "id": 1,
+            "content": "Woman charged over\nfatal Mount Druitt\nstabbing\nEmergency services were called to\nbUs station at Mount Druittin August to\nfind two Ig-year-old men with stab\nWounds",
+            "column_min": 616,
+            "row_min": 238,
+            "column_max": 891,
+            "row_max": 431,
+            "width": 275,
+            "height": 193
+        },
+        {
+            "id": 2,
+            "content": "Mixed bag for NSW\noyster growersas peak\nChristmas demand\nlooms",
+            "column_min": 917,
+            "row_min": 233,
+            "column_max": 1182,
+            "row_max": 360,
+            "width": 265,
+            "height": 127
+        },
+        {
+            "id": 3,
+            "content": "The Christmas Oyster harvestis\nflourishing on the NSW south coast\nbut\nfurthernorthi i5\ndifferent story\ngrowers face the fallout ofthis years\nrecord-breaking floods\u3002\nVery",
+            "column_min": 918,
+            "row_min": 375,
+            "column_max": 1191,
+            "row_max": 489,
+            "width": 273,
+            "height": 114
+        },
+        {
+            "id": 4,
+            "content": "Howa nursing home tackled racism\nby celebrating culture\n2Oh a90\nABC ILLAWARRA\nAGED CARE\nby Penny Burfitt",
+            "column_min": 16,
+            "row_min": 405,
+            "column_max": 555,
+            "row_max": 513,
+            "width": 539,
+            "height": 108
+        },
+        {
+            "id": 5,
+            "content": "Weo ABC NEWIS",
+            "column_min": 619,
+            "row_min": 447,
+            "column_max": 735,
+            "row_max": 461,
+            "width": 116,
+            "height": 14
+        },
+        {
+            "id": 6,
+            "content": "CRIME",
+            "column_min": 755,
+            "row_min": 447,
+            "column_max": 795,
+            "row_max": 461,
+            "width": 40,
+            "height": 14
+        },
+        {
+            "id": 7,
+            "content": "TUe\nAND AQUACULTURE INDUSTRY\nABC SOUTH EAST NSW\nby Lauren Bohane,Jacinta Counihanand\nFISHING\nRomy Gilbert",
+            "column_min": 920,
+            "row_min": 503,
+            "column_max": 1171,
+            "row_max": 579,
+            "width": 251,
+            "height": 76
+        },
+        {
+            "id": 8,
+            "content": "NSW hospital patients\nswelter withoutaircon\nduringheatwave",
+            "column_min": 15,
+            "row_min": 776,
+            "column_max": 278,
+            "row_max": 876,
+            "width": 263,
+            "height": 100
+        },
+        {
+            "id": 9,
+            "content": "Search underway for\nrock fsherman missing\non NSW South Coast",
+            "column_min": 317,
+            "row_min": 778,
+            "column_max": 586,
+            "row_max": 872,
+            "width": 269,
+            "height": 94
+        },
+        {
+            "id": 10,
+            "content": "University accusedof\n'falseadvertising'after\ncuts disrupt degrees\nA University of Wollongong student\nSays she left the institution after being\nUnable to complete core subjects due\ntO COUTse CUts",
+            "column_min": 616,
+            "row_min": 775,
+            "column_max": 883,
+            "row_max": 975,
+            "width": 267,
+            "height": 200
+        },
+        {
+            "id": 11,
+            "content": "Baker went tojailin\n1977 5o you can enjoy\nfreshbreadat\nweekends",
+            "column_min": 918,
+            "row_min": 780,
+            "column_max": 1162,
+            "row_max": 902,
+            "width": 244,
+            "height": 122
+        },
+        {
+            "id": 12,
+            "content": "Patients swelterin an Illawarra hospital\nWard after an air conditioning unit fails\nduring\nheatwave",
+            "column_min": 20,
+            "row_min": 887,
+            "column_max": 289,
+            "row_max": 953,
+            "width": 269,
+            "height": 66
+        },
+        {
+            "id": 13,
+            "content": "Emergency services launcha multi-\nagency searchfor\nman last seen rock\nfishing at Bushrangers\nsouth of\nWollongong\nMonday evening_\nBay",
+            "column_min": 320,
+            "row_min": 886,
+            "column_max": 585,
+            "row_max": 978,
+            "width": 265,
+            "height": 92
+        },
+        {
+            "id": 14,
+            "content": "Richard Warby still remembers the\nhis local community piled into\nmini-\nbus bound for Long\nJailto pay\nfne and release his father Who Was\nlocked Up forthe bizarre crime of\nbaking bread on\nweekend\u3002\nday\nBay",
+            "column_min": 919,
+            "row_min": 917,
+            "column_max": 1180,
+            "row_max": 1057,
+            "width": 261,
+            "height": 140
+        },
+        {
+            "id": 15,
+            "content": "Tue\nHEALTH\nABC ILLAWARRA\nby Penny Burfitt\nPUBLIC",
+            "column_min": 19,
+            "row_min": 965,
+            "column_max": 229,
+            "row_max": 1001,
+            "width": 210,
+            "height": 36
+        },
+        {
+            "id": 16,
+            "content": "Tue\nEMERGENCY INCIDENTS\nABC ILLAWARRA",
+            "column_min": 319,
+            "row_min": 989,
+            "column_max": 465,
+            "row_max": 1025,
+            "width": 146,
+            "height": 36
+        },
+        {
+            "id": 17,
+            "content": "ACCIDENTS AND\nby Romy Gilbert",
+            "column_min": 483,
+            "row_min": 989,
+            "column_max": 585,
+            "row_max": 1025,
+            "width": 102,
+            "height": 36
+        },
+        {
+            "id": 18,
+            "content": "Mon\nILLAWARRA\nABC\nby Penny Burfitt andBrooke Chandler\nUNIVERSITIES",
+            "column_min": 619,
+            "row_min": 991,
+            "column_max": 851,
+            "row_max": 1045,
+            "width": 232,
+            "height": 54
+        },
+        {
+            "id": 19,
+            "content": "Sun\nby Justin Huntsdale andBrooke Chandler\nABC ILLAWARRA\nHISTORY",
+            "column_min": 921,
+            "row_min": 1071,
+            "column_max": 1173,
+            "row_max": 1105,
+            "width": 252,
+            "height": 34
+        },
+        {
+            "id": 20,
+            "content": "More from Illawarra",
+            "column_min": 975,
+            "row_min": 1135,
+            "column_max": 1161,
+            "row_max": 1155,
+            "width": 186,
+            "height": 20
+        }
+    ]
+}

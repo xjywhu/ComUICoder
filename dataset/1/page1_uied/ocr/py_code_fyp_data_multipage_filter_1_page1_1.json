@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        155,
+        1884,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Set locatlon\nFor localnewsand weather",
+            "column_min": 1149,
+            "row_min": 9,
+            "column_max": 1311,
+            "row_max": 37,
+            "width": 162,
+            "height": 28
+        },
+        {
+            "id": 1,
+            "content": "AABC",
+            "column_min": 5,
+            "row_min": 5,
+            "column_max": 115,
+            "row_max": 41,
+            "width": 110,
+            "height": 36
+        },
+        {
+            "id": 2,
+            "content": "Friday 26 December 2025",
+            "column_min": 930,
+            "row_min": 13,
+            "column_max": 1103,
+            "row_max": 33,
+            "width": 173,
+            "height": 20
+        },
+        {
+            "id": 3,
+            "content": "Search\u3002",
+            "column_min": 1487,
+            "row_min": 15,
+            "column_max": 1547,
+            "row_max": 31,
+            "width": 60,
+            "height": 16
+        },
+        {
+            "id": 4,
+            "content": "Logl",
+            "column_min": 1771,
+            "row_min": 17,
+            "column_max": 1815,
+            "row_max": 33,
+            "width": 44,
+            "height": 16
+        },
+        {
+            "id": 5,
+            "content": "Wlisten Z:OOAM\nBOOAM\nOvernights with MichaolPavlich",
+            "column_min": 969,
+            "row_min": 87,
+            "column_max": 1183,
+            "row_max": 127,
+            "width": 214,
+            "height": 40
+        },
+        {
+            "id": 6,
+            "content": "SYDNEY",
+            "column_min": 38,
+            "row_min": 88,
+            "column_max": 162,
+            "row_max": 120,
+            "width": 124,
+            "height": 32
+        },
+        {
+            "id": 7,
+            "content": "Home",
+            "column_min": 237,
+            "row_min": 93,
+            "column_max": 287,
+            "row_max": 113,
+            "width": 50,
+            "height": 20
+        },
+        {
+            "id": 8,
+            "content": "Programs",
+            "column_min": 313,
+            "row_min": 93,
+            "column_max": 394,
+            "row_max": 118,
+            "width": 81,
+            "height": 25
+        },
+        {
+            "id": 9,
+            "content": "Listen Back",
+            "column_min": 421,
+            "row_min": 93,
+            "column_max": 511,
+            "row_max": 113,
+            "width": 90,
+            "height": 20
+        },
+        {
+            "id": 10,
+            "content": "News",
+            "column_min": 539,
+            "row_min": 95,
+            "column_max": 585,
+            "row_max": 113,
+            "width": 46,
+            "height": 18
+        },
+        {
+            "id": 11,
+            "content": "Weather",
+            "column_min": 613,
+            "row_min": 97,
+            "column_max": 681,
+            "row_max": 113,
+            "width": 68,
+            "height": 16
+        },
+        {
+            "id": 12,
+            "content": "PLAY LIVE RADIO",
+            "column_min": 795,
+            "row_min": 93,
+            "column_max": 933,
+            "row_max": 113,
+            "width": 138,
+            "height": 20
+        }
+    ]
+}

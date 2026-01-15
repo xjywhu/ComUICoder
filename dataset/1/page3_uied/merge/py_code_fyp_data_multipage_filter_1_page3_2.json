@@ -1,0 +1,974 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 40,
+            "width": 6,
+            "position": {
+                "column_min": 8,
+                "row_min": 3,
+                "column_max": 14,
+                "row_max": 43
+            }
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 608,
+                "row_min": 59,
+                "column_max": 876,
+                "row_max": 210
+            }
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 908,
+                "row_min": 59,
+                "column_max": 1176,
+                "row_max": 210
+            }
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 10,
+            "width": 15,
+            "position": {
+                "column_min": 1155,
+                "row_min": 368,
+                "column_max": 1170,
+                "row_max": 378
+            }
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 4,
+            "width": 3,
+            "position": {
+                "column_min": 1171,
+                "row_min": 376,
+                "column_max": 1174,
+                "row_max": 380
+            }
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 8,
+            "width": 8,
+            "position": {
+                "column_min": 1163,
+                "row_min": 394,
+                "column_max": 1171,
+                "row_max": 402
+            }
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 10,
+            "width": 6,
+            "position": {
+                "column_min": 801,
+                "row_min": 471,
+                "column_max": 807,
+                "row_max": 481
+            }
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 8,
+                "row_min": 538,
+                "column_max": 276,
+                "row_max": 689
+            }
+        },
+        {
+            "id": 8,
+            "class": "Compo",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 608,
+                "row_min": 538,
+                "column_max": 876,
+                "row_max": 689
+            }
+        },
+        {
+            "id": 9,
+            "class": "Compo",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 908,
+                "row_min": 538,
+                "column_max": 1176,
+                "row_max": 689
+            }
+        },
+        {
+            "id": 10,
+            "class": "Compo",
+            "height": 10,
+            "width": 6,
+            "position": {
+                "column_min": 227,
+                "row_min": 914,
+                "column_max": 233,
+                "row_max": 924
+            }
+        },
+        {
+            "id": 11,
+            "class": "Compo",
+            "height": 10,
+            "width": 7,
+            "position": {
+                "column_min": 1094,
+                "row_min": 950,
+                "column_max": 1101,
+                "row_max": 960
+            }
+        },
+        {
+            "id": 12,
+            "class": "Compo",
+            "height": 10,
+            "width": 6,
+            "position": {
+                "column_min": 831,
+                "row_min": 970,
+                "column_max": 837,
+                "row_max": 980
+            }
+        },
+        {
+            "id": 13,
+            "class": "Compo",
+            "height": 14,
+            "width": 16,
+            "position": {
+                "column_min": 1158,
+                "row_min": 1037,
+                "column_max": 1174,
+                "row_max": 1051
+            }
+        },
+        {
+            "id": 14,
+            "class": "Block",
+            "height": 320,
+            "width": 568,
+            "position": {
+                "column_min": 8,
+                "row_min": 59,
+                "column_max": 576,
+                "row_max": 379
+            },
+            "children": [
+                16,
+                21
+            ]
+        },
+        {
+            "id": 15,
+            "class": "Compo",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 308,
+                "row_min": 538,
+                "column_max": 576,
+                "row_max": 689
+            },
+            "children": [
+                17,
+                27
+            ]
+        },
+        {
+            "id": 16,
+            "class": "Compo",
+            "height": 47,
+            "width": 85,
+            "position": {
+                "column_min": 9,
+                "row_min": 331,
+                "column_max": 94,
+                "row_max": 378
+            },
+            "children": [
+                21
+            ],
+            "parent": 14
+        },
+        {
+            "id": 17,
+            "class": "Compo",
+            "height": 47,
+            "width": 85,
+            "position": {
+                "column_min": 309,
+                "row_min": 641,
+                "column_max": 394,
+                "row_max": 688
+            },
+            "children": [
+                27
+            ],
+            "parent": 15
+        }
+    ],
+    "texts": [
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 36,
+            "width": 104,
+            "position": {
+                "column_min": 21,
+                "row_min": 5,
+                "column_max": 125,
+                "row_max": 41
+            },
+            "text_content": "Latest"
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 127,
+            "width": 254,
+            "position": {
+                "column_min": 605,
+                "row_min": 223,
+                "column_max": 859,
+                "row_max": 350
+            },
+            "text_content": "Smallregional charity\nstops thousandsof\nNepali girls being\ntrafficked"
+        },
+        {
+            "id": 20,
+            "class": "Text",
+            "height": 227,
+            "width": 259,
+            "position": {
+                "column_min": 904,
+                "row_min": 226,
+                "column_max": 1163,
+                "row_max": 453
+            },
+            "text_content": "Samoanfarm Worker\nsentenced to eight\nyears'jail for rapeof\nteenage girl\nAgaalofa Agaalofa\nSamoan national\nisjailed for raping\n17-year-old girlon\nbeach on the NSI mid north coastin\n2023"
+        },
+        {
+            "id": 21,
+            "class": "Text",
+            "height": 14,
+            "width": 26,
+            "position": {
+                "column_min": 51,
+                "row_min": 349,
+                "column_max": 77,
+                "row_max": 363
+            },
+            "text_content": "6m",
+            "parent": 16
+        },
+        {
+            "id": 22,
+            "class": "Text",
+            "height": 88,
+            "width": 262,
+            "position": {
+                "column_min": 609,
+                "row_min": 367,
+                "column_max": 871,
+                "row_max": 455
+            },
+            "text_content": "Atter hearing harrowing stories ot\nabUse against young Nepalese women\nand girls\nPort Macquarie man Ross\nNancarrow wanted to help¡£"
+        },
+        {
+            "id": 23,
+            "class": "Text",
+            "height": 104,
+            "width": 502,
+            "position": {
+                "column_min": 3,
+                "row_min": 397,
+                "column_max": 505,
+                "row_max": 501
+            },
+            "text_content": "Seasonal Worker sentencedafter\npleading guilty to rape\nMon\nABC PACIFIC\nSEXUAL OFFENCES\nby Jordan Fennell"
+        },
+        {
+            "id": 24,
+            "class": "Text",
+            "height": 36,
+            "width": 190,
+            "position": {
+                "column_min": 609,
+                "row_min": 469,
+                "column_max": 799,
+                "row_max": 505
+            },
+            "text_content": "Sun\nTRAFFICKING\nABC MID NORTH COAST\nby Wiriya Sati"
+        },
+        {
+            "id": 25,
+            "class": "Text",
+            "height": 14,
+            "width": 48,
+            "position": {
+                "column_min": 815,
+                "row_min": 469,
+                "column_max": 863,
+                "row_max": 483
+            },
+            "text_content": "HUMAN"
+        },
+        {
+            "id": 26,
+            "class": "Text",
+            "height": 36,
+            "width": 258,
+            "position": {
+                "column_min": 909,
+                "row_min": 469,
+                "column_max": 1167,
+                "row_max": 505
+            },
+            "text_content": "Dec 2025\nCOAST\nCOURTS\nABC COFFS\nby Claire Simmonds"
+        },
+        {
+            "id": 27,
+            "class": "Text",
+            "height": 14,
+            "width": 26,
+            "position": {
+                "column_min": 351,
+                "row_min": 659,
+                "column_max": 377,
+                "row_max": 673
+            },
+            "text_content": "2m",
+            "parent": 17
+        },
+        {
+            "id": 28,
+            "class": "Text",
+            "height": 97,
+            "width": 271,
+            "position": {
+                "column_min": 5,
+                "row_min": 704,
+                "column_max": 276,
+                "row_max": 801
+            },
+            "text_content": "Former rough sleepers\ncoffee sacrifice planted\nseedsforhis charity"
+        },
+        {
+            "id": 29,
+            "class": "Text",
+            "height": 99,
+            "width": 267,
+            "position": {
+                "column_min": 306,
+                "row_min": 701,
+                "column_max": 573,
+                "row_max": 800
+            },
+            "text_content": "The budding musicians\n'staying proud' through\nIndigenous rap music"
+        },
+        {
+            "id": 30,
+            "class": "Text",
+            "height": 126,
+            "width": 256,
+            "position": {
+                "column_min": 604,
+                "row_min": 706,
+                "column_max": 860,
+                "row_max": 832
+            },
+            "text_content": "Migrant workers\ntreated 'tike pigs'amid\nclaims ofmodern\nslavery"
+        },
+        {
+            "id": 31,
+            "class": "Text",
+            "height": 127,
+            "width": 252,
+            "position": {
+                "column_min": 904,
+                "row_min": 701,
+                "column_max": 1156,
+                "row_max": 828
+            },
+            "text_content": "Electricity price\nblowout between city\nand countrya 'dire\nsituation'"
+        },
+        {
+            "id": 32,
+            "class": "Text",
+            "height": 66,
+            "width": 267,
+            "position": {
+                "column_min": 6,
+                "row_min": 813,
+                "column_max": 273,
+                "row_max": 879
+            },
+            "text_content": "Graham Lee is behind\nthousands of dollars through people\ncharity raising\nsacrificing one takeaway Coffee\nWeCk"
+        },
+        {
+            "id": 33,
+            "class": "Text",
+            "height": 88,
+            "width": 254,
+            "position": {
+                "column_min": 307,
+                "row_min": 813,
+                "column_max": 561,
+                "row_max": 901
+            },
+            "text_content": "With sounds recordedin a makeshift\nstudio, this group of high school\nstudents produced music about First\nNations Culture"
+        },
+        {
+            "id": 34,
+            "class": "Text",
+            "height": 91,
+            "width": 254,
+            "position": {
+                "column_min": 607,
+                "row_min": 844,
+                "column_max": 861,
+                "row_max": 935
+            },
+            "text_content": "Witnesses have told aninquiry into\nmodern slavery that migrant workers\nare being exploitedin the nations\nblueberry capital¡£"
+        },
+        {
+            "id": 35,
+            "class": "Text",
+            "height": 93,
+            "width": 256,
+            "position": {
+                "column_min": 907,
+                "row_min": 843,
+                "column_max": 1163,
+                "row_max": 936
+            },
+            "text_content": "Regional ratepayers are shouldering\nhigher energy bills than their city\ncounterparts, and their councils have\nhad enough¡£"
+        },
+        {
+            "id": 36,
+            "class": "Text",
+            "height": 56,
+            "width": 216,
+            "position": {
+                "column_min": 7,
+                "row_min": 891,
+                "column_max": 223,
+                "row_max": 947
+            },
+            "text_content": "14 Dec 2025\nCOAST\nREGIONAL COMMUNITIES\nABC MID NORTH\nby Emma Siossian"
+        },
+        {
+            "id": 37,
+            "class": "Text",
+            "height": 54,
+            "width": 202,
+            "position": {
+                "column_min": 307,
+                "row_min": 917,
+                "column_max": 509,
+                "row_max": 971
+            },
+            "text_content": "14 Dec 2025\nNSI\nINDIGENOUS MUSIC\nABC SOUTH EAST\nby Floss Adams andlsla Evans"
+        },
+        {
+            "id": 38,
+            "class": "Text",
+            "height": 56,
+            "width": 218,
+            "position": {
+                "column_min": 609,
+                "row_min": 947,
+                "column_max": 827,
+                "row_max": 1003
+            },
+            "text_content": "13 Dec 2025\nCOAST\nAGRICULTURAL WORKERS\nABC COFFS\nby Charles Rushforth"
+        },
+        {
+            "id": 39,
+            "class": "Text",
+            "height": 34,
+            "width": 182,
+            "position": {
+                "column_min": 907,
+                "row_min": 949,
+                "column_max": 1089,
+                "row_max": 983
+            },
+            "text_content": "12 Dec 2025\nLIVING\nby Nicola Ceccato\nABC RIVERINA"
+        },
+        {
+            "id": 40,
+            "class": "Text",
+            "height": 14,
+            "width": 54,
+            "position": {
+                "column_min": 1109,
+                "row_min": 949,
+                "column_max": 1163,
+                "row_max": 963
+            },
+            "text_content": "COSTOF"
+        },
+        {
+            "id": 41,
+            "class": "Text",
+            "height": 20,
+            "width": 214,
+            "position": {
+                "column_min": 937,
+                "row_min": 1033,
+                "column_max": 1151,
+                "row_max": 1053
+            },
+            "text_content": "More from Coffs Coast"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": null,
+            "bottom": 14,
+            "left": null,
+            "right": 18,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 21
+        },
+        "1": {
+            "top": null,
+            "bottom": 19,
+            "left": 14,
+            "right": 2,
+            "top_left": 18,
+            "top_right": null,
+            "bottom_left": 15,
+            "bottom_right": 20
+        },
+        "2": {
+            "top": null,
+            "bottom": 20,
+            "left": 1,
+            "right": null,
+            "top_left": 18,
+            "top_right": null,
+            "bottom_left": 19,
+            "bottom_right": null
+        },
+        "3": {
+            "top": 2,
+            "bottom": 5,
+            "left": 22,
+            "right": 4,
+            "top_left": 19,
+            "top_right": null,
+            "bottom_left": 25,
+            "bottom_right": null
+        },
+        "4": {
+            "top": 2,
+            "bottom": 5,
+            "left": 3,
+            "right": null,
+            "top_left": 19,
+            "top_right": null,
+            "bottom_left": 26,
+            "bottom_right": null
+        },
+        "5": {
+            "top": 4,
+            "bottom": 26,
+            "left": 22,
+            "right": null,
+            "top_left": 19,
+            "top_right": null,
+            "bottom_left": 25,
+            "bottom_right": null
+        },
+        "6": {
+            "top": 22,
+            "bottom": 8,
+            "left": 24,
+            "right": 25,
+            "top_left": 14,
+            "top_right": 20,
+            "bottom_left": 15,
+            "bottom_right": 9
+        },
+        "7": {
+            "top": 23,
+            "bottom": 28,
+            "left": null,
+            "right": 15,
+            "top_left": null,
+            "top_right": 24,
+            "bottom_left": null,
+            "bottom_right": 29
+        },
+        "8": {
+            "top": 24,
+            "bottom": 30,
+            "left": 15,
+            "right": 9,
+            "top_left": 23,
+            "top_right": 26,
+            "bottom_left": 29,
+            "bottom_right": 31
+        },
+        "9": {
+            "top": 26,
+            "bottom": 31,
+            "left": 8,
+            "right": null,
+            "top_left": 25,
+            "top_right": null,
+            "bottom_left": 30,
+            "bottom_right": null
+        },
+        "10": {
+            "top": 32,
+            "bottom": null,
+            "left": 36,
+            "right": 37,
+            "top_left": 21,
+            "top_right": 33,
+            "bottom_left": null,
+            "bottom_right": 38
+        },
+        "11": {
+            "top": 35,
+            "bottom": 41,
+            "left": 39,
+            "right": 40,
+            "top_left": 34,
+            "top_right": 5,
+            "bottom_left": 12,
+            "bottom_right": 13
+        },
+        "12": {
+            "top": 34,
+            "bottom": null,
+            "left": 38,
+            "right": 39,
+            "top_left": 33,
+            "top_right": 35,
+            "bottom_left": null,
+            "bottom_right": 41
+        },
+        "13": {
+            "top": 40,
+            "bottom": null,
+            "left": 41,
+            "right": null,
+            "top_left": 11,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "14": {
+            "top": 0,
+            "bottom": 23,
+            "left": null,
+            "right": 19,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 24
+        },
+        "15": {
+            "top": 23,
+            "bottom": 29,
+            "left": 7,
+            "right": 8,
+            "top_left": 21,
+            "top_right": 24,
+            "bottom_left": 28,
+            "bottom_right": 30
+        },
+        "16": {
+            "top": 0,
+            "bottom": 23,
+            "left": null,
+            "right": 19,
+            "top_left": null,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 17
+        },
+        "17": {
+            "top": 23,
+            "bottom": 29,
+            "left": 7,
+            "right": 8,
+            "top_left": 21,
+            "top_right": 24,
+            "bottom_left": 28,
+            "bottom_right": 30
+        },
+        "18": {
+            "top": null,
+            "bottom": 14,
+            "left": 0,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 1
+        },
+        "19": {
+            "top": 1,
+            "bottom": 22,
+            "left": 14,
+            "right": 20,
+            "top_left": 18,
+            "top_right": 2,
+            "bottom_left": 15,
+            "bottom_right": 26
+        },
+        "20": {
+            "top": 2,
+            "bottom": 26,
+            "left": 22,
+            "right": 4,
+            "top_left": 1,
+            "top_right": null,
+            "bottom_left": 25,
+            "bottom_right": null
+        },
+        "21": {
+            "top": 18,
+            "bottom": 23,
+            "left": null,
+            "right": 19,
+            "top_left": 0,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 17
+        },
+        "22": {
+            "top": 19,
+            "bottom": 24,
+            "left": 14,
+            "right": 20,
+            "top_left": 21,
+            "top_right": 2,
+            "bottom_left": 15,
+            "bottom_right": 26
+        },
+        "23": {
+            "top": 14,
+            "bottom": 7,
+            "left": null,
+            "right": 22,
+            "top_left": null,
+            "top_right": 19,
+            "bottom_left": null,
+            "bottom_right": 8
+        },
+        "24": {
+            "top": 22,
+            "bottom": 8,
+            "left": 23,
+            "right": 6,
+            "top_left": 14,
+            "top_right": 20,
+            "bottom_left": 15,
+            "bottom_right": 9
+        },
+        "25": {
+            "top": 22,
+            "bottom": 8,
+            "left": 6,
+            "right": 26,
+            "top_left": 14,
+            "top_right": 20,
+            "bottom_left": 15,
+            "bottom_right": 9
+        },
+        "26": {
+            "top": 20,
+            "bottom": 9,
+            "left": 25,
+            "right": null,
+            "top_left": 22,
+            "top_right": 4,
+            "bottom_left": 8,
+            "bottom_right": null
+        },
+        "27": {
+            "top": 23,
+            "bottom": 29,
+            "left": 7,
+            "right": 8,
+            "top_left": 21,
+            "top_right": 24,
+            "bottom_left": 28,
+            "bottom_right": 30
+        },
+        "28": {
+            "top": 7,
+            "bottom": 32,
+            "left": null,
+            "right": 29,
+            "top_left": null,
+            "top_right": 17,
+            "bottom_left": null,
+            "bottom_right": 33
+        },
+        "29": {
+            "top": 15,
+            "bottom": 33,
+            "left": 28,
+            "right": 30,
+            "top_left": 7,
+            "top_right": 8,
+            "bottom_left": 10,
+            "bottom_right": 34
+        },
+        "30": {
+            "top": 8,
+            "bottom": 34,
+            "left": 29,
+            "right": 31,
+            "top_left": 15,
+            "top_right": 9,
+            "bottom_left": 37,
+            "bottom_right": 35
+        },
+        "31": {
+            "top": 9,
+            "bottom": 35,
+            "left": 30,
+            "right": null,
+            "top_left": 8,
+            "top_right": 5,
+            "bottom_left": 12,
+            "bottom_right": 13
+        },
+        "32": {
+            "top": 28,
+            "bottom": 36,
+            "left": null,
+            "right": 33,
+            "top_left": null,
+            "top_right": 17,
+            "bottom_left": null,
+            "bottom_right": 37
+        },
+        "33": {
+            "top": 29,
+            "bottom": 37,
+            "left": 32,
+            "right": 30,
+            "top_left": 28,
+            "top_right": 8,
+            "bottom_left": 10,
+            "bottom_right": 38
+        },
+        "34": {
+            "top": 30,
+            "bottom": 38,
+            "left": 33,
+            "right": 35,
+            "top_left": 29,
+            "top_right": 31,
+            "bottom_left": null,
+            "bottom_right": 39
+        },
+        "35": {
+            "top": 31,
+            "bottom": 39,
+            "left": 34,
+            "right": null,
+            "top_left": 30,
+            "top_right": 4,
+            "bottom_left": 12,
+            "bottom_right": null
+        },
+        "36": {
+            "top": 32,
+            "bottom": null,
+            "left": null,
+            "right": 10,
+            "top_left": null,
+            "top_right": 17,
+            "bottom_left": null,
+            "bottom_right": 12
+        },
+        "37": {
+            "top": 33,
+            "bottom": null,
+            "left": 10,
+            "right": 34,
+            "top_left": 32,
+            "top_right": 30,
+            "bottom_left": null,
+            "bottom_right": 41
+        },
+        "38": {
+            "top": 34,
+            "bottom": null,
+            "left": 37,
+            "right": 12,
+            "top_left": 33,
+            "top_right": 35,
+            "bottom_left": null,
+            "bottom_right": 41
+        },
+        "39": {
+            "top": 35,
+            "bottom": 41,
+            "left": 12,
+            "right": 11,
+            "top_left": 34,
+            "top_right": 5,
+            "bottom_left": null,
+            "bottom_right": 13
+        },
+        "40": {
+            "top": 35,
+            "bottom": 41,
+            "left": 11,
+            "right": null,
+            "top_left": 34,
+            "top_right": 4,
+            "bottom_left": 12,
+            "bottom_right": null
+        },
+        "41": {
+            "top": 39,
+            "bottom": null,
+            "left": null,
+            "right": 13,
+            "top_left": 12,
+            "top_right": 5,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

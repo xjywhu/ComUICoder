@@ -1,0 +1,122 @@
+{
+    "compos": [],
+    "texts": [
+        {
+            "id": 0,
+            "class": "Text",
+            "height": 42,
+            "width": 304,
+            "position": {
+                "column_min": 13,
+                "row_min": 11,
+                "column_max": 317,
+                "row_max": 53
+            },
+            "text_content": "Other ways to listen"
+        },
+        {
+            "id": 1,
+            "class": "Text",
+            "height": 26,
+            "width": 779,
+            "position": {
+                "column_min": 13,
+                "row_min": 79,
+                "column_max": 792,
+                "row_max": 105
+            },
+            "text_content": "Listen online\nonthe ABC listenapp\non channel 25 on your television, via DABt\nDigital Radio, or On Air"
+        },
+        {
+            "id": 2,
+            "class": "Text",
+            "height": 20,
+            "width": 60,
+            "position": {
+                "column_min": 37,
+                "row_min": 121,
+                "column_max": 97,
+                "row_max": 141
+            },
+            "text_content": "702 AM"
+        },
+        {
+            "id": 3,
+            "class": "Text",
+            "height": 24,
+            "width": 408,
+            "position": {
+                "column_min": 14,
+                "row_min": 168,
+                "column_max": 422,
+                "row_max": 192
+            },
+            "text_content": "Orask your smart speaker to \"play ABC Radio Sydney"
+        },
+        {
+            "id": 4,
+            "class": "Text",
+            "height": 16,
+            "width": 76,
+            "position": {
+                "column_min": 1085,
+                "row_min": 273,
+                "column_max": 1161,
+                "row_max": 289
+            },
+            "text_content": "Backtotop"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": null,
+            "bottom": 1,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 4
+        },
+        "1": {
+            "top": 0,
+            "bottom": 2,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 4
+        },
+        "2": {
+            "top": 1,
+            "bottom": 3,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 4
+        },
+        "3": {
+            "top": 2,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 4
+        },
+        "4": {
+            "top": null,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "top_left": 1,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

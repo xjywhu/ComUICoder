@@ -1,0 +1,487 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 12,
+                "row_min": 68,
+                "column_max": 280,
+                "row_max": 219
+            }
+        },
+        {
+            "id": 1,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 312,
+                "row_min": 68,
+                "column_max": 580,
+                "row_max": 219
+            }
+        },
+        {
+            "id": 2,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 612,
+                "row_min": 68,
+                "column_max": 880,
+                "row_max": 219
+            }
+        },
+        {
+            "id": 3,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 912,
+                "row_min": 68,
+                "column_max": 1180,
+                "row_max": 219
+            }
+        }
+    ],
+    "texts": [
+        {
+            "id": 4,
+            "class": "Text",
+            "height": 44,
+            "width": 278,
+            "position": {
+                "column_min": 27,
+                "row_min": 11,
+                "column_max": 305,
+                "row_max": 55
+            },
+            "text_content": "What's happening"
+        },
+        {
+            "id": 5,
+            "class": "Text",
+            "height": 62,
+            "width": 228,
+            "position": {
+                "column_min": 10,
+                "row_min": 236,
+                "column_max": 238,
+                "row_max": 298
+            },
+            "text_content": "Localnews direct to\nyourinbox"
+        },
+        {
+            "id": 6,
+            "class": "Text",
+            "height": 62,
+            "width": 266,
+            "position": {
+                "column_min": 308,
+                "row_min": 236,
+                "column_max": 574,
+                "row_max": 298
+            },
+            "text_content": "Download our free ABC\nlistenapp"
+        },
+        {
+            "id": 7,
+            "class": "Text",
+            "height": 63,
+            "width": 249,
+            "position": {
+                "column_min": 609,
+                "row_min": 236,
+                "column_max": 858,
+                "row_max": 299
+            },
+            "text_content": "Know Your ABCsinan\nEmergency"
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 63,
+            "width": 249,
+            "position": {
+                "column_min": 909,
+                "row_min": 235,
+                "column_max": 1158,
+                "row_max": 298
+            },
+            "text_content": "Know your ABCsinan\nemergency"
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 88,
+            "width": 270,
+            "position": {
+                "column_min": 13,
+                "row_min": 311,
+                "column_max": 283,
+                "row_max": 399
+            },
+            "text_content": "ABC Illawarras newsletter delivers local\nnews and stories from your community\nevery Thursday Sign upto stay\nconnected_"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 114,
+            "width": 264,
+            "position": {
+                "column_min": 313,
+                "row_min": 309,
+                "column_max": 577,
+                "row_max": 423
+            },
+            "text_content": "The ABC listen app connects you to the\nbest podcasts and live radio from the\npresenters yOU know and love\nDownload it today and hearthe world\ndifferently¡£"
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 138,
+            "width": 266,
+            "position": {
+                "column_min": 611,
+                "row_min": 311,
+                "column_max": 877,
+                "row_max": 449
+            },
+            "text_content": "This summer know JOUFABCs: action\nplan, he safe\nConnect With UIs.The ABC\nhas\nhost ofuseful resources and tips\non how to best prepare yourself for\nemergency weather 50 yOU can keep\nyoU and your household safe"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 138,
+            "width": 264,
+            "position": {
+                "column_min": 911,
+                "row_min": 311,
+                "column_max": 1175,
+                "row_max": 449
+            },
+            "text_content": "This summer know JOUFABCs: action\nplan, he safe\nConnect With UIs.The ABC\nhas\nhost ofuseful resources and tips\non how to best prepare yourself for\nemergency weather 50 yOU can keep\nyoU and your household safe"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 14,
+            "width": 56,
+            "position": {
+                "column_min": 23,
+                "row_min": 415,
+                "column_max": 79,
+                "row_max": 429
+            },
+            "text_content": "Jun 2021"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 14,
+            "width": 100,
+            "position": {
+                "column_min": 99,
+                "row_min": 415,
+                "column_max": 199,
+                "row_max": 429
+            },
+            "text_content": "ABC ILLAWIARRA"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 14,
+            "width": 78,
+            "position": {
+                "column_min": 311,
+                "row_min": 439,
+                "column_max": 389,
+                "row_max": 453
+            },
+            "text_content": "27 AUg 2024"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 14,
+            "width": 92,
+            "position": {
+                "column_min": 407,
+                "row_min": 439,
+                "column_max": 499,
+                "row_max": 453
+            },
+            "text_content": "ABC BRISBANE"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 14,
+            "width": 76,
+            "position": {
+                "column_min": 613,
+                "row_min": 463,
+                "column_max": 689,
+                "row_max": 477
+            },
+            "text_content": "20 NOr 2023"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 14,
+            "width": 78,
+            "position": {
+                "column_min": 709,
+                "row_min": 463,
+                "column_max": 787,
+                "row_max": 477
+            },
+            "text_content": "ABC SYDNEY"
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 34,
+            "width": 76,
+            "position": {
+                "column_min": 913,
+                "row_min": 463,
+                "column_max": 989,
+                "row_max": 497
+            },
+            "text_content": "11 Dec 2025\nEMERGENCY"
+        },
+        {
+            "id": 20,
+            "class": "Text",
+            "height": 34,
+            "width": 72,
+            "position": {
+                "column_min": 1005,
+                "row_min": 463,
+                "column_max": 1077,
+                "row_max": 497
+            },
+            "text_content": "ABC\nBUSHFIRES"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": 4,
+            "bottom": 5,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 6
+        },
+        "1": {
+            "top": null,
+            "bottom": 6,
+            "left": 0,
+            "right": 2,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 5,
+            "bottom_right": 7
+        },
+        "2": {
+            "top": null,
+            "bottom": 7,
+            "left": 1,
+            "right": 3,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 6,
+            "bottom_right": 8
+        },
+        "3": {
+            "top": null,
+            "bottom": 8,
+            "left": 2,
+            "right": null,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": null
+        },
+        "4": {
+            "top": null,
+            "bottom": 0,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 1
+        },
+        "5": {
+            "top": 0,
+            "bottom": 9,
+            "left": null,
+            "right": 6,
+            "top_left": null,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 15
+        },
+        "6": {
+            "top": 1,
+            "bottom": 10,
+            "left": 5,
+            "right": 7,
+            "top_left": 0,
+            "top_right": 2,
+            "bottom_left": 9,
+            "bottom_right": 17
+        },
+        "7": {
+            "top": 2,
+            "bottom": 11,
+            "left": 6,
+            "right": 8,
+            "top_left": 1,
+            "top_right": 3,
+            "bottom_left": 10,
+            "bottom_right": 19
+        },
+        "8": {
+            "top": 3,
+            "bottom": 12,
+            "left": 7,
+            "right": null,
+            "top_left": 2,
+            "top_right": null,
+            "bottom_left": 11,
+            "bottom_right": null
+        },
+        "9": {
+            "top": 5,
+            "bottom": 13,
+            "left": null,
+            "right": 10,
+            "top_left": null,
+            "top_right": 6,
+            "bottom_left": null,
+            "bottom_right": 15
+        },
+        "10": {
+            "top": 6,
+            "bottom": 15,
+            "left": 9,
+            "right": 11,
+            "top_left": 5,
+            "top_right": 7,
+            "bottom_left": null,
+            "bottom_right": 17
+        },
+        "11": {
+            "top": 7,
+            "bottom": 17,
+            "left": 10,
+            "right": 12,
+            "top_left": 6,
+            "top_right": 8,
+            "bottom_left": null,
+            "bottom_right": 19
+        },
+        "12": {
+            "top": 8,
+            "bottom": 19,
+            "left": 11,
+            "right": null,
+            "top_left": 7,
+            "top_right": null,
+            "bottom_left": 18,
+            "bottom_right": null
+        },
+        "13": {
+            "top": 9,
+            "bottom": null,
+            "left": null,
+            "right": 14,
+            "top_left": null,
+            "top_right": 6,
+            "bottom_left": null,
+            "bottom_right": 15
+        },
+        "14": {
+            "top": 9,
+            "bottom": null,
+            "left": 13,
+            "right": 10,
+            "top_left": null,
+            "top_right": 6,
+            "bottom_left": null,
+            "bottom_right": 15
+        },
+        "15": {
+            "top": 10,
+            "bottom": null,
+            "left": null,
+            "right": 16,
+            "top_left": 14,
+            "top_right": 7,
+            "bottom_left": null,
+            "bottom_right": 17
+        },
+        "16": {
+            "top": 10,
+            "bottom": null,
+            "left": 15,
+            "right": 11,
+            "top_left": 14,
+            "top_right": 7,
+            "bottom_left": null,
+            "bottom_right": 17
+        },
+        "17": {
+            "top": 11,
+            "bottom": null,
+            "left": null,
+            "right": 18,
+            "top_left": 16,
+            "top_right": 12,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "18": {
+            "top": 11,
+            "bottom": null,
+            "left": 17,
+            "right": 19,
+            "top_left": 16,
+            "top_right": 12,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "19": {
+            "top": 12,
+            "bottom": null,
+            "left": 18,
+            "right": 20,
+            "top_left": 11,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "20": {
+            "top": 12,
+            "bottom": null,
+            "left": 19,
+            "right": null,
+            "top_left": 11,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

@@ -1,0 +1,755 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 40,
+            "width": 6,
+            "position": {
+                "column_min": 20,
+                "row_min": 13,
+                "column_max": 26,
+                "row_max": 53
+            }
+        },
+        {
+            "id": 1,
+            "class": "Block",
+            "height": 320,
+            "width": 568,
+            "position": {
+                "column_min": 20,
+                "row_min": 69,
+                "column_max": 588,
+                "row_max": 389
+            }
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 620,
+                "row_min": 69,
+                "column_max": 888,
+                "row_max": 220
+            }
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 920,
+                "row_min": 69,
+                "column_max": 1188,
+                "row_max": 220
+            }
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 10,
+            "width": 6,
+            "position": {
+                "column_min": 740,
+                "row_min": 449,
+                "column_max": 746,
+                "row_max": 459
+            }
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 20,
+                "row_min": 612,
+                "column_max": 288,
+                "row_max": 763
+            }
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 320,
+                "row_min": 612,
+                "column_max": 588,
+                "row_max": 763
+            }
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 620,
+                "row_min": 612,
+                "column_max": 888,
+                "row_max": 763
+            }
+        },
+        {
+            "id": 8,
+            "class": "Compo",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 920,
+                "row_min": 612,
+                "column_max": 1188,
+                "row_max": 763
+            }
+        },
+        {
+            "id": 9,
+            "class": "Compo",
+            "height": 10,
+            "width": 7,
+            "position": {
+                "column_min": 468,
+                "row_min": 992,
+                "column_max": 475,
+                "row_max": 1002
+            }
+        },
+        {
+            "id": 10,
+            "class": "Compo",
+            "height": 10,
+            "width": 7,
+            "position": {
+                "column_min": 468,
+                "row_min": 1012,
+                "column_max": 475,
+                "row_max": 1022
+            }
+        },
+        {
+            "id": 11,
+            "class": "Compo",
+            "height": 14,
+            "width": 16,
+            "position": {
+                "column_min": 1170,
+                "row_min": 1139,
+                "column_max": 1186,
+                "row_max": 1153
+            }
+        }
+    ],
+    "texts": [
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 36,
+            "width": 104,
+            "position": {
+                "column_min": 33,
+                "row_min": 15,
+                "column_max": 137,
+                "row_max": 51
+            },
+            "text_content": "Latest"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 193,
+            "width": 275,
+            "position": {
+                "column_min": 616,
+                "row_min": 238,
+                "column_max": 891,
+                "row_max": 431
+            },
+            "text_content": "Woman charged over\nfatal Mount Druitt\nstabbing\nEmergency services were called to\nbUs station at Mount Druittin August to\nfind two Ig-year-old men with stab\nWounds"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 127,
+            "width": 265,
+            "position": {
+                "column_min": 917,
+                "row_min": 233,
+                "column_max": 1182,
+                "row_max": 360
+            },
+            "text_content": "Mixed bag for NSW\noyster growersas peak\nChristmas demand\nlooms"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 114,
+            "width": 273,
+            "position": {
+                "column_min": 918,
+                "row_min": 375,
+                "column_max": 1191,
+                "row_max": 489
+            },
+            "text_content": "The Christmas Oyster harvestis\nflourishing on the NSW south coast\nbut\nfurthernorthi i5\ndifferent story\ngrowers face the fallout ofthis years\nrecord-breaking floods¡£\nVery"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 108,
+            "width": 539,
+            "position": {
+                "column_min": 16,
+                "row_min": 405,
+                "column_max": 555,
+                "row_max": 513
+            },
+            "text_content": "Howa nursing home tackled racism\nby celebrating culture\n2Oh a90\nABC ILLAWARRA\nAGED CARE\nby Penny Burfitt"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 14,
+            "width": 116,
+            "position": {
+                "column_min": 619,
+                "row_min": 447,
+                "column_max": 735,
+                "row_max": 461
+            },
+            "text_content": "Weo ABC NEWIS"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 14,
+            "width": 40,
+            "position": {
+                "column_min": 755,
+                "row_min": 447,
+                "column_max": 795,
+                "row_max": 461
+            },
+            "text_content": "CRIME"
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 76,
+            "width": 251,
+            "position": {
+                "column_min": 920,
+                "row_min": 503,
+                "column_max": 1171,
+                "row_max": 579
+            },
+            "text_content": "TUe\nAND AQUACULTURE INDUSTRY\nABC SOUTH EAST NSW\nby Lauren Bohane,Jacinta Counihanand\nFISHING\nRomy Gilbert"
+        },
+        {
+            "id": 20,
+            "class": "Text",
+            "height": 100,
+            "width": 263,
+            "position": {
+                "column_min": 15,
+                "row_min": 776,
+                "column_max": 278,
+                "row_max": 876
+            },
+            "text_content": "NSW hospital patients\nswelter withoutaircon\nduringheatwave"
+        },
+        {
+            "id": 21,
+            "class": "Text",
+            "height": 94,
+            "width": 269,
+            "position": {
+                "column_min": 317,
+                "row_min": 778,
+                "column_max": 586,
+                "row_max": 872
+            },
+            "text_content": "Search underway for\nrock fsherman missing\non NSW South Coast"
+        },
+        {
+            "id": 22,
+            "class": "Text",
+            "height": 200,
+            "width": 267,
+            "position": {
+                "column_min": 616,
+                "row_min": 775,
+                "column_max": 883,
+                "row_max": 975
+            },
+            "text_content": "University accusedof\n'falseadvertising'after\ncuts disrupt degrees\nA University of Wollongong student\nSays she left the institution after being\nUnable to complete core subjects due\ntO COUTse CUts"
+        },
+        {
+            "id": 23,
+            "class": "Text",
+            "height": 122,
+            "width": 244,
+            "position": {
+                "column_min": 918,
+                "row_min": 780,
+                "column_max": 1162,
+                "row_max": 902
+            },
+            "text_content": "Baker went tojailin\n1977 5o you can enjoy\nfreshbreadat\nweekends"
+        },
+        {
+            "id": 24,
+            "class": "Text",
+            "height": 66,
+            "width": 269,
+            "position": {
+                "column_min": 20,
+                "row_min": 887,
+                "column_max": 289,
+                "row_max": 953
+            },
+            "text_content": "Patients swelterin an Illawarra hospital\nWard after an air conditioning unit fails\nduring\nheatwave"
+        },
+        {
+            "id": 25,
+            "class": "Text",
+            "height": 92,
+            "width": 265,
+            "position": {
+                "column_min": 320,
+                "row_min": 886,
+                "column_max": 585,
+                "row_max": 978
+            },
+            "text_content": "Emergency services launcha multi-\nagency searchfor\nman last seen rock\nfishing at Bushrangers\nsouth of\nWollongong\nMonday evening_\nBay"
+        },
+        {
+            "id": 26,
+            "class": "Text",
+            "height": 140,
+            "width": 261,
+            "position": {
+                "column_min": 919,
+                "row_min": 917,
+                "column_max": 1180,
+                "row_max": 1057
+            },
+            "text_content": "Richard Warby still remembers the\nhis local community piled into\nmini-\nbus bound for Long\nJailto pay\nfne and release his father Who Was\nlocked Up forthe bizarre crime of\nbaking bread on\nweekend¡£\nday\nBay"
+        },
+        {
+            "id": 27,
+            "class": "Text",
+            "height": 36,
+            "width": 210,
+            "position": {
+                "column_min": 19,
+                "row_min": 965,
+                "column_max": 229,
+                "row_max": 1001
+            },
+            "text_content": "Tue\nHEALTH\nABC ILLAWARRA\nby Penny Burfitt\nPUBLIC"
+        },
+        {
+            "id": 28,
+            "class": "Text",
+            "height": 36,
+            "width": 146,
+            "position": {
+                "column_min": 319,
+                "row_min": 989,
+                "column_max": 465,
+                "row_max": 1025
+            },
+            "text_content": "Tue\nEMERGENCY INCIDENTS\nABC ILLAWARRA"
+        },
+        {
+            "id": 29,
+            "class": "Text",
+            "height": 36,
+            "width": 102,
+            "position": {
+                "column_min": 483,
+                "row_min": 989,
+                "column_max": 585,
+                "row_max": 1025
+            },
+            "text_content": "ACCIDENTS AND\nby Romy Gilbert"
+        },
+        {
+            "id": 30,
+            "class": "Text",
+            "height": 54,
+            "width": 232,
+            "position": {
+                "column_min": 619,
+                "row_min": 991,
+                "column_max": 851,
+                "row_max": 1045
+            },
+            "text_content": "Mon\nILLAWARRA\nABC\nby Penny Burfitt andBrooke Chandler\nUNIVERSITIES"
+        },
+        {
+            "id": 31,
+            "class": "Text",
+            "height": 34,
+            "width": 252,
+            "position": {
+                "column_min": 921,
+                "row_min": 1071,
+                "column_max": 1173,
+                "row_max": 1105
+            },
+            "text_content": "Sun\nby Justin Huntsdale andBrooke Chandler\nABC ILLAWARRA\nHISTORY"
+        },
+        {
+            "id": 32,
+            "class": "Text",
+            "height": 20,
+            "width": 186,
+            "position": {
+                "column_min": 975,
+                "row_min": 1135,
+                "column_max": 1161,
+                "row_max": 1155
+            },
+            "text_content": "More from Illawarra"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": null,
+            "bottom": 1,
+            "left": null,
+            "right": 12,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 2
+        },
+        "1": {
+            "top": 0,
+            "bottom": 16,
+            "left": null,
+            "right": 13,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 17
+        },
+        "2": {
+            "top": null,
+            "bottom": 13,
+            "left": 1,
+            "right": 3,
+            "top_left": 12,
+            "top_right": null,
+            "bottom_left": 16,
+            "bottom_right": 14
+        },
+        "3": {
+            "top": null,
+            "bottom": 14,
+            "left": 2,
+            "right": null,
+            "top_left": 12,
+            "top_right": null,
+            "bottom_left": 13,
+            "bottom_right": null
+        },
+        "4": {
+            "top": 13,
+            "bottom": 7,
+            "left": 17,
+            "right": 18,
+            "top_left": 1,
+            "top_right": 14,
+            "bottom_left": 6,
+            "bottom_right": 19
+        },
+        "5": {
+            "top": 16,
+            "bottom": 20,
+            "left": null,
+            "right": 6,
+            "top_left": null,
+            "top_right": 17,
+            "bottom_left": null,
+            "bottom_right": 21
+        },
+        "6": {
+            "top": 16,
+            "bottom": 21,
+            "left": 5,
+            "right": 7,
+            "top_left": 12,
+            "top_right": 17,
+            "bottom_left": 20,
+            "bottom_right": 22
+        },
+        "7": {
+            "top": 17,
+            "bottom": 22,
+            "left": 6,
+            "right": 8,
+            "top_left": 16,
+            "top_right": 19,
+            "bottom_left": 21,
+            "bottom_right": 23
+        },
+        "8": {
+            "top": 19,
+            "bottom": 23,
+            "left": 7,
+            "right": null,
+            "top_left": 18,
+            "top_right": null,
+            "bottom_left": 22,
+            "bottom_right": null
+        },
+        "9": {
+            "top": 25,
+            "bottom": 10,
+            "left": 28,
+            "right": 29,
+            "top_left": 24,
+            "top_right": 22,
+            "bottom_left": null,
+            "bottom_right": 31
+        },
+        "10": {
+            "top": 9,
+            "bottom": null,
+            "left": 28,
+            "right": 29,
+            "top_left": 24,
+            "top_right": 22,
+            "bottom_left": null,
+            "bottom_right": 31
+        },
+        "11": {
+            "top": 31,
+            "bottom": null,
+            "left": 32,
+            "right": null,
+            "top_left": 23,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "12": {
+            "top": null,
+            "bottom": 1,
+            "left": 0,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 2
+        },
+        "13": {
+            "top": 2,
+            "bottom": 17,
+            "left": 1,
+            "right": 14,
+            "top_left": 12,
+            "top_right": 3,
+            "bottom_left": 6,
+            "bottom_right": 19
+        },
+        "14": {
+            "top": 3,
+            "bottom": 15,
+            "left": 13,
+            "right": null,
+            "top_left": 2,
+            "top_right": null,
+            "bottom_left": 18,
+            "bottom_right": null
+        },
+        "15": {
+            "top": 14,
+            "bottom": 19,
+            "left": 13,
+            "right": null,
+            "top_left": 2,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": null
+        },
+        "16": {
+            "top": 1,
+            "bottom": 5,
+            "left": null,
+            "right": 13,
+            "top_left": null,
+            "top_right": 2,
+            "bottom_left": null,
+            "bottom_right": 7
+        },
+        "17": {
+            "top": 13,
+            "bottom": 7,
+            "left": 16,
+            "right": 4,
+            "top_left": 1,
+            "top_right": 14,
+            "bottom_left": 6,
+            "bottom_right": 19
+        },
+        "18": {
+            "top": 13,
+            "bottom": 7,
+            "left": 4,
+            "right": 15,
+            "top_left": 1,
+            "top_right": 14,
+            "bottom_left": 6,
+            "bottom_right": 19
+        },
+        "19": {
+            "top": 15,
+            "bottom": 8,
+            "left": 16,
+            "right": null,
+            "top_left": 18,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": null
+        },
+        "20": {
+            "top": 5,
+            "bottom": 24,
+            "left": null,
+            "right": 21,
+            "top_left": null,
+            "top_right": 6,
+            "bottom_left": null,
+            "bottom_right": 28
+        },
+        "21": {
+            "top": 6,
+            "bottom": 25,
+            "left": 20,
+            "right": 22,
+            "top_left": 5,
+            "top_right": 7,
+            "bottom_left": 24,
+            "bottom_right": 30
+        },
+        "22": {
+            "top": 7,
+            "bottom": 30,
+            "left": 21,
+            "right": 23,
+            "top_left": 6,
+            "top_right": 8,
+            "bottom_left": 29,
+            "bottom_right": 31
+        },
+        "23": {
+            "top": 8,
+            "bottom": 26,
+            "left": 22,
+            "right": null,
+            "top_left": 7,
+            "top_right": null,
+            "bottom_left": 30,
+            "bottom_right": 11
+        },
+        "24": {
+            "top": 20,
+            "bottom": 27,
+            "left": null,
+            "right": 25,
+            "top_left": null,
+            "top_right": 21,
+            "bottom_left": null,
+            "bottom_right": 28
+        },
+        "25": {
+            "top": 21,
+            "bottom": 28,
+            "left": 24,
+            "right": 22,
+            "top_left": 20,
+            "top_right": 7,
+            "bottom_left": null,
+            "bottom_right": 30
+        },
+        "26": {
+            "top": 23,
+            "bottom": 31,
+            "left": 22,
+            "right": null,
+            "top_left": 7,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "27": {
+            "top": 24,
+            "bottom": null,
+            "left": null,
+            "right": 28,
+            "top_left": null,
+            "top_right": 21,
+            "bottom_left": null,
+            "bottom_right": 10
+        },
+        "28": {
+            "top": 25,
+            "bottom": null,
+            "left": 27,
+            "right": 9,
+            "top_left": 24,
+            "top_right": 22,
+            "bottom_left": null,
+            "bottom_right": 31
+        },
+        "29": {
+            "top": 25,
+            "bottom": null,
+            "left": 9,
+            "right": 30,
+            "top_left": 24,
+            "top_right": 22,
+            "bottom_left": null,
+            "bottom_right": 31
+        },
+        "30": {
+            "top": 22,
+            "bottom": null,
+            "left": 29,
+            "right": 26,
+            "top_left": 25,
+            "top_right": 23,
+            "bottom_left": null,
+            "bottom_right": 31
+        },
+        "31": {
+            "top": 26,
+            "bottom": 32,
+            "left": null,
+            "right": null,
+            "top_left": 30,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "32": {
+            "top": 31,
+            "bottom": null,
+            "left": null,
+            "right": 11,
+            "top_left": 30,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

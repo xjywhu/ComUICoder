@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        584,
+        1193,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Features",
+            "column_min": 27,
+            "row_min": 7,
+            "column_max": 165,
+            "row_max": 43,
+            "width": 138,
+            "height": 36
+        },
+        {
+            "id": 1,
+            "content": "How NSWs consent\nlaws now protect sex\nWorkers against\nfraudulent clients",
+            "column_min": 8,
+            "row_min": 230,
+            "column_max": 250,
+            "row_max": 352,
+            "width": 242,
+            "height": 122
+        },
+        {
+            "id": 2,
+            "content": "Crucialkoala corridors\ndwindlingin Sydney;\nconservationists Warn",
+            "column_min": 308,
+            "row_min": 228,
+            "column_max": 574,
+            "row_max": 320,
+            "width": 266,
+            "height": 92
+        },
+        {
+            "id": 3,
+            "content": "Secludedbeach\nbecomes Parramatta\nRiver's newest official\nswimming spot",
+            "column_min": 610,
+            "row_min": 228,
+            "column_max": 856,
+            "row_max": 356,
+            "width": 246,
+            "height": 128
+        },
+        {
+            "id": 4,
+            "content": "The rule changethat\ncould stop\n'overpowered' ebikes\nbeing broughtinto\nAustralia",
+            "column_min": 907,
+            "row_min": 227,
+            "column_max": 1156,
+            "row_max": 384,
+            "width": 249,
+            "height": 157
+        },
+        {
+            "id": 5,
+            "content": "Key wildlife links between two of\nSydneys major rivers are under threat\ntrom land clearing tor housing\nacCording to\nkoala Conseration\ngrOUP\u3002",
+            "column_min": 311,
+            "row_min": 335,
+            "column_max": 571,
+            "row_max": 449,
+            "width": 260,
+            "height": 114
+        },
+        {
+            "id": 6,
+            "content": "Victims say NSWI Polices frontline\nofficers are still catching Up with the\nChanged legislation which makes non\npayment for sexual services\nCriminal\nOffence\u3002",
+            "column_min": 12,
+            "row_min": 367,
+            "column_max": 275,
+            "row_max": 479,
+            "width": 263,
+            "height": 112
+        },
+        {
+            "id": 7,
+            "content": "While new swimming areas have\nopened along the riverin recent years\u3002\nan election promise to open\nWestern\nSydney location has stalled\u3002",
+            "column_min": 612,
+            "row_min": 367,
+            "column_max": 873,
+            "row_max": 457,
+            "width": 261,
+            "height": 90
+        },
+        {
+            "id": 8,
+            "content": "Bicycle industry fgures welcome\nplanned changes by the tederal\ngovernment\u3002 but hope state\ngovernments will update road rulesto\nhelp entorcement\u3002",
+            "column_min": 912,
+            "row_min": 399,
+            "column_max": 1171,
+            "row_max": 513,
+            "width": 259,
+            "height": 114
+        },
+        {
+            "id": 9,
+            "content": "ABC RADIO 5YDNEY\nby Declan Bowring",
+            "column_min": 313,
+            "row_min": 463,
+            "column_max": 433,
+            "row_max": 499,
+            "width": 120,
+            "height": 36
+        },
+        {
+            "id": 10,
+            "content": "CONSERVATION",
+            "column_min": 453,
+            "row_min": 463,
+            "column_max": 547,
+            "row_max": 477,
+            "width": 94,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": "ABC RADIO 5YDNEY\nby Declan Bowring",
+            "column_min": 611,
+            "row_min": 471,
+            "column_max": 733,
+            "row_max": 507,
+            "width": 122,
+            "height": 36
+        },
+        {
+            "id": 12,
+            "content": "LEISURE",
+            "column_min": 751,
+            "row_min": 471,
+            "column_max": 805,
+            "row_max": 485,
+            "width": 54,
+            "height": 14
+        },
+        {
+            "id": 13,
+            "content": "ABC RADIO 5YDNEY\nby Esther Linder",
+            "column_min": 13,
+            "row_min": 495,
+            "column_max": 133,
+            "row_max": 531,
+            "width": 120,
+            "height": 36
+        },
+        {
+            "id": 14,
+            "content": "COURTS",
+            "column_min": 153,
+            "row_min": 495,
+            "column_max": 205,
+            "row_max": 509,
+            "width": 52,
+            "height": 14
+        },
+        {
+            "id": 15,
+            "content": "ABC RADIO 5YDNEY\nby Dectan Bowring",
+            "column_min": 913,
+            "row_min": 527,
+            "column_max": 1033,
+            "row_max": 563,
+            "width": 120,
+            "height": 36
+        },
+        {
+            "id": 16,
+            "content": "CYCLING",
+            "column_min": 1053,
+            "row_min": 527,
+            "column_max": 1107,
+            "row_max": 541,
+            "width": 54,
+            "height": 14
+        }
+    ]
+}

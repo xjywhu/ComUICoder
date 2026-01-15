@@ -1,0 +1,503 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 48,
+            "width": 116,
+            "position": {
+                "column_min": 8,
+                "row_min": 170,
+                "column_max": 124,
+                "row_max": 218
+            },
+            "children": [
+                5
+            ]
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 48,
+            "width": 90,
+            "position": {
+                "column_min": 308,
+                "row_min": 170,
+                "column_max": 398,
+                "row_max": 218
+            },
+            "children": [
+                6
+            ]
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 48,
+            "width": 90,
+            "position": {
+                "column_min": 608,
+                "row_min": 170,
+                "column_max": 698,
+                "row_max": 218
+            },
+            "children": [
+                7
+            ]
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 48,
+            "width": 90,
+            "position": {
+                "column_min": 908,
+                "row_min": 170,
+                "column_max": 998,
+                "row_max": 218
+            },
+            "children": [
+                8
+            ]
+        }
+    ],
+    "texts": [
+        {
+            "id": 4,
+            "class": "Text",
+            "height": 36,
+            "width": 104,
+            "position": {
+                "column_min": 23,
+                "row_min": 13,
+                "column_max": 127,
+                "row_max": 49
+            },
+            "text_content": "Watch"
+        },
+        {
+            "id": 5,
+            "class": "Text",
+            "height": 14,
+            "width": 56,
+            "position": {
+                "column_min": 51,
+                "row_min": 189,
+                "column_max": 107,
+                "row_max": 203
+            },
+            "text_content": "1m 205",
+            "parent": 0
+        },
+        {
+            "id": 6,
+            "class": "Text",
+            "height": 16,
+            "width": 28,
+            "position": {
+                "column_min": 351,
+                "row_min": 187,
+                "column_max": 379,
+                "row_max": 203
+            },
+            "text_content": "235",
+            "parent": 1
+        },
+        {
+            "id": 7,
+            "class": "Text",
+            "height": 14,
+            "width": 30,
+            "position": {
+                "column_min": 651,
+                "row_min": 189,
+                "column_max": 681,
+                "row_max": 203
+            },
+            "text_content": "485",
+            "parent": 2
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 14,
+            "width": 30,
+            "position": {
+                "column_min": 951,
+                "row_min": 189,
+                "column_max": 981,
+                "row_max": 203
+            },
+            "text_content": "325",
+            "parent": 3
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 221,
+            "width": 276,
+            "position": {
+                "column_min": 4,
+                "row_min": 234,
+                "column_max": 280,
+                "row_max": 455
+            },
+            "text_content": "Dolphin calfrescued\nafter weeks entangled\ni\nfishingline\nThe Sea World Foundation with the help\nOfORRCAandthe Forster Dive Centre\nhavefreeda dolphin calffrom fishing\nline after »√ became entangled on New\nSouth Wales Mid North Coast"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 92,
+            "width": 246,
+            "position": {
+                "column_min": 304,
+                "row_min": 234,
+                "column_max": 550,
+                "row_max": 326
+            },
+            "text_content": "Coffs Harbour manof\nPalestinian descent\nleadsa chant"
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 96,
+            "width": 239,
+            "position": {
+                "column_min": 603,
+                "row_min": 234,
+                "column_max": 842,
+                "row_max": 330
+            },
+            "text_content": "Male whalesracein\npursuitoffemalein\neast coast migration"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 63,
+            "width": 234,
+            "position": {
+                "column_min": 905,
+                "row_min": 232,
+                "column_max": 1139,
+                "row_max": 295
+            },
+            "text_content": "CCTV footage of Dee\nAnnear"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 86,
+            "width": 264,
+            "position": {
+                "column_min": 907,
+                "row_min": 311,
+                "column_max": 1171,
+                "row_max": 397
+            },
+            "text_content": "Dee Annear Was tast seen alive Visiting\nthe Comboyne Takeaway supermarket\nwith Rohen Hanson on September 17\n2021."
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 67,
+            "width": 252,
+            "position": {
+                "column_min": 307,
+                "row_min": 340,
+                "column_max": 559,
+                "row_max": 407
+            },
+            "text_content": "Demonstrators have\ngathered on the\nCoffs Harbourjetty to chant their\nsupport for Palestine"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 88,
+            "width": 268,
+            "position": {
+                "column_min": 607,
+                "row_min": 341,
+                "column_max": 875,
+                "row_max": 429
+            },
+            "text_content": "A Port Macquarie drone photographer\ncaptures vision of tight pod of eleven\nhumpbacks speeding southina race to\nmate off the NSW mid north coast"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 14,
+            "width": 68,
+            "position": {
+                "column_min": 907,
+                "row_min": 413,
+                "column_max": 975,
+                "row_max": 427
+            },
+            "text_content": "ABC NEWS"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 14,
+            "width": 66,
+            "position": {
+                "column_min": 309,
+                "row_min": 421,
+                "column_max": 375,
+                "row_max": 435
+            },
+            "text_content": "ABC NEWS"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 14,
+            "width": 144,
+            "position": {
+                "column_min": 607,
+                "row_min": 445,
+                "column_max": 751,
+                "row_max": 459
+            },
+            "text_content": "ABC MID NORTH COAST"
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 14,
+            "width": 68,
+            "position": {
+                "column_min": 7,
+                "row_min": 469,
+                "column_max": 75,
+                "row_max": 483
+            },
+            "text_content": "ABC NEWS"
+        },
+        {
+            "id": 20,
+            "class": "Text",
+            "height": 24,
+            "width": 455,
+            "position": {
+                "column_min": 695,
+                "row_min": 512,
+                "column_max": 1150,
+                "row_max": 536
+            },
+            "text_content": "Watch\nmore news & entertainment on ABC iview"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": 4,
+            "bottom": 9,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 17
+        },
+        "1": {
+            "top": null,
+            "bottom": 10,
+            "left": 0,
+            "right": 2,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 9,
+            "bottom_right": 11
+        },
+        "2": {
+            "top": null,
+            "bottom": 11,
+            "left": 1,
+            "right": 3,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 10,
+            "bottom_right": 16
+        },
+        "3": {
+            "top": null,
+            "bottom": 12,
+            "left": 2,
+            "right": null,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 11,
+            "bottom_right": null
+        },
+        "4": {
+            "top": null,
+            "bottom": 0,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 1
+        },
+        "5": {
+            "top": 4,
+            "bottom": 9,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 17
+        },
+        "6": {
+            "top": null,
+            "bottom": 10,
+            "left": 0,
+            "right": 2,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 9,
+            "bottom_right": 11
+        },
+        "7": {
+            "top": null,
+            "bottom": 11,
+            "left": 1,
+            "right": 3,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 10,
+            "bottom_right": 16
+        },
+        "8": {
+            "top": null,
+            "bottom": 12,
+            "left": 2,
+            "right": null,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 11,
+            "bottom_right": null
+        },
+        "9": {
+            "top": 0,
+            "bottom": 19,
+            "left": null,
+            "right": 10,
+            "top_left": null,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 20
+        },
+        "10": {
+            "top": 1,
+            "bottom": 14,
+            "left": 9,
+            "right": 11,
+            "top_left": 5,
+            "top_right": 2,
+            "bottom_left": 19,
+            "bottom_right": 18
+        },
+        "11": {
+            "top": 2,
+            "bottom": 15,
+            "left": 10,
+            "right": 12,
+            "top_left": 6,
+            "top_right": 3,
+            "bottom_left": 14,
+            "bottom_right": 16
+        },
+        "12": {
+            "top": 3,
+            "bottom": 13,
+            "left": 11,
+            "right": null,
+            "top_left": 7,
+            "top_right": null,
+            "bottom_left": 15,
+            "bottom_right": null
+        },
+        "13": {
+            "top": 12,
+            "bottom": 16,
+            "left": 15,
+            "right": null,
+            "top_left": 7,
+            "top_right": null,
+            "bottom_left": 18,
+            "bottom_right": null
+        },
+        "14": {
+            "top": 10,
+            "bottom": 17,
+            "left": 9,
+            "right": 15,
+            "top_left": 5,
+            "top_right": 2,
+            "bottom_left": 19,
+            "bottom_right": 18
+        },
+        "15": {
+            "top": 11,
+            "bottom": 18,
+            "left": 14,
+            "right": 13,
+            "top_left": 10,
+            "top_right": 3,
+            "bottom_left": 19,
+            "bottom_right": null
+        },
+        "16": {
+            "top": 13,
+            "bottom": 20,
+            "left": 15,
+            "right": null,
+            "top_left": 11,
+            "top_right": null,
+            "bottom_left": 18,
+            "bottom_right": null
+        },
+        "17": {
+            "top": 14,
+            "bottom": null,
+            "left": 9,
+            "right": 15,
+            "top_left": 5,
+            "top_right": 2,
+            "bottom_left": 19,
+            "bottom_right": 18
+        },
+        "18": {
+            "top": 15,
+            "bottom": 20,
+            "left": 9,
+            "right": null,
+            "top_left": 14,
+            "top_right": 16,
+            "bottom_left": 19,
+            "bottom_right": null
+        },
+        "19": {
+            "top": 9,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": 17,
+            "bottom_left": null,
+            "bottom_right": 20
+        },
+        "20": {
+            "top": 18,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "top_left": 7,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

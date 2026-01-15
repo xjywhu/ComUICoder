@@ -1,0 +1,149 @@
+{
+    "img_shape": [
+        517,
+        1180,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "What's happening",
+            "column_min": 23,
+            "row_min": 5,
+            "column_max": 301,
+            "row_max": 49,
+            "width": 278,
+            "height": 44
+        },
+        {
+            "id": 1,
+            "content": "Get The ABCof Sydney\nTea Towel",
+            "column_min": 5,
+            "row_min": 226,
+            "column_max": 263,
+            "row_max": 288,
+            "width": 258,
+            "height": 62
+        },
+        {
+            "id": 2,
+            "content": "Startand end your\nwithABC Radio Sydney\nTune in weekdays to Breaktast with\nCraig Reucasselfrom 5.3Oam and Drive\nwith Chris Bath from 3pm on 702 ABC\nRadio Sydney\u3002\nday",
+            "column_min": 306,
+            "row_min": 226,
+            "column_max": 573,
+            "row_max": 393,
+            "width": 267,
+            "height": 167
+        },
+        {
+            "id": 3,
+            "content": "Sydney Newsletter\nSubscribe to the ABC Radio Sydney\nfortnightly e-newsletter for the latest\nnews, on-air highlights  stories and\nevents deliveredto yourinbox",
+            "column_min": 606,
+            "row_min": 230,
+            "column_max": 861,
+            "row_max": 361,
+            "width": 255,
+            "height": 131
+        },
+        {
+            "id": 4,
+            "content": "Know your ABCsinan\nemergency",
+            "column_min": 904,
+            "row_min": 228,
+            "column_max": 1154,
+            "row_max": 291,
+            "width": 250,
+            "height": 63
+        },
+        {
+            "id": 5,
+            "content": "We asked 702 ABC Radio Sydney\nlisteners to nominate and vote torthe\nlandmarks\u3002 legends and local quirks\nthat make Sydney SydneyNow yOU Can\nOwnthe defnitive list on this special\nedition\nIOWeL.\n183",
+            "column_min": 7,
+            "row_min": 303,
+            "column_max": 275,
+            "row_max": 440,
+            "width": 268,
+            "height": 137
+        },
+        {
+            "id": 6,
+            "content": "This summer know your ABCs: action\nplan\nbe safe\nconnect with UIs.The ABC\nhas\nhost ofuseful resources and tips\non how to best prepare yourself for\nemergency weather 50 yOU Can keep\nyou and your household safe",
+            "column_min": 907,
+            "row_min": 303,
+            "column_max": 1173,
+            "row_max": 441,
+            "width": 266,
+            "height": 138
+        },
+        {
+            "id": 7,
+            "content": "ABC 5YDNEY",
+            "column_min": 609,
+            "row_min": 375,
+            "column_max": 689,
+            "row_max": 389,
+            "width": 80,
+            "height": 14
+        },
+        {
+            "id": 8,
+            "content": "29Jan 2025",
+            "column_min": 309,
+            "row_min": 407,
+            "column_max": 385,
+            "row_max": 421,
+            "width": 76,
+            "height": 14
+        },
+        {
+            "id": 9,
+            "content": "ABC 5YDNEY",
+            "column_min": 403,
+            "row_min": 407,
+            "column_max": 483,
+            "row_max": 421,
+            "width": 80,
+            "height": 14
+        },
+        {
+            "id": 10,
+            "content": "10 Nov 2025",
+            "column_min": 9,
+            "row_min": 455,
+            "column_max": 85,
+            "row_max": 469,
+            "width": 76,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": "ABC 5YDNEY",
+            "column_min": 103,
+            "row_min": 455,
+            "column_max": 183,
+            "row_max": 469,
+            "width": 80,
+            "height": 14
+        },
+        {
+            "id": 12,
+            "content": "1 Dec 2025\nEMERGENCY",
+            "column_min": 909,
+            "row_min": 455,
+            "column_max": 985,
+            "row_max": 489,
+            "width": 76,
+            "height": 34
+        },
+        {
+            "id": 13,
+            "content": "ABC\nBUSHFIRES",
+            "column_min": 1001,
+            "row_min": 455,
+            "column_max": 1073,
+            "row_max": 489,
+            "width": 72,
+            "height": 34
+        }
+    ]
+}

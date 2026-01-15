@@ -1,0 +1,169 @@
+{
+    "img_shape": [
+        542,
+        1162,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "What's happening",
+            "column_min": 21,
+            "row_min": 13,
+            "column_max": 299,
+            "row_max": 57,
+            "width": 278,
+            "height": 44
+        },
+        {
+            "id": 1,
+            "content": "Download our free ABC\nlistenapp",
+            "column_min": 4,
+            "row_min": 236,
+            "column_max": 268,
+            "row_max": 300,
+            "width": 264,
+            "height": 64
+        },
+        {
+            "id": 2,
+            "content": "Know your ABCsinan\nemergency",
+            "column_min": 303,
+            "row_min": 236,
+            "column_max": 552,
+            "row_max": 299,
+            "width": 249,
+            "height": 63
+        },
+        {
+            "id": 3,
+            "content": "Download our free ABC\nlisten app\nThe ABC listen app connects you tothe\nbest\nodcasts and live radio from the\npresenters yoU know and love\nDownload it today and hear the world\ndifferently\u3002",
+            "column_min": 601,
+            "row_min": 236,
+            "column_max": 871,
+            "row_max": 425,
+            "width": 270,
+            "height": 189
+        },
+        {
+            "id": 4,
+            "content": "Sign upforanABC\nnewsletter",
+            "column_min": 904,
+            "row_min": 236,
+            "column_max": 1114,
+            "row_max": 296,
+            "width": 210,
+            "height": 60
+        },
+        {
+            "id": 5,
+            "content": "The ABC listen app connects you tothe\nbest\nodcasts and live radio from the\npresenters yOU know and love\nDownload it today and hear the world\ndifferently\u3002",
+            "column_min": 6,
+            "row_min": 311,
+            "column_max": 271,
+            "row_max": 425,
+            "width": 265,
+            "height": 114
+        },
+        {
+            "id": 6,
+            "content": "This summer know your ABCs: action\nplan\nbe safe\nconnect with UIs.The ABC\nhas\nhost ofuseful resources and tips\non how to best prepare yourself for\nemergency Weather 5O yOU Can Keep\nyou and your household safe",
+            "column_min": 305,
+            "row_min": 311,
+            "column_max": 571,
+            "row_max": 449,
+            "width": 266,
+            "height": 138
+        },
+        {
+            "id": 7,
+            "content": "INant informative,educationaland\nentertaining stories straight to yOUr\ninbox? Subscribe to\nwide range Of\nnewsletters from around the ABC\nincluding localand national content",
+            "column_min": 905,
+            "row_min": 312,
+            "column_max": 1153,
+            "row_max": 425,
+            "width": 248,
+            "height": 113
+        },
+        {
+            "id": 8,
+            "content": "27 AUg 2024",
+            "column_min": 7,
+            "row_min": 439,
+            "column_max": 83,
+            "row_max": 455,
+            "width": 76,
+            "height": 16
+        },
+        {
+            "id": 9,
+            "content": "ABC BRISBANE",
+            "column_min": 101,
+            "row_min": 439,
+            "column_max": 193,
+            "row_max": 453,
+            "width": 92,
+            "height": 14
+        },
+        {
+            "id": 10,
+            "content": "27 AUg 2024",
+            "column_min": 607,
+            "row_min": 439,
+            "column_max": 683,
+            "row_max": 455,
+            "width": 76,
+            "height": 16
+        },
+        {
+            "id": 11,
+            "content": "ABC BRISBANE",
+            "column_min": 701,
+            "row_min": 439,
+            "column_max": 793,
+            "row_max": 453,
+            "width": 92,
+            "height": 14
+        },
+        {
+            "id": 12,
+            "content": "1 Jun 2024",
+            "column_min": 907,
+            "row_min": 439,
+            "column_max": 981,
+            "row_max": 453,
+            "width": 74,
+            "height": 14
+        },
+        {
+            "id": 13,
+            "content": "ABC BRISBANE",
+            "column_min": 999,
+            "row_min": 439,
+            "column_max": 1091,
+            "row_max": 453,
+            "width": 92,
+            "height": 14
+        },
+        {
+            "id": 14,
+            "content": "1 Dec 2025\nEMERGENCY",
+            "column_min": 307,
+            "row_min": 463,
+            "column_max": 383,
+            "row_max": 499,
+            "width": 76,
+            "height": 36
+        },
+        {
+            "id": 15,
+            "content": "ABC\nBUSHFIRES",
+            "column_min": 399,
+            "row_min": 463,
+            "column_max": 471,
+            "row_max": 499,
+            "width": 72,
+            "height": 36
+        }
+    ]
+}

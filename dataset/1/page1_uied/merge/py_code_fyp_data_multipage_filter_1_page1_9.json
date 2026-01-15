@@ -1,0 +1,418 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 8,
+                "row_min": 61,
+                "column_max": 276,
+                "row_max": 212
+            }
+        },
+        {
+            "id": 1,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 308,
+                "row_min": 61,
+                "column_max": 576,
+                "row_max": 212
+            }
+        },
+        {
+            "id": 2,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 608,
+                "row_min": 61,
+                "column_max": 876,
+                "row_max": 212
+            }
+        },
+        {
+            "id": 3,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 908,
+                "row_min": 61,
+                "column_max": 1176,
+                "row_max": 212
+            }
+        }
+    ],
+    "texts": [
+        {
+            "id": 4,
+            "class": "Text",
+            "height": 44,
+            "width": 278,
+            "position": {
+                "column_min": 23,
+                "row_min": 5,
+                "column_max": 301,
+                "row_max": 49
+            },
+            "text_content": "What's happening"
+        },
+        {
+            "id": 5,
+            "class": "Text",
+            "height": 62,
+            "width": 258,
+            "position": {
+                "column_min": 5,
+                "row_min": 226,
+                "column_max": 263,
+                "row_max": 288
+            },
+            "text_content": "Get The ABCof Sydney\nTea Towel"
+        },
+        {
+            "id": 6,
+            "class": "Text",
+            "height": 167,
+            "width": 267,
+            "position": {
+                "column_min": 306,
+                "row_min": 226,
+                "column_max": 573,
+                "row_max": 393
+            },
+            "text_content": "Startand end your\nwithABC Radio Sydney\nTune in weekdays to Breaktast with\nCraig Reucasselfrom 5.3Oam and Drive\nwith Chris Bath from 3pm on 702 ABC\nRadio Sydney¡£\nday"
+        },
+        {
+            "id": 7,
+            "class": "Text",
+            "height": 131,
+            "width": 255,
+            "position": {
+                "column_min": 606,
+                "row_min": 230,
+                "column_max": 861,
+                "row_max": 361
+            },
+            "text_content": "Sydney Newsletter\nSubscribe to the ABC Radio Sydney\nfortnightly e-newsletter for the latest\nnews, on-air highlights  stories and\nevents deliveredto yourinbox"
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 63,
+            "width": 250,
+            "position": {
+                "column_min": 904,
+                "row_min": 228,
+                "column_max": 1154,
+                "row_max": 291
+            },
+            "text_content": "Know your ABCsinan\nemergency"
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 137,
+            "width": 268,
+            "position": {
+                "column_min": 7,
+                "row_min": 303,
+                "column_max": 275,
+                "row_max": 440
+            },
+            "text_content": "We asked 702 ABC Radio Sydney\nlisteners to nominate and vote torthe\nlandmarks¡£ legends and local quirks\nthat make Sydney SydneyNow yOU Can\nOwnthe defnitive list on this special\nedition\nIOWeL.\n183"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 138,
+            "width": 266,
+            "position": {
+                "column_min": 907,
+                "row_min": 303,
+                "column_max": 1173,
+                "row_max": 441
+            },
+            "text_content": "This summer know your ABCs: action\nplan\nbe safe\nconnect with UIs.The ABC\nhas\nhost ofuseful resources and tips\non how to best prepare yourself for\nemergency weather 50 yOU Can keep\nyou and your household safe"
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 14,
+            "width": 80,
+            "position": {
+                "column_min": 609,
+                "row_min": 375,
+                "column_max": 689,
+                "row_max": 389
+            },
+            "text_content": "ABC 5YDNEY"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 14,
+            "width": 76,
+            "position": {
+                "column_min": 309,
+                "row_min": 407,
+                "column_max": 385,
+                "row_max": 421
+            },
+            "text_content": "29Jan 2025"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 14,
+            "width": 80,
+            "position": {
+                "column_min": 403,
+                "row_min": 407,
+                "column_max": 483,
+                "row_max": 421
+            },
+            "text_content": "ABC 5YDNEY"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 14,
+            "width": 76,
+            "position": {
+                "column_min": 9,
+                "row_min": 455,
+                "column_max": 85,
+                "row_max": 469
+            },
+            "text_content": "10 Nov 2025"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 14,
+            "width": 80,
+            "position": {
+                "column_min": 103,
+                "row_min": 455,
+                "column_max": 183,
+                "row_max": 469
+            },
+            "text_content": "ABC 5YDNEY"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 34,
+            "width": 76,
+            "position": {
+                "column_min": 909,
+                "row_min": 455,
+                "column_max": 985,
+                "row_max": 489
+            },
+            "text_content": "1 Dec 2025\nEMERGENCY"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 34,
+            "width": 72,
+            "position": {
+                "column_min": 1001,
+                "row_min": 455,
+                "column_max": 1073,
+                "row_max": 489
+            },
+            "text_content": "ABC\nBUSHFIRES"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": 4,
+            "bottom": 5,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 6
+        },
+        "1": {
+            "top": null,
+            "bottom": 6,
+            "left": 0,
+            "right": 2,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 5,
+            "bottom_right": 11
+        },
+        "2": {
+            "top": null,
+            "bottom": 7,
+            "left": 1,
+            "right": 3,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 6,
+            "bottom_right": 8
+        },
+        "3": {
+            "top": null,
+            "bottom": 8,
+            "left": 2,
+            "right": null,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": null
+        },
+        "4": {
+            "top": null,
+            "bottom": 0,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 1
+        },
+        "5": {
+            "top": 0,
+            "bottom": 9,
+            "left": null,
+            "right": 6,
+            "top_left": null,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 12
+        },
+        "6": {
+            "top": 1,
+            "bottom": 12,
+            "left": 9,
+            "right": 7,
+            "top_left": 0,
+            "top_right": 2,
+            "bottom_left": 15,
+            "bottom_right": 16
+        },
+        "7": {
+            "top": 2,
+            "bottom": 11,
+            "left": 6,
+            "right": 8,
+            "top_left": 1,
+            "top_right": 3,
+            "bottom_left": 13,
+            "bottom_right": 16
+        },
+        "8": {
+            "top": 3,
+            "bottom": 10,
+            "left": 7,
+            "right": null,
+            "top_left": 2,
+            "top_right": null,
+            "bottom_left": 11,
+            "bottom_right": null
+        },
+        "9": {
+            "top": 5,
+            "bottom": 14,
+            "left": null,
+            "right": 6,
+            "top_left": null,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 16
+        },
+        "10": {
+            "top": 8,
+            "bottom": 16,
+            "left": 7,
+            "right": null,
+            "top_left": 2,
+            "top_right": null,
+            "bottom_left": 15,
+            "bottom_right": null
+        },
+        "11": {
+            "top": 7,
+            "bottom": null,
+            "left": 6,
+            "right": 10,
+            "top_left": 1,
+            "top_right": 8,
+            "bottom_left": 13,
+            "bottom_right": 16
+        },
+        "12": {
+            "top": 6,
+            "bottom": null,
+            "left": 9,
+            "right": 13,
+            "top_left": 5,
+            "top_right": 11,
+            "bottom_left": 15,
+            "bottom_right": 16
+        },
+        "13": {
+            "top": 6,
+            "bottom": null,
+            "left": 12,
+            "right": 10,
+            "top_left": 5,
+            "top_right": 11,
+            "bottom_left": 15,
+            "bottom_right": 16
+        },
+        "14": {
+            "top": 9,
+            "bottom": null,
+            "left": null,
+            "right": 15,
+            "top_left": null,
+            "top_right": 12,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "15": {
+            "top": 9,
+            "bottom": null,
+            "left": 14,
+            "right": 16,
+            "top_left": null,
+            "top_right": 12,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "16": {
+            "top": 10,
+            "bottom": null,
+            "left": 15,
+            "right": 17,
+            "top_left": 7,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "17": {
+            "top": 10,
+            "bottom": null,
+            "left": 16,
+            "right": null,
+            "top_left": 7,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

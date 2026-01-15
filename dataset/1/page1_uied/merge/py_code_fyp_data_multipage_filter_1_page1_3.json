@@ -1,0 +1,498 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Block",
+            "height": 131,
+            "width": 268,
+            "position": {
+                "column_min": 14,
+                "row_min": 0,
+                "column_max": 282,
+                "row_max": 131
+            },
+            "children": [
+                3
+            ]
+        },
+        {
+            "id": 1,
+            "class": "Block",
+            "height": 131,
+            "width": 268,
+            "position": {
+                "column_min": 314,
+                "row_min": 0,
+                "column_max": 582,
+                "row_max": 131
+            }
+        },
+        {
+            "id": 2,
+            "class": "Block",
+            "height": 131,
+            "width": 268,
+            "position": {
+                "column_min": 614,
+                "row_min": 0,
+                "column_max": 882,
+                "row_max": 131
+            }
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 47,
+            "width": 47,
+            "position": {
+                "column_min": 15,
+                "row_min": 83,
+                "column_max": 62,
+                "row_max": 130
+            },
+            "parent": 0
+        },
+        {
+            "id": 4,
+            "class": "Block",
+            "height": 131,
+            "width": 268,
+            "position": {
+                "column_min": 914,
+                "row_min": 0,
+                "column_max": 1182,
+                "row_max": 131
+            },
+            "children": [
+                5,
+                6
+            ]
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 47,
+            "width": 94,
+            "position": {
+                "column_min": 915,
+                "row_min": 83,
+                "column_max": 1009,
+                "row_max": 130
+            },
+            "children": [
+                6
+            ],
+            "parent": 4
+        }
+    ],
+    "texts": [
+        {
+            "id": 6,
+            "class": "Text",
+            "height": 14,
+            "width": 34,
+            "position": {
+                "column_min": 957,
+                "row_min": 101,
+                "column_max": 991,
+                "row_max": 115
+            },
+            "text_content": "59m",
+            "parent": 5
+        },
+        {
+            "id": 7,
+            "class": "Text",
+            "height": 90,
+            "width": 246,
+            "position": {
+                "column_min": 12,
+                "row_min": 148,
+                "column_max": 258,
+                "row_max": 238
+            },
+            "text_content": "White Christmas in\nTasmaniaasheat\nclimbsin other states"
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 127,
+            "width": 262,
+            "position": {
+                "column_min": 310,
+                "row_min": 147,
+                "column_max": 572,
+                "row_max": 274
+            },
+            "text_content": "'We pushit to the max:\nSheready toaddto\nSydney to Hobart\nhistory"
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 122,
+            "width": 236,
+            "position": {
+                "column_min": 611,
+                "row_min": 148,
+                "column_max": 847,
+                "row_max": 270
+            },
+            "text_content": "Festive 'Friendsmas'\ncelebrations combat\nloneliness; social\nisolation"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 137,
+            "width": 252,
+            "position": {
+                "column_min": 911,
+                "row_min": 144,
+                "column_max": 1163,
+                "row_max": 281
+            },
+            "text_content": "The Mighty Challenge\nTest yOUr knowledge ofallthings\nobscure and specifc with the 1009\noriginal, custom-built Mighty\nChallengel"
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 112,
+            "width": 262,
+            "position": {
+                "column_min": 15,
+                "row_min": 255,
+                "column_max": 277,
+                "row_max": 367
+            },
+            "text_content": "Snow has arrived in the island state on\nChristmas morning¡£ but hotter\nconditions are expected around the\ncountryincluding\nsCorcherinthe\nWeSt"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 138,
+            "width": 272,
+            "position": {
+                "column_min": 313,
+                "row_min": 287,
+                "column_max": 585,
+                "row_max": 425
+            },
+            "text_content": "Afellowship of sailors willembark on\nShe's 23rd Sydney to Hobart campaign\nAs they dothey willhonour one ofthe\nmost resilient boats in the race's history\nand remember late owner Peter\nRodgers"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 90,
+            "width": 270,
+            "position": {
+                "column_min": 613,
+                "row_min": 285,
+                "column_max": 883,
+                "row_max": 375
+            },
+            "text_content": "Despite our screens being filled with\nimages of happy families celebrating\nChristmas  some feelthe festive season\ni5 lonelier than ever"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 14,
+            "width": 170,
+            "position": {
+                "column_min": 913,
+                "row_min": 295,
+                "column_max": 1083,
+                "row_max": 309
+            },
+            "text_content": "Wed ABC RADIO SYDNEY"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 56,
+            "width": 216,
+            "position": {
+                "column_min": 15,
+                "row_min": 383,
+                "column_max": 231,
+                "row_max": 439
+            },
+            "text_content": "IOha90\nby Gian De Poloni,Scout Wallen,\nABC NEWIS\nWEATHER\nRebecca Triggerandkelsey Reid"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 37,
+            "width": 136,
+            "position": {
+                "column_min": 615,
+                "row_min": 391,
+                "column_max": 751,
+                "row_max": 428
+            },
+            "text_content": "21h a90\nby Gemma Ferguson\nABC NEWS"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 14,
+            "width": 74,
+            "position": {
+                "column_min": 769,
+                "row_min": 391,
+                "column_max": 843,
+                "row_max": 405
+            },
+            "text_content": "FRIENDSHIP"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 36,
+            "width": 138,
+            "position": {
+                "column_min": 313,
+                "row_min": 439,
+                "column_max": 451,
+                "row_max": 475
+            },
+            "text_content": "IOha90\nby Andrew McGarry\nABC NEWIS"
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 16,
+            "width": 50,
+            "position": {
+                "column_min": 469,
+                "row_min": 437,
+                "column_max": 519,
+                "row_max": 453
+            },
+            "text_content": "SAILING"
+        },
+        {
+            "id": 20,
+            "class": "Text",
+            "height": 24,
+            "width": 172,
+            "position": {
+                "column_min": 984,
+                "row_min": 502,
+                "column_max": 1156,
+                "row_max": 526
+            },
+            "text_content": "More from Sydney"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": null,
+            "bottom": 7,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 8
+        },
+        "1": {
+            "top": null,
+            "bottom": 8,
+            "left": 0,
+            "right": 2,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": 9
+        },
+        "2": {
+            "top": null,
+            "bottom": 9,
+            "left": 1,
+            "right": 4,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 8,
+            "bottom_right": 10
+        },
+        "3": {
+            "top": null,
+            "bottom": 7,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 8
+        },
+        "4": {
+            "top": null,
+            "bottom": 10,
+            "left": 2,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 9,
+            "bottom_right": null
+        },
+        "5": {
+            "top": null,
+            "bottom": 10,
+            "left": 2,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 9,
+            "bottom_right": null
+        },
+        "6": {
+            "top": null,
+            "bottom": 10,
+            "left": 2,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 9,
+            "bottom_right": null
+        },
+        "7": {
+            "top": 0,
+            "bottom": 11,
+            "left": null,
+            "right": 8,
+            "top_left": null,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 12
+        },
+        "8": {
+            "top": 1,
+            "bottom": 12,
+            "left": 11,
+            "right": 9,
+            "top_left": 0,
+            "top_right": 2,
+            "bottom_left": 15,
+            "bottom_right": 16
+        },
+        "9": {
+            "top": 2,
+            "bottom": 13,
+            "left": 8,
+            "right": 10,
+            "top_left": 1,
+            "top_right": 5,
+            "bottom_left": 12,
+            "bottom_right": 14
+        },
+        "10": {
+            "top": 4,
+            "bottom": 14,
+            "left": 9,
+            "right": null,
+            "top_left": 2,
+            "top_right": null,
+            "bottom_left": 17,
+            "bottom_right": null
+        },
+        "11": {
+            "top": 7,
+            "bottom": 15,
+            "left": null,
+            "right": 8,
+            "top_left": null,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 18
+        },
+        "12": {
+            "top": 8,
+            "bottom": 19,
+            "left": 11,
+            "right": 13,
+            "top_left": 7,
+            "top_right": 9,
+            "bottom_left": null,
+            "bottom_right": 20
+        },
+        "13": {
+            "top": 9,
+            "bottom": 16,
+            "left": 12,
+            "right": 14,
+            "top_left": 8,
+            "top_right": 5,
+            "bottom_left": 19,
+            "bottom_right": 20
+        },
+        "14": {
+            "top": 10,
+            "bottom": 20,
+            "left": 13,
+            "right": null,
+            "top_left": 9,
+            "top_right": null,
+            "bottom_left": 17,
+            "bottom_right": null
+        },
+        "15": {
+            "top": 11,
+            "bottom": null,
+            "left": null,
+            "right": 12,
+            "top_left": null,
+            "top_right": 8,
+            "bottom_left": null,
+            "bottom_right": 20
+        },
+        "16": {
+            "top": 13,
+            "bottom": null,
+            "left": 12,
+            "right": 17,
+            "top_left": 8,
+            "top_right": 14,
+            "bottom_left": 19,
+            "bottom_right": 20
+        },
+        "17": {
+            "top": 13,
+            "bottom": null,
+            "left": 16,
+            "right": null,
+            "top_left": 8,
+            "top_right": 14,
+            "bottom_left": 19,
+            "bottom_right": 20
+        },
+        "18": {
+            "top": 12,
+            "bottom": null,
+            "left": 15,
+            "right": 19,
+            "top_left": 11,
+            "top_right": 16,
+            "bottom_left": null,
+            "bottom_right": 20
+        },
+        "19": {
+            "top": 12,
+            "bottom": null,
+            "left": 18,
+            "right": null,
+            "top_left": 11,
+            "top_right": 16,
+            "bottom_left": null,
+            "bottom_right": 20
+        },
+        "20": {
+            "top": 14,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "top_left": 17,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

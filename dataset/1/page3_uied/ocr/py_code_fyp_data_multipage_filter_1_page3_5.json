@@ -1,0 +1,19 @@
+{
+    "img_shape": [
+        231,
+        1166,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Connect with ABC Coffs Coast\nDiscover more on Facebook. Text us on 0467 922684 (rates apply) or callus on 1300 222923.",
+            "column_min": 43,
+            "row_min": 39,
+            "column_max": 660,
+            "row_max": 106,
+            "width": 617,
+            "height": 67
+        }
+    ]
+}

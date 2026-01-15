@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        492,
+        1176,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Listen back",
+            "column_min": 17,
+            "row_min": 7,
+            "column_max": 197,
+            "row_max": 43,
+            "width": 180,
+            "height": 36
+        },
+        {
+            "id": 1,
+            "content": "\u5c0f 4m 595",
+            "column_min": 17,
+            "row_min": 179,
+            "column_max": 103,
+            "row_max": 199,
+            "width": 86,
+            "height": 20
+        },
+        {
+            "id": 2,
+            "content": "\u5dde\n6m",
+            "column_min": 315,
+            "row_min": 179,
+            "column_max": 373,
+            "row_max": 197,
+            "width": 58,
+            "height": 18
+        },
+        {
+            "id": 3,
+            "content": "I 5om",
+            "column_min": 615,
+            "row_min": 179,
+            "column_max": 681,
+            "row_max": 197,
+            "width": 66,
+            "height": 18
+        },
+        {
+            "id": 4,
+            "content": "I\n9m",
+            "column_min": 917,
+            "row_min": 181,
+            "column_max": 971,
+            "row_max": 197,
+            "width": 54,
+            "height": 16
+        },
+        {
+            "id": 5,
+            "content": "ABC Coffs Coast Local\nNews",
+            "column_min": 4,
+            "row_min": 228,
+            "column_max": 252,
+            "row_max": 288,
+            "width": 248,
+            "height": 60
+        },
+        {
+            "id": 6,
+            "content": "Seasonal Worker\nsentencedafter\npleading guilty to rape\nA Samoan seasonal worker has been\nSentenced to eight years atter pleading\nguilty to the rape of\nteenage girl",
+            "column_min": 300,
+            "row_min": 230,
+            "column_max": 571,
+            "row_max": 403,
+            "width": 271,
+            "height": 173
+        },
+        {
+            "id": 7,
+            "content": "Country Hour\ncelebrates 80years of\ncontinuous\nbroadcasting\nListen to how the Country Hour\nreported onagriculture over 80 years",
+            "column_min": 599,
+            "row_min": 224,
+            "column_max": 857,
+            "row_max": 410,
+            "width": 258,
+            "height": 186
+        },
+        {
+            "id": 8,
+            "content": "Blueberry concerns\nIyou're wondering whether to buy\nblueberries for yOUr kids to eat youre\nprobably not alone\u3002",
+            "column_min": 900,
+            "row_min": 224,
+            "column_max": 1161,
+            "row_max": 337,
+            "width": 261,
+            "height": 113
+        },
+        {
+            "id": 9,
+            "content": "Localnews updated weekdays at\nG.3Oam",
+            "column_min": 5,
+            "row_min": 305,
+            "column_max": 231,
+            "row_max": 343,
+            "width": 226,
+            "height": 38
+        },
+        {
+            "id": 10,
+            "content": "ABC RURAL",
+            "column_min": 905,
+            "row_min": 351,
+            "column_max": 975,
+            "row_max": 367,
+            "width": 70,
+            "height": 16
+        },
+        {
+            "id": 11,
+            "content": "by David Claughton",
+            "column_min": 995,
+            "row_min": 350,
+            "column_max": 1117,
+            "row_max": 368,
+            "width": 122,
+            "height": 18
+        },
+        {
+            "id": 12,
+            "content": "LISTEN",
+            "column_min": 3,
+            "row_min": 359,
+            "column_max": 49,
+            "row_max": 373,
+            "width": 46,
+            "height": 14
+        },
+        {
+            "id": 13,
+            "content": "ABC PACIFIC\nby Jordan Fennell\nSEXUAL OFFENCES",
+            "column_min": 305,
+            "row_min": 415,
+            "column_max": 515,
+            "row_max": 451,
+            "width": 210,
+            "height": 36
+        },
+        {
+            "id": 14,
+            "content": "LISTEN\nby Michael Condon\nAGRICULTURE",
+            "column_min": 603,
+            "row_min": 423,
+            "column_max": 753,
+            "row_max": 459,
+            "width": 150,
+            "height": 36
+        }
+    ]
+}

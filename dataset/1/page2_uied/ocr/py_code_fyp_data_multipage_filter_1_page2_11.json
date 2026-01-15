@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        579,
+        1181,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "NSW News",
+            "column_min": 20,
+            "row_min": 10,
+            "column_max": 186,
+            "row_max": 42,
+            "width": 166,
+            "height": 32
+        },
+        {
+            "id": 1,
+            "content": "Charity; church\nservicesand cheeras\nAustralians give back\non Christmas Day",
+            "column_min": 0,
+            "row_min": 225,
+            "column_max": 250,
+            "row_max": 357,
+            "width": 250,
+            "height": 132
+        },
+        {
+            "id": 2,
+            "content": "Publicassemblies\nbannedfor 14\nSydneyas police\naCrOSS\nehactnew laws\ndays",
+            "column_min": 301,
+            "row_min": 230,
+            "column_max": 574,
+            "row_max": 352,
+            "width": 273,
+            "height": 122
+        },
+        {
+            "id": 3,
+            "content": "White Christmas in\nTasmaniaasheat\nclimbsin other states",
+            "column_min": 601,
+            "row_min": 230,
+            "column_max": 848,
+            "row_max": 320,
+            "width": 247,
+            "height": 90
+        },
+        {
+            "id": 4,
+            "content": "Howanursinghome\ntackled racism by\ncelebrating culture\nreported racistabuse\nIn 2024\nTLIrSe\nfrom some residents and family\nmembers\nyear later, instances of\nabuse have plummeted and staff say \u8ba1\ni5 because Of\nnew program promoting\nrespect\u3002",
+            "column_min": 900,
+            "row_min": 227,
+            "column_max": 1175,
+            "row_max": 475,
+            "width": 275,
+            "height": 248
+        },
+        {
+            "id": 5,
+            "content": "Snow has arrived in the island state on\nChristmas morning\nbut hotter\nconditions are expected around the\nCountryincluding\nscorcherinthe\nWeSt",
+            "column_min": 605,
+            "row_min": 337,
+            "column_max": 867,
+            "row_max": 449,
+            "width": 262,
+            "height": 112
+        },
+        {
+            "id": 6,
+            "content": "Australians have marked another\nChristmas Day with solemnity and\ncelebration with churches fulland\nbeaches packed\u3002",
+            "column_min": 5,
+            "row_min": 369,
+            "column_max": 241,
+            "row_max": 457,
+            "width": 236,
+            "height": 88
+        },
+        {
+            "id": 7,
+            "content": "The NSWI Police Commissioner Mal\nLanyon, has activated new powers\nprescribed under changes tO NSW\nprotest laws sparked by the terrorist\nattack at Bondi Beach on December 14\u3002",
+            "column_min": 302,
+            "row_min": 369,
+            "column_max": 565,
+            "row_max": 481,
+            "width": 263,
+            "height": 112
+        },
+        {
+            "id": 8,
+            "content": "ABC NEWS\nby Gian De Poloni,Scout Wallen\nWEATHER\nRebecca Triggerandkelsey Reid",
+            "column_min": 605,
+            "row_min": 463,
+            "column_max": 803,
+            "row_max": 521,
+            "width": 198,
+            "height": 58
+        },
+        {
+            "id": 9,
+            "content": "ABC NEWS",
+            "column_min": 5,
+            "row_min": 471,
+            "column_max": 71,
+            "row_max": 487,
+            "width": 66,
+            "height": 16
+        },
+        {
+            "id": 10,
+            "content": "CHRISTMA5",
+            "column_min": 91,
+            "row_min": 473,
+            "column_max": 163,
+            "row_max": 487,
+            "width": 72,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": "ABC ILLAWARRA\nby Penny Burfitt",
+            "column_min": 905,
+            "row_min": 487,
+            "column_max": 1007,
+            "row_max": 523,
+            "width": 102,
+            "height": 36
+        },
+        {
+            "id": 12,
+            "content": "AGED CARE",
+            "column_min": 1023,
+            "row_min": 489,
+            "column_max": 1095,
+            "row_max": 503,
+            "width": 72,
+            "height": 14
+        },
+        {
+            "id": 13,
+            "content": "ABC NEWS",
+            "column_min": 305,
+            "row_min": 495,
+            "column_max": 371,
+            "row_max": 511,
+            "width": 66,
+            "height": 16
+        },
+        {
+            "id": 14,
+            "content": "POLICE",
+            "column_min": 391,
+            "row_min": 497,
+            "column_max": 435,
+            "row_max": 511,
+            "width": 44,
+            "height": 14
+        },
+        {
+            "id": 15,
+            "content": "by Jamie Mckinnell",
+            "column_min": 453,
+            "row_min": 497,
+            "column_max": 575,
+            "row_max": 511,
+            "width": 122,
+            "height": 14
+        },
+        {
+            "id": 16,
+            "content": "More NSW Stories\n0n\nABC NEWS",
+            "column_min": 845,
+            "row_min": 553,
+            "column_max": 1145,
+            "row_max": 573,
+            "width": 300,
+            "height": 20
+        }
+    ]
+}

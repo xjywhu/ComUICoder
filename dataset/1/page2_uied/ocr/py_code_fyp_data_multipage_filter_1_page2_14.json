@@ -1,0 +1,359 @@
+{
+    "img_shape": [
+        483,
+        1878,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "AABC",
+            "column_min": 9,
+            "row_min": 11,
+            "column_max": 149,
+            "row_max": 53,
+            "width": 140,
+            "height": 42
+        },
+        {
+            "id": 1,
+            "content": "SECTIONS",
+            "column_min": 395,
+            "row_min": 31,
+            "column_max": 481,
+            "row_max": 51,
+            "width": 86,
+            "height": 20
+        },
+        {
+            "id": 2,
+            "content": "CONNECT WITH Us",
+            "column_min": 783,
+            "row_min": 31,
+            "column_max": 937,
+            "row_max": 51,
+            "width": 154,
+            "height": 20
+        },
+        {
+            "id": 3,
+            "content": "CONTACT Us",
+            "column_min": 1165,
+            "row_min": 31,
+            "column_max": 1271,
+            "row_max": 51,
+            "width": 106,
+            "height": 20
+        },
+        {
+            "id": 4,
+            "content": "GET THE ABC ILLAWARRA NEWSLETTER",
+            "column_min": 1549,
+            "row_min": 31,
+            "column_max": 1867,
+            "row_max": 51,
+            "width": 318,
+            "height": 20
+        },
+        {
+            "id": 5,
+            "content": "ILLAWARRA",
+            "column_min": 10,
+            "row_min": 64,
+            "column_max": 144,
+            "row_max": 90,
+            "width": 134,
+            "height": 26
+        },
+        {
+            "id": 6,
+            "content": "HOME",
+            "column_min": 397,
+            "row_min": 75,
+            "column_max": 441,
+            "row_max": 89,
+            "width": 44,
+            "height": 14
+        },
+        {
+            "id": 7,
+            "content": "LISTENING FAQ",
+            "column_min": 573,
+            "row_min": 73,
+            "column_max": 679,
+            "row_max": 89,
+            "width": 106,
+            "height": 16
+        },
+        {
+            "id": 8,
+            "content": "FACEBOOK",
+            "column_min": 817,
+            "row_min": 73,
+            "column_max": 893,
+            "row_max": 89,
+            "width": 76,
+            "height": 16
+        },
+        {
+            "id": 9,
+            "content": "SMS: 0467 922684\n(RATES APPLY)",
+            "column_min": 1167,
+            "row_min": 71,
+            "column_max": 1403,
+            "row_max": 91,
+            "width": 236,
+            "height": 20
+        },
+        {
+            "id": 10,
+            "content": "Emailaddress",
+            "column_min": 1549,
+            "row_min": 73,
+            "column_max": 1661,
+            "row_max": 93,
+            "width": 112,
+            "height": 20
+        },
+        {
+            "id": 11,
+            "content": "PROGRAMS",
+            "column_min": 399,
+            "row_min": 107,
+            "column_max": 477,
+            "row_max": 123,
+            "width": 78,
+            "height": 16
+        },
+        {
+            "id": 12,
+            "content": "WEATHER",
+            "column_min": 573,
+            "row_min": 107,
+            "column_max": 641,
+            "row_max": 123,
+            "width": 68,
+            "height": 16
+        },
+        {
+            "id": 13,
+            "content": "TALKBACK: 1300 973 300",
+            "column_min": 1167,
+            "row_min": 107,
+            "column_max": 1337,
+            "row_max": 123,
+            "width": 170,
+            "height": 16
+        },
+        {
+            "id": 14,
+            "content": "Stay informed and entertained with ABC\nAustralia\nAccess live events, news, audio\nand on-demand video streaming from the\nnations most trusted broadcaster",
+            "column_min": 10,
+            "row_min": 113,
+            "column_max": 336,
+            "row_max": 207,
+            "width": 326,
+            "height": 94
+        },
+        {
+            "id": 15,
+            "content": "Enter youremailaddress",
+            "column_min": 1569,
+            "row_min": 120,
+            "column_max": 1763,
+            "row_max": 140,
+            "width": 194,
+            "height": 20
+        },
+        {
+            "id": 16,
+            "content": "LISTEN BACK",
+            "column_min": 397,
+            "row_min": 141,
+            "column_max": 489,
+            "row_max": 157,
+            "width": 92,
+            "height": 16
+        },
+        {
+            "id": 17,
+            "content": "FREQUENCY FINDER",
+            "column_min": 573,
+            "row_min": 141,
+            "column_max": 711,
+            "row_max": 157,
+            "width": 138,
+            "height": 16
+        },
+        {
+            "id": 18,
+            "content": "ABC ILLAWARRA: (02) 4224 5011",
+            "column_min": 1167,
+            "row_min": 141,
+            "column_max": 1387,
+            "row_max": 159,
+            "width": 220,
+            "height": 18
+        },
+        {
+            "id": 19,
+            "content": "CONTACT Us",
+            "column_min": 399,
+            "row_min": 175,
+            "column_max": 487,
+            "row_max": 191,
+            "width": 88,
+            "height": 16
+        },
+        {
+            "id": 20,
+            "content": "SCHEDULE",
+            "column_min": 573,
+            "row_min": 175,
+            "column_max": 649,
+            "row_max": 191,
+            "width": 76,
+            "height": 16
+        },
+        {
+            "id": 21,
+            "content": "GENERAL ABC ENQUIRIES: 13 9994",
+            "column_min": 1167,
+            "row_min": 175,
+            "column_max": 1401,
+            "row_max": 191,
+            "width": 234,
+            "height": 16
+        },
+        {
+            "id": 22,
+            "content": "SUBSCRIBE",
+            "column_min": 1671,
+            "row_min": 179,
+            "column_max": 1767,
+            "row_max": 197,
+            "width": 96,
+            "height": 18
+        },
+        {
+            "id": 23,
+            "content": "More from ABC",
+            "column_min": 15,
+            "row_min": 225,
+            "column_max": 149,
+            "row_max": 245,
+            "width": 134,
+            "height": 20
+        },
+        {
+            "id": 24,
+            "content": "Your informationis being handled in accordance wit\nthe ABC Privacy Collection Statemeqt",
+            "column_min": 1551,
+            "row_min": 221,
+            "column_max": 1878,
+            "row_max": 260,
+            "width": 327,
+            "height": 39
+        },
+        {
+            "id": 25,
+            "content": "Weacknowledge Aboriginaland Torres Strait Islander\npeoples as the First Australians and Traditional\nCustodians ofthe lands Where We live learnand work\u3002",
+            "column_min": 13,
+            "row_min": 271,
+            "column_max": 329,
+            "row_max": 333,
+            "width": 316,
+            "height": 62
+        },
+        {
+            "id": 26,
+            "content": "This site is protected by reCAPTCHA and the Google\nPrivacy Policyand Terms Of Service apply\u3002",
+            "column_min": 1550,
+            "row_min": 275,
+            "column_max": 1875,
+            "row_max": 313,
+            "width": 325,
+            "height": 38
+        },
+        {
+            "id": 27,
+            "content": "Editorial Policies",
+            "column_min": 13,
+            "row_min": 443,
+            "column_max": 123,
+            "row_max": 457,
+            "width": 110,
+            "height": 14
+        },
+        {
+            "id": 28,
+            "content": "Accessibility",
+            "column_min": 151,
+            "row_min": 443,
+            "column_max": 235,
+            "row_max": 459,
+            "width": 84,
+            "height": 16
+        },
+        {
+            "id": 29,
+            "content": "Help",
+            "column_min": 259,
+            "row_min": 442,
+            "column_max": 295,
+            "row_max": 460,
+            "width": 36,
+            "height": 18
+        },
+        {
+            "id": 30,
+            "content": "Contact Us",
+            "column_min": 323,
+            "row_min": 443,
+            "column_max": 395,
+            "row_max": 457,
+            "width": 72,
+            "height": 14
+        },
+        {
+            "id": 31,
+            "content": "About the ABC",
+            "column_min": 423,
+            "row_min": 443,
+            "column_max": 519,
+            "row_max": 459,
+            "width": 96,
+            "height": 16
+        },
+        {
+            "id": 32,
+            "content": "Privacy Policy",
+            "column_min": 546,
+            "row_min": 441,
+            "column_max": 637,
+            "row_max": 459,
+            "width": 91,
+            "height": 18
+        },
+        {
+            "id": 33,
+            "content": "Terms Of Use",
+            "column_min": 663,
+            "row_min": 443,
+            "column_max": 747,
+            "row_max": 457,
+            "width": 84,
+            "height": 14
+        },
+        {
+            "id": 34,
+            "content": "2025 ABC",
+            "column_min": 789,
+            "row_min": 443,
+            "column_max": 851,
+            "row_max": 459,
+            "width": 62,
+            "height": 16
+        }
+    ]
+}

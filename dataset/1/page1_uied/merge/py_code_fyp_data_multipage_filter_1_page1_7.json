@@ -1,0 +1,526 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 48,
+            "width": 116,
+            "position": {
+                "column_min": 20,
+                "row_min": 168,
+                "column_max": 136,
+                "row_max": 216
+            },
+            "children": [
+                5
+            ]
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 48,
+            "width": 90,
+            "position": {
+                "column_min": 320,
+                "row_min": 168,
+                "column_max": 410,
+                "row_max": 216
+            },
+            "children": [
+                6
+            ]
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 48,
+            "width": 90,
+            "position": {
+                "column_min": 620,
+                "row_min": 168,
+                "column_max": 710,
+                "row_max": 216
+            },
+            "children": [
+                7
+            ]
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 48,
+            "width": 107,
+            "position": {
+                "column_min": 920,
+                "row_min": 168,
+                "column_max": 1027,
+                "row_max": 216
+            },
+            "children": [
+                8
+            ]
+        }
+    ],
+    "texts": [
+        {
+            "id": 4,
+            "class": "Text",
+            "height": 36,
+            "width": 102,
+            "position": {
+                "column_min": 35,
+                "row_min": 11,
+                "column_max": 137,
+                "row_max": 47
+            },
+            "text_content": "Watch"
+        },
+        {
+            "id": 5,
+            "class": "Text",
+            "height": 14,
+            "width": 56,
+            "position": {
+                "column_min": 63,
+                "row_min": 187,
+                "column_max": 119,
+                "row_max": 201
+            },
+            "text_content": "1m 495",
+            "parent": 0
+        },
+        {
+            "id": 6,
+            "class": "Text",
+            "height": 14,
+            "width": 30,
+            "position": {
+                "column_min": 363,
+                "row_min": 187,
+                "column_max": 393,
+                "row_max": 201
+            },
+            "text_content": "465",
+            "parent": 1
+        },
+        {
+            "id": 7,
+            "class": "Text",
+            "height": 14,
+            "width": 30,
+            "position": {
+                "column_min": 663,
+                "row_min": 187,
+                "column_max": 693,
+                "row_max": 201
+            },
+            "text_content": "455",
+            "parent": 2
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 14,
+            "width": 46,
+            "position": {
+                "column_min": 963,
+                "row_min": 187,
+                "column_max": 1009,
+                "row_max": 201
+            },
+            "text_content": "10 &5",
+            "parent": 3
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 124,
+            "width": 234,
+            "position": {
+                "column_min": 18,
+                "row_min": 232,
+                "column_max": 252,
+                "row_max": 356
+            },
+            "text_content": "NSWpremieris 'ot\ndone'withreformin\nWake of Bonditerror\nattack¡£"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 125,
+            "width": 250,
+            "position": {
+                "column_min": 316,
+                "row_min": 231,
+                "column_max": 566,
+                "row_max": 356
+            },
+            "text_content": "Terrorattacks\nyoungest victims\nfatherlights Menorah\nCandle"
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 90,
+            "width": 269,
+            "position": {
+                "column_min": 615,
+                "row_min": 234,
+                "column_max": 884,
+                "row_max": 324
+            },
+            "text_content": "OneNationMP Barnaby\nJoyce calls for PMtobe\nremovedfromrole"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 92,
+            "width": 268,
+            "position": {
+                "column_min": 915,
+                "row_min": 232,
+                "column_max": 1183,
+                "row_max": 324
+            },
+            "text_content": "Governor generalcalls\nfor'national project' of\nlndness"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 66,
+            "width": 264,
+            "position": {
+                "column_min": 619,
+                "row_min": 339,
+                "column_max": 883,
+                "row_max": 405
+            },
+            "text_content": "Theformer deputy prme minister\nspoketoa small crowd at the Australia\nFirst rallyin Sydney¡£"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 65,
+            "width": 260,
+            "position": {
+                "column_min": 919,
+                "row_min": 338,
+                "column_max": 1179,
+                "row_max": 403
+            },
+            "text_content": "Governor General Sam Mostyn speaks\non the Bondi Day of Reflection, calling\nfor Australians to Use their kindness ."
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 90,
+            "width": 270,
+            "position": {
+                "column_min": 19,
+                "row_min": 371,
+                "column_max": 289,
+                "row_max": 461
+            },
+            "text_content": "NSW Premier Chris Minns pledges to do\n'everything' possible to crack down on\nhate\nspeechin theaftermath of the\nBondi Beach shooting¡£"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 67,
+            "width": 274,
+            "position": {
+                "column_min": 319,
+                "row_min": 370,
+                "column_max": 593,
+                "row_max": 437
+            },
+            "text_content": "Thefather ofthe IOyearold victim,\nMatilda; lights a candle alongside Rabbi\nVany Super"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 14,
+            "width": 68,
+            "position": {
+                "column_min": 619,
+                "row_min": 419,
+                "column_max": 687,
+                "row_max": 433
+            },
+            "text_content": "ABC NEWS"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 14,
+            "width": 68,
+            "position": {
+                "column_min": 919,
+                "row_min": 419,
+                "column_max": 987,
+                "row_max": 433
+            },
+            "text_content": "ABC NEWS"
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 14,
+            "width": 68,
+            "position": {
+                "column_min": 319,
+                "row_min": 451,
+                "column_max": 387,
+                "row_max": 465
+            },
+            "text_content": "ABC NEWS"
+        },
+        {
+            "id": 20,
+            "class": "Text",
+            "height": 14,
+            "width": 66,
+            "position": {
+                "column_min": 21,
+                "row_min": 475,
+                "column_max": 87,
+                "row_max": 489
+            },
+            "text_content": "ABC NEWS"
+        },
+        {
+            "id": 21,
+            "class": "Text",
+            "height": 24,
+            "width": 457,
+            "position": {
+                "column_min": 707,
+                "row_min": 518,
+                "column_max": 1164,
+                "row_max": 542
+            },
+            "text_content": "Watch\nmore news & entertainment on ABC iview"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": 4,
+            "bottom": 9,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 10
+        },
+        "1": {
+            "top": null,
+            "bottom": 10,
+            "left": 0,
+            "right": 2,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 9,
+            "bottom_right": 17
+        },
+        "2": {
+            "top": null,
+            "bottom": 11,
+            "left": 1,
+            "right": 3,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 10,
+            "bottom_right": 18
+        },
+        "3": {
+            "top": null,
+            "bottom": 12,
+            "left": 2,
+            "right": null,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 11,
+            "bottom_right": null
+        },
+        "4": {
+            "top": null,
+            "bottom": 0,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 1
+        },
+        "5": {
+            "top": 4,
+            "bottom": 9,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 10
+        },
+        "6": {
+            "top": null,
+            "bottom": 10,
+            "left": 0,
+            "right": 2,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 9,
+            "bottom_right": 17
+        },
+        "7": {
+            "top": null,
+            "bottom": 11,
+            "left": 1,
+            "right": 3,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 10,
+            "bottom_right": 18
+        },
+        "8": {
+            "top": null,
+            "bottom": 12,
+            "left": 2,
+            "right": null,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 11,
+            "bottom_right": null
+        },
+        "9": {
+            "top": 0,
+            "bottom": 15,
+            "left": null,
+            "right": 10,
+            "top_left": null,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 19
+        },
+        "10": {
+            "top": 1,
+            "bottom": 16,
+            "left": 9,
+            "right": 11,
+            "top_left": 5,
+            "top_right": 2,
+            "bottom_left": 15,
+            "bottom_right": 17
+        },
+        "11": {
+            "top": 2,
+            "bottom": 13,
+            "left": 10,
+            "right": 12,
+            "top_left": 6,
+            "top_right": 3,
+            "bottom_left": 16,
+            "bottom_right": 18
+        },
+        "12": {
+            "top": 3,
+            "bottom": 14,
+            "left": 11,
+            "right": null,
+            "top_left": 7,
+            "top_right": null,
+            "bottom_left": 13,
+            "bottom_right": null
+        },
+        "13": {
+            "top": 11,
+            "bottom": 17,
+            "left": 16,
+            "right": 14,
+            "top_left": 6,
+            "top_right": 3,
+            "bottom_left": 19,
+            "bottom_right": 18
+        },
+        "14": {
+            "top": 12,
+            "bottom": 18,
+            "left": 13,
+            "right": null,
+            "top_left": 11,
+            "top_right": null,
+            "bottom_left": 17,
+            "bottom_right": null
+        },
+        "15": {
+            "top": 9,
+            "bottom": 20,
+            "left": null,
+            "right": 16,
+            "top_left": null,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 21
+        },
+        "16": {
+            "top": 10,
+            "bottom": 19,
+            "left": 15,
+            "right": 13,
+            "top_left": 9,
+            "top_right": 2,
+            "bottom_left": 20,
+            "bottom_right": 21
+        },
+        "17": {
+            "top": 13,
+            "bottom": null,
+            "left": 16,
+            "right": 18,
+            "top_left": 10,
+            "top_right": 3,
+            "bottom_left": 19,
+            "bottom_right": 21
+        },
+        "18": {
+            "top": 14,
+            "bottom": 21,
+            "left": 17,
+            "right": null,
+            "top_left": 13,
+            "top_right": null,
+            "bottom_left": 19,
+            "bottom_right": null
+        },
+        "19": {
+            "top": 16,
+            "bottom": null,
+            "left": 15,
+            "right": null,
+            "top_left": 9,
+            "top_right": 17,
+            "bottom_left": 20,
+            "bottom_right": 21
+        },
+        "20": {
+            "top": 15,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": 19,
+            "bottom_left": null,
+            "bottom_right": 21
+        },
+        "21": {
+            "top": 18,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "top_left": 17,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

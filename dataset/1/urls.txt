@@ -1,0 +1,9 @@
+1: https://www.abc.net.au/
+2: https://www.abc.net.au/sydney
+3: https://www.abc.net.au/illawarra
+4: https://www.abc.net.au/brokenhill
+5: https://www.abc.net.au/coffscoast
+6: https://www.abc.net.au/newengland
+7: https://www.abc.net.au/centralwest
+8: https://www.abc.net.au/centralcoast
+9: https://www.abc.net.au/midnorthcoast

@@ -1,0 +1,129 @@
+{
+    "img_shape": [
+        574,
+        1187,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Latest",
+            "column_min": 25,
+            "row_min": 19,
+            "column_max": 129,
+            "row_max": 55,
+            "width": 104,
+            "height": 36
+        },
+        {
+            "id": 1,
+            "content": "\u5c0f\n104",
+            "column_min": 623,
+            "row_min": 191,
+            "column_max": 689,
+            "row_max": 209,
+            "width": 66,
+            "height": 18
+        },
+        {
+            "id": 2,
+            "content": "Nightlife Foreign\nCorrespondent\nPakistan",
+            "column_min": 610,
+            "row_min": 240,
+            "column_max": 802,
+            "row_max": 332,
+            "width": 192,
+            "height": 92
+        },
+        {
+            "id": 3,
+            "content": "Publicassemblies\nbanned for 14 days\nacross Sydneyas police\nehact newlaws",
+            "column_min": 910,
+            "row_min": 240,
+            "column_max": 1180,
+            "row_max": 364,
+            "width": 270,
+            "height": 124
+        },
+        {
+            "id": 4,
+            "content": "Christmas is differentin many other\nCountries ofthe world_\nHOw d0\nChristians livingin Pakistan celebrate\n\u8ba9?",
+            "column_min": 611,
+            "row_min": 347,
+            "column_max": 869,
+            "row_max": 435,
+            "width": 258,
+            "height": 88
+        },
+        {
+            "id": 5,
+            "content": "\u5c0f: 38m",
+            "column_min": 23,
+            "row_min": 359,
+            "column_max": 89,
+            "row_max": 379,
+            "width": 66,
+            "height": 20
+        },
+        {
+            "id": 6,
+            "content": "The NSWI Police Commissioner Mal\nLanyon\nhasactivated new POwers\nprescribed under changes tO NSIN\nprotest Laws sparked by the terrorist\nattack at Bondi Beach on December 14\u3002",
+            "column_min": 910,
+            "row_min": 379,
+            "column_max": 1173,
+            "row_max": 491,
+            "width": 263,
+            "height": 112
+        },
+        {
+            "id": 7,
+            "content": "History of Christmas Traditions\nIhago\nABC RADIO SYDNEY\nCHRISTMAS",
+            "column_min": 9,
+            "row_min": 408,
+            "column_max": 485,
+            "row_max": 477,
+            "width": 476,
+            "height": 69
+        },
+        {
+            "id": 8,
+            "content": "Iha90\nPOLITICS\nABC RADIO 5YDNEY",
+            "column_min": 613,
+            "row_min": 451,
+            "column_max": 797,
+            "row_max": 485,
+            "width": 184,
+            "height": 34
+        },
+        {
+            "id": 9,
+            "content": "WORLD",
+            "column_min": 815,
+            "row_min": 451,
+            "column_max": 861,
+            "row_max": 465,
+            "width": 46,
+            "height": 14
+        },
+        {
+            "id": 10,
+            "content": "I2hag0\nby Jamie McKinnell\nABC NEWS",
+            "column_min": 913,
+            "row_min": 507,
+            "column_max": 1049,
+            "row_max": 543,
+            "width": 136,
+            "height": 36
+        },
+        {
+            "id": 11,
+            "content": "POLICE",
+            "column_min": 1067,
+            "row_min": 507,
+            "column_max": 1113,
+            "row_max": 521,
+            "width": 46,
+            "height": 14
+        }
+    ]
+}

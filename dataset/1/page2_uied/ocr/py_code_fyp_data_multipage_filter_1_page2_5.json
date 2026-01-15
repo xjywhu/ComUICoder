@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        264,
+        1181,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "ABC Radio ILLAWARRA",
+            "column_min": 17,
+            "row_min": 5,
+            "column_max": 348,
+            "row_max": 41,
+            "width": 331,
+            "height": 36
+        },
+        {
+            "id": 1,
+            "content": "UIVE",
+            "column_min": 165,
+            "row_min": 85,
+            "column_max": 193,
+            "row_max": 97,
+            "width": 28,
+            "height": 12
+        },
+        {
+            "id": 2,
+            "content": "PLAY LIVE RADIO",
+            "column_min": 987,
+            "row_min": 87,
+            "column_max": 1119,
+            "row_max": 107,
+            "width": 132,
+            "height": 20
+        },
+        {
+            "id": 3,
+            "content": "Overnights\nwith Michael Pavlich\n2OOAMto 5.30AM",
+            "column_min": 147,
+            "row_min": 109,
+            "column_max": 289,
+            "row_max": 177,
+            "width": 142,
+            "height": 68
+        },
+        {
+            "id": 4,
+            "content": "SCHEDULE",
+            "column_min": 993,
+            "row_min": 151,
+            "column_max": 1077,
+            "row_max": 171,
+            "width": 84,
+            "height": 20
+        },
+        {
+            "id": 5,
+            "content": "Listen on the goon ABC listenapp [",
+            "column_min": 888,
+            "row_min": 230,
+            "column_max": 1174,
+            "row_max": 254,
+            "width": 286,
+            "height": 24
+        }
+    ]
+}

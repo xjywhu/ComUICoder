@@ -1,0 +1,441 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 4,
+                "row_min": 61,
+                "column_max": 272,
+                "row_max": 212
+            }
+        },
+        {
+            "id": 1,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 304,
+                "row_min": 61,
+                "column_max": 572,
+                "row_max": 212
+            }
+        },
+        {
+            "id": 2,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 604,
+                "row_min": 61,
+                "column_max": 872,
+                "row_max": 212
+            }
+        },
+        {
+            "id": 3,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 904,
+                "row_min": 61,
+                "column_max": 1172,
+                "row_max": 212
+            }
+        }
+    ],
+    "texts": [
+        {
+            "id": 4,
+            "class": "Text",
+            "height": 36,
+            "width": 138,
+            "position": {
+                "column_min": 19,
+                "row_min": 7,
+                "column_max": 157,
+                "row_max": 43
+            },
+            "text_content": "Features"
+        },
+        {
+            "id": 5,
+            "class": "Text",
+            "height": 245,
+            "width": 275,
+            "position": {
+                "column_min": 0,
+                "row_min": 228,
+                "column_max": 275,
+                "row_max": 473
+            },
+            "text_content": "Howanursing home\ntackled racism by\ncelebrating culture\nIn 2024\nTUITSe\nreported racistabuse\ntrom some residents and tamily\nmembers\nyear later instances ot\nabuse have plummeted and staff say i\n15 becalse Of\nnew program promoting\nresDect¡£"
+        },
+        {
+            "id": 6,
+            "class": "Text",
+            "height": 127,
+            "width": 274,
+            "position": {
+                "column_min": 300,
+                "row_min": 225,
+                "column_max": 574,
+                "row_max": 352
+            },
+            "text_content": "Embracing live\nentertainments 'human\nconnection'inaged\ncare centres"
+        },
+        {
+            "id": 7,
+            "class": "Text",
+            "height": 96,
+            "width": 230,
+            "position": {
+                "column_min": 602,
+                "row_min": 228,
+                "column_max": 832,
+                "row_max": 324
+            },
+            "text_content": "Makea Christmas\nwreath with Rowers\nfrom your garden"
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 65,
+            "width": 260,
+            "position": {
+                "column_min": 899,
+                "row_min": 225,
+                "column_max": 1159,
+                "row_max": 290
+            },
+            "text_content": "Oldfashioned farming\nwithheavy horses"
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 88,
+            "width": 262,
+            "position": {
+                "column_min": 905,
+                "row_min": 305,
+                "column_max": 1167,
+                "row_max": 393
+            },
+            "text_content": "Aleks Berzins is tarming the land in the\nSame Way his\ngrandfather did.using\ndraught horses tor jobs now widely\ndone by machines"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 66,
+            "width": 260,
+            "position": {
+                "column_min": 603,
+                "row_min": 335,
+                "column_max": 863,
+                "row_max": 401
+            },
+            "text_content": "INorried YOU might make\nmess,get i\nwrong Orwaste yoUT time making\nwreath? Read OuTtips trst"
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 136,
+            "width": 262,
+            "position": {
+                "column_min": 303,
+                "row_min": 369,
+                "column_max": 565,
+                "row_max": 505
+            },
+            "text_content": "Apertormer and an advocate tor older\nAUstralians are worried that live\nentertainment foraged care residents\n15 onthe decline as other leisure\nactivities, SUCh as Virtualreality¡£\npopularity¡£\ngain"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 36,
+            "width": 182,
+            "position": {
+                "column_min": 903,
+                "row_min": 407,
+                "column_max": 1085,
+                "row_max": 443
+            },
+            "text_content": "LANDLINE\nby Emily Doak\nHORSE FARMING"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 37,
+            "width": 102,
+            "position": {
+                "column_min": 603,
+                "row_min": 415,
+                "column_max": 705,
+                "row_max": 452
+            },
+            "text_content": "ABC ILLAWARRA\nby Sarah Moss"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 14,
+            "width": 74,
+            "position": {
+                "column_min": 723,
+                "row_min": 415,
+                "column_max": 797,
+                "row_max": 429
+            },
+            "text_content": "CHRISTNAS"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 36,
+            "width": 102,
+            "position": {
+                "column_min": 5,
+                "row_min": 487,
+                "column_max": 107,
+                "row_max": 523
+            },
+            "text_content": "ABC ILLAWARRA\nby Penny Burfitt"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 14,
+            "width": 72,
+            "position": {
+                "column_min": 123,
+                "row_min": 487,
+                "column_max": 195,
+                "row_max": 501
+            },
+            "text_content": "AGED CARE"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 37,
+            "width": 100,
+            "position": {
+                "column_min": 305,
+                "row_min": 519,
+                "column_max": 405,
+                "row_max": 556
+            },
+            "text_content": "ABC ILLAWARRA\nby Sarah Moss"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 14,
+            "width": 72,
+            "position": {
+                "column_min": 423,
+                "row_min": 519,
+                "column_max": 495,
+                "row_max": 533
+            },
+            "text_content": "AGED CARE"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": 4,
+            "bottom": 5,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 6
+        },
+        "1": {
+            "top": null,
+            "bottom": 6,
+            "left": 0,
+            "right": 2,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 5,
+            "bottom_right": 7
+        },
+        "2": {
+            "top": null,
+            "bottom": 7,
+            "left": 1,
+            "right": 3,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 6,
+            "bottom_right": 8
+        },
+        "3": {
+            "top": null,
+            "bottom": 8,
+            "left": 2,
+            "right": null,
+            "top_left": 4,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": null
+        },
+        "4": {
+            "top": null,
+            "bottom": 0,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 1
+        },
+        "5": {
+            "top": 0,
+            "bottom": 15,
+            "left": null,
+            "right": 6,
+            "top_left": null,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 17
+        },
+        "6": {
+            "top": 1,
+            "bottom": 11,
+            "left": 5,
+            "right": 7,
+            "top_left": 0,
+            "top_right": 2,
+            "bottom_left": 16,
+            "bottom_right": 13
+        },
+        "7": {
+            "top": 2,
+            "bottom": 10,
+            "left": 6,
+            "right": 8,
+            "top_left": 1,
+            "top_right": 3,
+            "bottom_left": 11,
+            "bottom_right": 12
+        },
+        "8": {
+            "top": 3,
+            "bottom": 9,
+            "left": 7,
+            "right": null,
+            "top_left": 2,
+            "top_right": null,
+            "bottom_left": 14,
+            "bottom_right": null
+        },
+        "9": {
+            "top": 8,
+            "bottom": 12,
+            "left": 10,
+            "right": null,
+            "top_left": 2,
+            "top_right": null,
+            "bottom_left": 14,
+            "bottom_right": null
+        },
+        "10": {
+            "top": 7,
+            "bottom": 13,
+            "left": 6,
+            "right": 9,
+            "top_left": 1,
+            "top_right": 8,
+            "bottom_left": 18,
+            "bottom_right": 12
+        },
+        "11": {
+            "top": 6,
+            "bottom": 17,
+            "left": 5,
+            "right": 10,
+            "top_left": 0,
+            "top_right": 7,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "12": {
+            "top": 9,
+            "bottom": null,
+            "left": 14,
+            "right": null,
+            "top_left": 10,
+            "top_right": null,
+            "bottom_left": 18,
+            "bottom_right": null
+        },
+        "13": {
+            "top": 10,
+            "bottom": null,
+            "left": 11,
+            "right": 14,
+            "top_left": 6,
+            "top_right": 9,
+            "bottom_left": 18,
+            "bottom_right": null
+        },
+        "14": {
+            "top": 10,
+            "bottom": null,
+            "left": 13,
+            "right": 12,
+            "top_left": 6,
+            "top_right": 9,
+            "bottom_left": 18,
+            "bottom_right": null
+        },
+        "15": {
+            "top": 5,
+            "bottom": null,
+            "left": null,
+            "right": 16,
+            "top_left": null,
+            "top_right": 6,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "16": {
+            "top": 5,
+            "bottom": null,
+            "left": 15,
+            "right": 11,
+            "top_left": null,
+            "top_right": 6,
+            "bottom_left": null,
+            "bottom_right": 17
+        },
+        "17": {
+            "top": 11,
+            "bottom": null,
+            "left": 15,
+            "right": 18,
+            "top_left": 16,
+            "top_right": 13,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "18": {
+            "top": 11,
+            "bottom": null,
+            "left": 17,
+            "right": null,
+            "top_left": 16,
+            "top_right": 13,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

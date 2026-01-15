@@ -1,0 +1,969 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 18,
+            "width": 18,
+            "position": {
+                "column_min": 780,
+                "row_min": 110,
+                "column_max": 798,
+                "row_max": 128
+            }
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 24,
+            "width": 24,
+            "position": {
+                "column_min": 1780,
+                "row_min": 446,
+                "column_max": 1804,
+                "row_max": 470
+            }
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 22,
+            "width": 21,
+            "position": {
+                "column_min": 1845,
+                "row_min": 447,
+                "column_max": 1866,
+                "row_max": 469
+            }
+        },
+        {
+            "id": 3,
+            "class": "Block",
+            "height": 405,
+            "width": 329,
+            "position": {
+                "column_min": 1545,
+                "row_min": 1,
+                "column_max": 1874,
+                "row_max": 406
+            },
+            "children": [
+                4,
+                5,
+                10,
+                16,
+                22,
+                28,
+                30,
+                32
+            ]
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 45,
+            "width": 326,
+            "position": {
+                "column_min": 1547,
+                "row_min": 105,
+                "column_max": 1873,
+                "row_max": 150
+            },
+            "children": [
+                22
+            ],
+            "parent": 3
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 47,
+            "width": 327,
+            "position": {
+                "column_min": 1546,
+                "row_min": 164,
+                "column_max": 1873,
+                "row_max": 211
+            },
+            "children": [
+                28
+            ],
+            "parent": 3
+        }
+    ],
+    "texts": [
+        {
+            "id": 6,
+            "class": "Text",
+            "height": 44,
+            "width": 140,
+            "position": {
+                "column_min": 3,
+                "row_min": 9,
+                "column_max": 143,
+                "row_max": 53
+            },
+            "text_content": "AABC"
+        },
+        {
+            "id": 7,
+            "class": "Text",
+            "height": 20,
+            "width": 86,
+            "position": {
+                "column_min": 389,
+                "row_min": 31,
+                "column_max": 475,
+                "row_max": 51
+            },
+            "text_content": "SECTIONS"
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 20,
+            "width": 156,
+            "position": {
+                "column_min": 775,
+                "row_min": 31,
+                "column_max": 931,
+                "row_max": 51
+            },
+            "text_content": "CONNECT WITH US"
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 20,
+            "width": 106,
+            "position": {
+                "column_min": 1159,
+                "row_min": 31,
+                "column_max": 1265,
+                "row_max": 51
+            },
+            "text_content": "CONTACT Us"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 20,
+            "width": 290,
+            "position": {
+                "column_min": 1543,
+                "row_min": 31,
+                "column_max": 1833,
+                "row_max": 51
+            },
+            "text_content": "GET THE ABC SYDNEY NEWSLETTER",
+            "parent": 3
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 26,
+            "width": 94,
+            "position": {
+                "column_min": 6,
+                "row_min": 64,
+                "column_max": 100,
+                "row_max": 90
+            },
+            "text_content": "SYDNEY"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 16,
+            "width": 44,
+            "position": {
+                "column_min": 391,
+                "row_min": 73,
+                "column_max": 435,
+                "row_max": 89
+            },
+            "text_content": "HOME"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 16,
+            "width": 106,
+            "position": {
+                "column_min": 567,
+                "row_min": 73,
+                "column_max": 673,
+                "row_max": 89
+            },
+            "text_content": "LISTENING FAQ"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 16,
+            "width": 74,
+            "position": {
+                "column_min": 811,
+                "row_min": 73,
+                "column_max": 885,
+                "row_max": 89
+            },
+            "text_content": "FACEBOOK"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 18,
+            "width": 236,
+            "position": {
+                "column_min": 1161,
+                "row_min": 73,
+                "column_max": 1397,
+                "row_max": 91
+            },
+            "text_content": "SMS: 0467 922702 (RATES APPLY )"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 18,
+            "width": 110,
+            "position": {
+                "column_min": 1545,
+                "row_min": 75,
+                "column_max": 1655,
+                "row_max": 93
+            },
+            "text_content": "Emailaddress",
+            "parent": 3
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 16,
+            "width": 78,
+            "position": {
+                "column_min": 393,
+                "row_min": 107,
+                "column_max": 471,
+                "row_max": 123
+            },
+            "text_content": "PROGRAMS"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 16,
+            "width": 68,
+            "position": {
+                "column_min": 567,
+                "row_min": 107,
+                "column_max": 635,
+                "row_max": 123
+            },
+            "text_content": "WEATHER"
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 16,
+            "width": 84,
+            "position": {
+                "column_min": 809,
+                "row_min": 111,
+                "column_max": 893,
+                "row_max": 127
+            },
+            "text_content": "INSTAGRAM"
+        },
+        {
+            "id": 20,
+            "class": "Text",
+            "height": 16,
+            "width": 170,
+            "position": {
+                "column_min": 1161,
+                "row_min": 107,
+                "column_max": 1331,
+                "row_max": 123
+            },
+            "text_content": "TALKBACK: 1300222 702"
+        },
+        {
+            "id": 21,
+            "class": "Text",
+            "height": 94,
+            "width": 326,
+            "position": {
+                "column_min": 4,
+                "row_min": 113,
+                "column_max": 330,
+                "row_max": 207
+            },
+            "text_content": "Stay informed and entertained with ABC\nAustralia\nAccess live events, news, audio\nand on-demand video streaming from the\nnations most trusted broadcaster"
+        },
+        {
+            "id": 22,
+            "class": "Text",
+            "height": 18,
+            "width": 194,
+            "position": {
+                "column_min": 1563,
+                "row_min": 121,
+                "column_max": 1757,
+                "row_max": 139
+            },
+            "text_content": "Enter your emailaddress",
+            "parent": 4
+        },
+        {
+            "id": 23,
+            "class": "Text",
+            "height": 16,
+            "width": 92,
+            "position": {
+                "column_min": 391,
+                "row_min": 141,
+                "column_max": 483,
+                "row_max": 157
+            },
+            "text_content": "LISTEN BACK"
+        },
+        {
+            "id": 24,
+            "class": "Text",
+            "height": 16,
+            "width": 138,
+            "position": {
+                "column_min": 567,
+                "row_min": 141,
+                "column_max": 705,
+                "row_max": 157
+            },
+            "text_content": "FREQUENCY FINDER"
+        },
+        {
+            "id": 25,
+            "class": "Text",
+            "height": 16,
+            "width": 234,
+            "position": {
+                "column_min": 1161,
+                "row_min": 141,
+                "column_max": 1395,
+                "row_max": 157
+            },
+            "text_content": "GENERAL ABC ENQUIRIES: 13 9994"
+        },
+        {
+            "id": 26,
+            "class": "Text",
+            "height": 16,
+            "width": 88,
+            "position": {
+                "column_min": 393,
+                "row_min": 175,
+                "column_max": 481,
+                "row_max": 191
+            },
+            "text_content": "CONTACT Us"
+        },
+        {
+            "id": 27,
+            "class": "Text",
+            "height": 16,
+            "width": 76,
+            "position": {
+                "column_min": 567,
+                "row_min": 175,
+                "column_max": 643,
+                "row_max": 191
+            },
+            "text_content": "SCHEDULE"
+        },
+        {
+            "id": 28,
+            "class": "Text",
+            "height": 18,
+            "width": 96,
+            "position": {
+                "column_min": 1665,
+                "row_min": 179,
+                "column_max": 1761,
+                "row_max": 197
+            },
+            "text_content": "SUBSCRIBE",
+            "parent": 5
+        },
+        {
+            "id": 29,
+            "class": "Text",
+            "height": 20,
+            "width": 134,
+            "position": {
+                "column_min": 9,
+                "row_min": 225,
+                "column_max": 143,
+                "row_max": 245
+            },
+            "text_content": "More from ABC"
+        },
+        {
+            "id": 30,
+            "class": "Text",
+            "height": 38,
+            "width": 330,
+            "position": {
+                "column_min": 1545,
+                "row_min": 222,
+                "column_max": 1875,
+                "row_max": 260
+            },
+            "text_content": "Your informationis being handledin accordance witl\nthe ABC Privacy Collection Statemeqt",
+            "parent": 3
+        },
+        {
+            "id": 31,
+            "class": "Text",
+            "height": 62,
+            "width": 316,
+            "position": {
+                "column_min": 7,
+                "row_min": 271,
+                "column_max": 323,
+                "row_max": 333
+            },
+            "text_content": "Weacknowledge Aboriginaland Torres Strait Islander\npeoplesas the First Australians and Traditional\nCustodians ofthe lands Where We live learnand work¡£"
+        },
+        {
+            "id": 32,
+            "class": "Text",
+            "height": 37,
+            "width": 324,
+            "position": {
+                "column_min": 1545,
+                "row_min": 274,
+                "column_max": 1869,
+                "row_max": 311
+            },
+            "text_content": "This site is protected by reCAPTCHA and the Google\nPrivacy Policy and Terms Of Service apply¡£",
+            "parent": 3
+        },
+        {
+            "id": 33,
+            "class": "Text",
+            "height": 14,
+            "width": 110,
+            "position": {
+                "column_min": 7,
+                "row_min": 443,
+                "column_max": 117,
+                "row_max": 457
+            },
+            "text_content": "Editorial Policies"
+        },
+        {
+            "id": 34,
+            "class": "Text",
+            "height": 18,
+            "width": 85,
+            "position": {
+                "column_min": 144,
+                "row_min": 441,
+                "column_max": 229,
+                "row_max": 459
+            },
+            "text_content": "Accessibility"
+        },
+        {
+            "id": 35,
+            "class": "Text",
+            "height": 18,
+            "width": 35,
+            "position": {
+                "column_min": 254,
+                "row_min": 442,
+                "column_max": 289,
+                "row_max": 460
+            },
+            "text_content": "Help"
+        },
+        {
+            "id": 36,
+            "class": "Text",
+            "height": 14,
+            "width": 72,
+            "position": {
+                "column_min": 317,
+                "row_min": 443,
+                "column_max": 389,
+                "row_max": 457
+            },
+            "text_content": "Contact Us"
+        },
+        {
+            "id": 37,
+            "class": "Text",
+            "height": 14,
+            "width": 96,
+            "position": {
+                "column_min": 417,
+                "row_min": 443,
+                "column_max": 513,
+                "row_max": 457
+            },
+            "text_content": "About the ABC"
+        },
+        {
+            "id": 38,
+            "class": "Text",
+            "height": 18,
+            "width": 89,
+            "position": {
+                "column_min": 540,
+                "row_min": 441,
+                "column_max": 629,
+                "row_max": 459
+            },
+            "text_content": "Privacy\nPolicy"
+        },
+        {
+            "id": 39,
+            "class": "Text",
+            "height": 14,
+            "width": 84,
+            "position": {
+                "column_min": 657,
+                "row_min": 443,
+                "column_max": 741,
+                "row_max": 457
+            },
+            "text_content": "Terms Of Use"
+        },
+        {
+            "id": 40,
+            "class": "Text",
+            "height": 14,
+            "width": 62,
+            "position": {
+                "column_min": 783,
+                "row_min": 443,
+                "column_max": 845,
+                "row_max": 457
+            },
+            "text_content": "2025A8C"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": 8,
+            "bottom": 40,
+            "left": 18,
+            "right": 19,
+            "top_left": 13,
+            "top_right": 14,
+            "bottom_left": 24,
+            "bottom_right": 25
+        },
+        "1": {
+            "top": 3,
+            "bottom": null,
+            "left": 40,
+            "right": 2,
+            "top_left": 28,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "2": {
+            "top": 3,
+            "bottom": null,
+            "left": 1,
+            "right": null,
+            "top_left": 28,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "3": {
+            "top": null,
+            "bottom": 1,
+            "left": 15,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 40,
+            "bottom_right": null
+        },
+        "4": {
+            "top": 16,
+            "bottom": 5,
+            "left": 25,
+            "right": null,
+            "top_left": 15,
+            "top_right": null,
+            "bottom_left": 40,
+            "bottom_right": null
+        },
+        "5": {
+            "top": 4,
+            "bottom": 30,
+            "left": 27,
+            "right": null,
+            "top_left": 25,
+            "top_right": null,
+            "bottom_left": 40,
+            "bottom_right": null
+        },
+        "6": {
+            "top": null,
+            "bottom": 11,
+            "left": null,
+            "right": 7,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 12
+        },
+        "7": {
+            "top": null,
+            "bottom": 12,
+            "left": 6,
+            "right": 8,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 21,
+            "bottom_right": 18
+        },
+        "8": {
+            "top": null,
+            "bottom": 14,
+            "left": 7,
+            "right": 9,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 13,
+            "bottom_right": 20
+        },
+        "9": {
+            "top": null,
+            "bottom": 15,
+            "left": 8,
+            "right": 10,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 14,
+            "bottom_right": 16
+        },
+        "10": {
+            "top": null,
+            "bottom": 16,
+            "left": 9,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": 15,
+            "bottom_right": 2
+        },
+        "11": {
+            "top": 6,
+            "bottom": 21,
+            "left": null,
+            "right": 12,
+            "top_left": null,
+            "top_right": 7,
+            "bottom_left": null,
+            "bottom_right": 17
+        },
+        "12": {
+            "top": 7,
+            "bottom": 17,
+            "left": 11,
+            "right": 13,
+            "top_left": 6,
+            "top_right": 8,
+            "bottom_left": 21,
+            "bottom_right": 18
+        },
+        "13": {
+            "top": null,
+            "bottom": 18,
+            "left": 12,
+            "right": 14,
+            "top_left": 7,
+            "top_right": 8,
+            "bottom_left": 17,
+            "bottom_right": 0
+        },
+        "14": {
+            "top": 8,
+            "bottom": 19,
+            "left": 13,
+            "right": 15,
+            "top_left": 7,
+            "top_right": 9,
+            "bottom_left": 0,
+            "bottom_right": 20
+        },
+        "15": {
+            "top": 9,
+            "bottom": 20,
+            "left": 14,
+            "right": 3,
+            "top_left": 8,
+            "top_right": 10,
+            "bottom_left": 19,
+            "bottom_right": 22
+        },
+        "16": {
+            "top": 10,
+            "bottom": 4,
+            "left": 15,
+            "right": null,
+            "top_left": 9,
+            "top_right": null,
+            "bottom_left": 25,
+            "bottom_right": 28
+        },
+        "17": {
+            "top": 12,
+            "bottom": 23,
+            "left": 21,
+            "right": 18,
+            "top_left": 6,
+            "top_right": 13,
+            "bottom_left": 31,
+            "bottom_right": 27
+        },
+        "18": {
+            "top": 13,
+            "bottom": 24,
+            "left": 17,
+            "right": 0,
+            "top_left": 7,
+            "top_right": 14,
+            "bottom_left": 23,
+            "bottom_right": 39
+        },
+        "19": {
+            "top": 14,
+            "bottom": 40,
+            "left": 0,
+            "right": 20,
+            "top_left": 13,
+            "top_right": 9,
+            "bottom_left": 24,
+            "bottom_right": 25
+        },
+        "20": {
+            "top": 15,
+            "bottom": 25,
+            "left": 19,
+            "right": 3,
+            "top_left": 8,
+            "top_right": 16,
+            "bottom_left": 40,
+            "bottom_right": 5
+        },
+        "21": {
+            "top": 11,
+            "bottom": 29,
+            "left": null,
+            "right": 23,
+            "top_left": null,
+            "top_right": 12,
+            "bottom_left": null,
+            "bottom_right": 37
+        },
+        "22": {
+            "top": 16,
+            "bottom": 5,
+            "left": 20,
+            "right": null,
+            "top_left": 15,
+            "top_right": null,
+            "bottom_left": 25,
+            "bottom_right": 1
+        },
+        "23": {
+            "top": 17,
+            "bottom": 26,
+            "left": 21,
+            "right": 24,
+            "top_left": 6,
+            "top_right": 18,
+            "bottom_left": 31,
+            "bottom_right": 27
+        },
+        "24": {
+            "top": 18,
+            "bottom": 27,
+            "left": 23,
+            "right": 25,
+            "top_left": 17,
+            "top_right": 0,
+            "bottom_left": 26,
+            "bottom_right": 40
+        },
+        "25": {
+            "top": 20,
+            "bottom": null,
+            "left": 24,
+            "right": 3,
+            "top_left": 19,
+            "top_right": 16,
+            "bottom_left": 40,
+            "bottom_right": 5
+        },
+        "26": {
+            "top": 23,
+            "bottom": 37,
+            "left": 21,
+            "right": 27,
+            "top_left": 6,
+            "top_right": 18,
+            "bottom_left": 36,
+            "bottom_right": 38
+        },
+        "27": {
+            "top": 24,
+            "bottom": 38,
+            "left": 26,
+            "right": 3,
+            "top_left": 23,
+            "top_right": 0,
+            "bottom_left": 37,
+            "bottom_right": 39
+        },
+        "28": {
+            "top": 4,
+            "bottom": 30,
+            "left": 27,
+            "right": null,
+            "top_left": 16,
+            "top_right": null,
+            "bottom_left": 40,
+            "bottom_right": 1
+        },
+        "29": {
+            "top": 21,
+            "bottom": 31,
+            "left": null,
+            "right": 3,
+            "top_left": null,
+            "top_right": 26,
+            "bottom_left": null,
+            "bottom_right": 34
+        },
+        "30": {
+            "top": 5,
+            "bottom": 32,
+            "left": 29,
+            "right": null,
+            "top_left": 25,
+            "top_right": null,
+            "bottom_left": 40,
+            "bottom_right": null
+        },
+        "31": {
+            "top": 29,
+            "bottom": 34,
+            "left": null,
+            "right": 3,
+            "top_left": null,
+            "top_right": 26,
+            "bottom_left": null,
+            "bottom_right": 37
+        },
+        "32": {
+            "top": 30,
+            "bottom": 1,
+            "left": 31,
+            "right": null,
+            "top_left": 25,
+            "top_right": null,
+            "bottom_left": 40,
+            "bottom_right": null
+        },
+        "33": {
+            "top": 31,
+            "bottom": null,
+            "left": null,
+            "right": 34,
+            "top_left": null,
+            "top_right": 26,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "34": {
+            "top": 31,
+            "bottom": null,
+            "left": 33,
+            "right": 35,
+            "top_left": 29,
+            "top_right": 26,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "35": {
+            "top": 31,
+            "bottom": null,
+            "left": 34,
+            "right": 36,
+            "top_left": 29,
+            "top_right": 26,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "36": {
+            "top": 31,
+            "bottom": null,
+            "left": 35,
+            "right": 37,
+            "top_left": 29,
+            "top_right": 26,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "37": {
+            "top": 26,
+            "bottom": null,
+            "left": 36,
+            "right": 38,
+            "top_left": 31,
+            "top_right": 27,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "38": {
+            "top": 27,
+            "bottom": null,
+            "left": 37,
+            "right": 39,
+            "top_left": 26,
+            "top_right": 0,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "39": {
+            "top": 24,
+            "bottom": null,
+            "left": 38,
+            "right": 40,
+            "top_left": 27,
+            "top_right": 0,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "40": {
+            "top": 0,
+            "bottom": null,
+            "left": 39,
+            "right": 1,
+            "top_left": 27,
+            "top_right": 20,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

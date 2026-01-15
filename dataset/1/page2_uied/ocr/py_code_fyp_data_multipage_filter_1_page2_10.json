@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        624,
+        1193,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "NSW Sport",
+            "column_min": 27,
+            "row_min": 5,
+            "column_max": 201,
+            "row_max": 46,
+            "width": 174,
+            "height": 41
+        },
+        {
+            "id": 1,
+            "content": "144",
+            "column_min": 955,
+            "row_min": 181,
+            "column_max": 987,
+            "row_max": 195,
+            "width": 32,
+            "height": 14
+        },
+        {
+            "id": 2,
+            "content": "'We pushitto the max:\nShe ready toaddto\nSydney to Hobart\nhistory\nAfellowship of sailors will embark on\nShes 23rd Sydney to Hobart campaign\u3002\nAs they dothey will honour one ofthe\nmost resilient boats in the races history\nand rememberlate Owner Peter\nRodgers_",
+            "column_min": 7,
+            "row_min": 224,
+            "column_max": 283,
+            "row_max": 503,
+            "width": 276,
+            "height": 279
+        },
+        {
+            "id": 3,
+            "content": "Sydney to Hobartset for\nstrong starting winds,\nbut nothing lke 2024",
+            "column_min": 308,
+            "row_min": 225,
+            "column_max": 585,
+            "row_max": 322,
+            "width": 277,
+            "height": 97
+        },
+        {
+            "id": 4,
+            "content": "FEEL GOOD\nWhy 83-year-old Nancy\nistraining torunher\nnext marathonat 90",
+            "column_min": 607,
+            "row_min": 231,
+            "column_max": 872,
+            "row_max": 352,
+            "width": 265,
+            "height": 121
+        },
+        {
+            "id": 5,
+            "content": "Re Spin: Mark\nSchwarzeron\nAustralian footballs\npast glories and future\nchallenges\nThe Socceroos' 2005 World\nqualifier\nwin over Uruguay is arguably\nAustralias greatest sports moment\nMark Schwarzer was at the centre Of it\nand has just been named to Sports\nAustralias Hallof Fame\nCUp",
+            "column_min": 908,
+            "row_min": 228,
+            "column_max": 1173,
+            "row_max": 533,
+            "width": 265,
+            "height": 305
+        },
+        {
+            "id": 6,
+            "content": "The Sydney to Hobart fleet isin for\nmilder conditions this\nthanin 2024\nwhen two people died on the frst night\nOfracing, although sailors have been\nWarnedto expect strong winds\nyear",
+            "column_min": 311,
+            "row_min": 333,
+            "column_max": 579,
+            "row_max": 447,
+            "width": 268,
+            "height": 114
+        },
+        {
+            "id": 7,
+            "content": "Nancy Dickman has run marathons in\nLondon, New York\u3002 Rome and Sydney\u3002\nand at 83 shows no signs of slowing\ndown\u3002",
+            "column_min": 612,
+            "row_min": 366,
+            "column_max": 865,
+            "row_max": 455,
+            "width": 253,
+            "height": 89
+        },
+        {
+            "id": 8,
+            "content": "ABC NEWS",
+            "column_min": 313,
+            "row_min": 461,
+            "column_max": 379,
+            "row_max": 477,
+            "width": 66,
+            "height": 16
+        },
+        {
+            "id": 9,
+            "content": "SAILING",
+            "column_min": 397,
+            "row_min": 461,
+            "column_max": 449,
+            "row_max": 475,
+            "width": 52,
+            "height": 14
+        },
+        {
+            "id": 10,
+            "content": "ABC NEWCASTLE",
+            "column_min": 613,
+            "row_min": 471,
+            "column_max": 717,
+            "row_max": 485,
+            "width": 104,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": "AGEING",
+            "column_min": 735,
+            "row_min": 469,
+            "column_max": 783,
+            "row_max": 485,
+            "width": 48,
+            "height": 16
+        },
+        {
+            "id": 12,
+            "content": "ABC NEWS",
+            "column_min": 13,
+            "row_min": 517,
+            "column_max": 79,
+            "row_max": 531,
+            "width": 66,
+            "height": 14
+        },
+        {
+            "id": 13,
+            "content": "SAILING",
+            "column_min": 97,
+            "row_min": 517,
+            "column_max": 149,
+            "row_max": 531,
+            "width": 52,
+            "height": 14
+        },
+        {
+            "id": 14,
+            "content": "LISTEN",
+            "column_min": 911,
+            "row_min": 549,
+            "column_max": 957,
+            "row_max": 565,
+            "width": 46,
+            "height": 16
+        },
+        {
+            "id": 15,
+            "content": "SPORT",
+            "column_min": 975,
+            "row_min": 549,
+            "column_max": 1017,
+            "row_max": 563,
+            "width": 42,
+            "height": 14
+        },
+        {
+            "id": 16,
+            "content": "More Sport Stories\non ABC Sport",
+            "column_min": 845,
+            "row_min": 595,
+            "column_max": 1155,
+            "row_max": 615,
+            "width": 310,
+            "height": 20
+        }
+    ]
+}

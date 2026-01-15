@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        354,
+        1189,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Connect with ABC Sydney\nDiscover more on Facebook and Instagram. Text Us on 0467922702\n(ratesapply) or callus on 1300222702.",
+            "column_min": 53,
+            "row_min": 47,
+            "column_max": 508,
+            "row_max": 136,
+            "width": 455,
+            "height": 89
+        },
+        {
+            "id": 1,
+            "content": "Get the ABC Sydney newsletter\nSign up for regular updates from ABC Sydney",
+            "column_min": 636,
+            "row_min": 46,
+            "column_max": 1123,
+            "row_max": 117,
+            "width": 487,
+            "height": 71
+        },
+        {
+            "id": 2,
+            "content": "Enter your emailaddress",
+            "column_min": 657,
+            "row_min": 155,
+            "column_max": 851,
+            "row_max": 173,
+            "width": 194,
+            "height": 18
+        },
+        {
+            "id": 3,
+            "content": "SUBSCRIBE",
+            "column_min": 1009,
+            "row_min": 153,
+            "column_max": 1105,
+            "row_max": 171,
+            "width": 96,
+            "height": 18
+        },
+        {
+            "id": 4,
+            "content": "Your information is being handledin accordance with the\nABC Privacy Collection Statement\u3002",
+            "column_min": 641,
+            "row_min": 197,
+            "column_max": 1001,
+            "row_max": 233,
+            "width": 360,
+            "height": 36
+        },
+        {
+            "id": 5,
+            "content": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms\nService apply\u3002",
+            "column_min": 639,
+            "row_min": 249,
+            "column_max": 1121,
+            "row_max": 287,
+            "width": 482,
+            "height": 38
+        }
+    ]
+}

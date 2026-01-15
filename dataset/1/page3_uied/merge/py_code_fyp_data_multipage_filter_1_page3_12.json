@@ -1,0 +1,122 @@
+{
+    "compos": [],
+    "texts": [
+        {
+            "id": 0,
+            "class": "Text",
+            "height": 40,
+            "width": 304,
+            "position": {
+                "column_min": 11,
+                "row_min": 7,
+                "column_max": 315,
+                "row_max": 47
+            },
+            "text_content": "Other ways to listen"
+        },
+        {
+            "id": 1,
+            "class": "Text",
+            "height": 24,
+            "width": 358,
+            "position": {
+                "column_min": 12,
+                "row_min": 76,
+                "column_max": 370,
+                "row_max": 100
+            },
+            "text_content": "Listen online onthe ABC listen app orOn Airin"
+        },
+        {
+            "id": 2,
+            "class": "Text",
+            "height": 18,
+            "width": 172,
+            "position": {
+                "column_min": 35,
+                "row_min": 117,
+                "column_max": 207,
+                "row_max": 135
+            },
+            "text_content": "Coffs Harbour 92.3 FN"
+        },
+        {
+            "id": 3,
+            "class": "Text",
+            "height": 25,
+            "width": 400,
+            "position": {
+                "column_min": 12,
+                "row_min": 162,
+                "column_max": 412,
+                "row_max": 187
+            },
+            "text_content": "Orask your smart speaker to \"play ABC Coffs Coast\""
+        },
+        {
+            "id": 4,
+            "class": "Text",
+            "height": 18,
+            "width": 76,
+            "position": {
+                "column_min": 1083,
+                "row_min": 267,
+                "column_max": 1159,
+                "row_max": 285
+            },
+            "text_content": "Backtotop"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": null,
+            "bottom": 1,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 4
+        },
+        "1": {
+            "top": 0,
+            "bottom": 2,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 4
+        },
+        "2": {
+            "top": 1,
+            "bottom": 3,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 4
+        },
+        "3": {
+            "top": 2,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 4
+        },
+        "4": {
+            "top": null,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "top_left": 3,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

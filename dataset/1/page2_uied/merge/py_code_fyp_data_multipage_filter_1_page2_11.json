@@ -1,0 +1,513 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 4,
+                "row_min": 62,
+                "column_max": 272,
+                "row_max": 213
+            }
+        },
+        {
+            "id": 1,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 304,
+                "row_min": 62,
+                "column_max": 572,
+                "row_max": 213
+            }
+        },
+        {
+            "id": 2,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 604,
+                "row_min": 62,
+                "column_max": 872,
+                "row_max": 213
+            },
+            "children": [
+                4
+            ]
+        },
+        {
+            "id": 3,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 904,
+                "row_min": 62,
+                "column_max": 1172,
+                "row_max": 213
+            }
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 47,
+            "width": 47,
+            "position": {
+                "column_min": 605,
+                "row_min": 165,
+                "column_max": 652,
+                "row_max": 212
+            },
+            "parent": 2
+        }
+    ],
+    "texts": [
+        {
+            "id": 5,
+            "class": "Text",
+            "height": 32,
+            "width": 166,
+            "position": {
+                "column_min": 20,
+                "row_min": 10,
+                "column_max": 186,
+                "row_max": 42
+            },
+            "text_content": "NSW News"
+        },
+        {
+            "id": 6,
+            "class": "Text",
+            "height": 132,
+            "width": 250,
+            "position": {
+                "column_min": 0,
+                "row_min": 225,
+                "column_max": 250,
+                "row_max": 357
+            },
+            "text_content": "Charity; church\nservicesand cheeras\nAustralians give back\non Christmas Day"
+        },
+        {
+            "id": 7,
+            "class": "Text",
+            "height": 122,
+            "width": 273,
+            "position": {
+                "column_min": 301,
+                "row_min": 230,
+                "column_max": 574,
+                "row_max": 352
+            },
+            "text_content": "Publicassemblies\nbannedfor 14\nSydneyas police\naCrOSS\nehactnew laws\ndays"
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 90,
+            "width": 247,
+            "position": {
+                "column_min": 601,
+                "row_min": 230,
+                "column_max": 848,
+                "row_max": 320
+            },
+            "text_content": "White Christmas in\nTasmaniaasheat\nclimbsin other states"
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 248,
+            "width": 275,
+            "position": {
+                "column_min": 900,
+                "row_min": 227,
+                "column_max": 1175,
+                "row_max": 475
+            },
+            "text_content": "Howanursinghome\ntackled racism by\ncelebrating culture\nreported racistabuse\nIn 2024\nTLIrSe\nfrom some residents and family\nmembers\nyear later, instances of\nabuse have plummeted and staff say ¼Æ\ni5 because Of\nnew program promoting\nrespect¡£"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 112,
+            "width": 262,
+            "position": {
+                "column_min": 605,
+                "row_min": 337,
+                "column_max": 867,
+                "row_max": 449
+            },
+            "text_content": "Snow has arrived in the island state on\nChristmas morning\nbut hotter\nconditions are expected around the\nCountryincluding\nscorcherinthe\nWeSt"
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 88,
+            "width": 236,
+            "position": {
+                "column_min": 5,
+                "row_min": 369,
+                "column_max": 241,
+                "row_max": 457
+            },
+            "text_content": "Australians have marked another\nChristmas Day with solemnity and\ncelebration with churches fulland\nbeaches packed¡£"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 112,
+            "width": 263,
+            "position": {
+                "column_min": 302,
+                "row_min": 369,
+                "column_max": 565,
+                "row_max": 481
+            },
+            "text_content": "The NSWI Police Commissioner Mal\nLanyon, has activated new powers\nprescribed under changes tO NSW\nprotest laws sparked by the terrorist\nattack at Bondi Beach on December 14¡£"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 58,
+            "width": 198,
+            "position": {
+                "column_min": 605,
+                "row_min": 463,
+                "column_max": 803,
+                "row_max": 521
+            },
+            "text_content": "ABC NEWS\nby Gian De Poloni,Scout Wallen\nWEATHER\nRebecca Triggerandkelsey Reid"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 16,
+            "width": 66,
+            "position": {
+                "column_min": 5,
+                "row_min": 471,
+                "column_max": 71,
+                "row_max": 487
+            },
+            "text_content": "ABC NEWS"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 14,
+            "width": 72,
+            "position": {
+                "column_min": 91,
+                "row_min": 473,
+                "column_max": 163,
+                "row_max": 487
+            },
+            "text_content": "CHRISTMA5"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 36,
+            "width": 102,
+            "position": {
+                "column_min": 905,
+                "row_min": 487,
+                "column_max": 1007,
+                "row_max": 523
+            },
+            "text_content": "ABC ILLAWARRA\nby Penny Burfitt"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 14,
+            "width": 72,
+            "position": {
+                "column_min": 1023,
+                "row_min": 489,
+                "column_max": 1095,
+                "row_max": 503
+            },
+            "text_content": "AGED CARE"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 16,
+            "width": 66,
+            "position": {
+                "column_min": 305,
+                "row_min": 495,
+                "column_max": 371,
+                "row_max": 511
+            },
+            "text_content": "ABC NEWS"
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 14,
+            "width": 44,
+            "position": {
+                "column_min": 391,
+                "row_min": 497,
+                "column_max": 435,
+                "row_max": 511
+            },
+            "text_content": "POLICE"
+        },
+        {
+            "id": 20,
+            "class": "Text",
+            "height": 14,
+            "width": 122,
+            "position": {
+                "column_min": 453,
+                "row_min": 497,
+                "column_max": 575,
+                "row_max": 511
+            },
+            "text_content": "by Jamie Mckinnell"
+        },
+        {
+            "id": 21,
+            "class": "Text",
+            "height": 20,
+            "width": 300,
+            "position": {
+                "column_min": 845,
+                "row_min": 553,
+                "column_max": 1145,
+                "row_max": 573
+            },
+            "text_content": "More NSW Stories\n0n\nABC NEWS"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": 5,
+            "bottom": 6,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 7
+        },
+        "1": {
+            "top": null,
+            "bottom": 7,
+            "left": 0,
+            "right": 2,
+            "top_left": 5,
+            "top_right": null,
+            "bottom_left": 6,
+            "bottom_right": 8
+        },
+        "2": {
+            "top": null,
+            "bottom": 8,
+            "left": 1,
+            "right": 3,
+            "top_left": 5,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": 9
+        },
+        "3": {
+            "top": null,
+            "bottom": 9,
+            "left": 2,
+            "right": null,
+            "top_left": 5,
+            "top_right": null,
+            "bottom_left": 8,
+            "bottom_right": null
+        },
+        "4": {
+            "top": null,
+            "bottom": 8,
+            "left": 1,
+            "right": 3,
+            "top_left": 5,
+            "top_right": null,
+            "bottom_left": 7,
+            "bottom_right": 9
+        },
+        "5": {
+            "top": null,
+            "bottom": 0,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 1
+        },
+        "6": {
+            "top": 0,
+            "bottom": 11,
+            "left": null,
+            "right": 7,
+            "top_left": null,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 18
+        },
+        "7": {
+            "top": 1,
+            "bottom": 12,
+            "left": 6,
+            "right": 8,
+            "top_left": 0,
+            "top_right": 4,
+            "bottom_left": 11,
+            "bottom_right": 13
+        },
+        "8": {
+            "top": 2,
+            "bottom": 10,
+            "left": 7,
+            "right": 9,
+            "top_left": 1,
+            "top_right": 3,
+            "bottom_left": 20,
+            "bottom_right": 16
+        },
+        "9": {
+            "top": 3,
+            "bottom": 16,
+            "left": 10,
+            "right": null,
+            "top_left": 2,
+            "top_right": null,
+            "bottom_left": 20,
+            "bottom_right": null
+        },
+        "10": {
+            "top": 8,
+            "bottom": 13,
+            "left": 7,
+            "right": 9,
+            "top_left": 1,
+            "top_right": 3,
+            "bottom_left": 20,
+            "bottom_right": 16
+        },
+        "11": {
+            "top": 6,
+            "bottom": 14,
+            "left": null,
+            "right": 12,
+            "top_left": null,
+            "top_right": 7,
+            "bottom_left": null,
+            "bottom_right": 18
+        },
+        "12": {
+            "top": 7,
+            "bottom": 18,
+            "left": 11,
+            "right": 10,
+            "top_left": 6,
+            "top_right": 4,
+            "bottom_left": null,
+            "bottom_right": 16
+        },
+        "13": {
+            "top": 10,
+            "bottom": null,
+            "left": 20,
+            "right": 9,
+            "top_left": 7,
+            "top_right": 3,
+            "bottom_left": null,
+            "bottom_right": 21
+        },
+        "14": {
+            "top": 11,
+            "bottom": null,
+            "left": null,
+            "right": 15,
+            "top_left": null,
+            "top_right": 7,
+            "bottom_left": null,
+            "bottom_right": 18
+        },
+        "15": {
+            "top": 11,
+            "bottom": null,
+            "left": 14,
+            "right": 12,
+            "top_left": null,
+            "top_right": 7,
+            "bottom_left": null,
+            "bottom_right": 18
+        },
+        "16": {
+            "top": 9,
+            "bottom": 21,
+            "left": 13,
+            "right": 17,
+            "top_left": 10,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "17": {
+            "top": 9,
+            "bottom": 21,
+            "left": 16,
+            "right": null,
+            "top_left": 10,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "18": {
+            "top": 12,
+            "bottom": null,
+            "left": null,
+            "right": 19,
+            "top_left": 15,
+            "top_right": 10,
+            "bottom_left": null,
+            "bottom_right": 21
+        },
+        "19": {
+            "top": 12,
+            "bottom": null,
+            "left": 18,
+            "right": 20,
+            "top_left": 15,
+            "top_right": 10,
+            "bottom_left": null,
+            "bottom_right": 21
+        },
+        "20": {
+            "top": 12,
+            "bottom": null,
+            "left": 19,
+            "right": 13,
+            "top_left": 15,
+            "top_right": 10,
+            "bottom_left": null,
+            "bottom_right": 21
+        },
+        "21": {
+            "top": 16,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "top_left": 13,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

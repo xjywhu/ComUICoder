@@ -1,0 +1,572 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 18,
+                "row_min": 70,
+                "column_max": 286,
+                "row_max": 221
+            }
+        },
+        {
+            "id": 1,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 318,
+                "row_min": 70,
+                "column_max": 586,
+                "row_max": 221
+            }
+        },
+        {
+            "id": 2,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 618,
+                "row_min": 70,
+                "column_max": 886,
+                "row_max": 221
+            },
+            "children": [
+                4,
+                7
+            ]
+        },
+        {
+            "id": 3,
+            "class": "Block",
+            "height": 151,
+            "width": 268,
+            "position": {
+                "column_min": 918,
+                "row_min": 70,
+                "column_max": 1186,
+                "row_max": 221
+            },
+            "children": [
+                5,
+                8
+            ]
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 47,
+            "width": 88,
+            "position": {
+                "column_min": 619,
+                "row_min": 173,
+                "column_max": 707,
+                "row_max": 220
+            },
+            "children": [
+                7
+            ],
+            "parent": 2
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 47,
+            "width": 88,
+            "position": {
+                "column_min": 919,
+                "row_min": 173,
+                "column_max": 1007,
+                "row_max": 220
+            },
+            "children": [
+                8
+            ],
+            "parent": 3
+        }
+    ],
+    "texts": [
+        {
+            "id": 6,
+            "class": "Text",
+            "height": 36,
+            "width": 226,
+            "position": {
+                "column_min": 33,
+                "row_min": 15,
+                "column_max": 259,
+                "row_max": 51
+            },
+            "text_content": "National News"
+        },
+        {
+            "id": 7,
+            "class": "Text",
+            "height": 14,
+            "width": 28,
+            "position": {
+                "column_min": 661,
+                "row_min": 191,
+                "column_max": 689,
+                "row_max": 205
+            },
+            "text_content": "145",
+            "parent": 4
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 14,
+            "width": 28,
+            "position": {
+                "column_min": 961,
+                "row_min": 191,
+                "column_max": 989,
+                "row_max": 205
+            },
+            "text_content": "105",
+            "parent": 5
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 129,
+            "width": 247,
+            "position": {
+                "column_min": 13,
+                "row_min": 235,
+                "column_max": 260,
+                "row_max": 364
+            },
+            "text_content": "King pays homageto\nacts of 'spontaneous\nbravery'in Christmas\nmessage"
+        },
+        {
+            "id": 10,
+            "class": "Text",
+            "height": 128,
+            "width": 270,
+            "position": {
+                "column_min": 314,
+                "row_min": 237,
+                "column_max": 584,
+                "row_max": 365
+            },
+            "text_content": "Pope Leoasks people to\nthinkabout Gaza\nduring Christmas\nspeech\nDay"
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 132,
+            "width": 259,
+            "position": {
+                "column_min": 615,
+                "row_min": 234,
+                "column_max": 874,
+                "row_max": 366
+            },
+            "text_content": "Crane collapse;\nthousands without\npowerafter Christmas\nstormsin SEQ\nDay"
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 158,
+            "width": 212,
+            "position": {
+                "column_min": 914,
+                "row_min": 238,
+                "column_max": 1126,
+                "row_max": 396
+            },
+            "text_content": "Boddington locals\nurgedto 'leave\nimmediately'as\nbushfire fast\napproaching"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 116,
+            "width": 258,
+            "position": {
+                "column_min": 17,
+                "row_min": 375,
+                "column_max": 275,
+                "row_max": 491
+            },
+            "text_content": "King Charles III pays homage to those\nWho confronted terrorat the Bondi\nBeach massacre, acknowledging their\nspontaneous acts of bravery\"in his\nannual Christmas message"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 112,
+            "width": 266,
+            "position": {
+                "column_min": 319,
+                "row_min": 377,
+                "column_max": 585,
+                "row_max": 489
+            },
+            "text_content": "During his Urbiet Orbi (city and world)\nspeechon Christmas\nPope Leo XIV\nhas Called foran end to all wars and for\npeople to think about the conditions in\nGaza\nDay"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 64,
+            "width": 264,
+            "position": {
+                "column_min": 619,
+                "row_min": 377,
+                "column_max": 883,
+                "row_max": 441
+            },
+            "text_content": "Storms hit south-east Queensland on\nChristmas Day afternoon, knocking out\npower to thousands of homes"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 91,
+            "width": 252,
+            "position": {
+                "column_min": 919,
+                "row_min": 409,
+                "column_max": 1171,
+                "row_max": 500
+            },
+            "text_content": "Several bushfires burning northand\nSouth of Perth have caused major\npower blackouts, including the entire\ntown of Margaret River"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 34,
+            "width": 247,
+            "position": {
+                "column_min": 617,
+                "row_min": 457,
+                "column_max": 864,
+                "row_max": 491
+            },
+            "text_content": "7hag0\n(ASSEMBLING)\nABC NEWS\nby Lottie Twyford\nCONSTRUCTION"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 16,
+            "width": 44,
+            "position": {
+                "column_min": 19,
+                "row_min": 505,
+                "column_max": 63,
+                "row_max": 521
+            },
+            "text_content": "Ihago"
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 14,
+            "width": 68,
+            "position": {
+                "column_min": 81,
+                "row_min": 505,
+                "column_max": 149,
+                "row_max": 519
+            },
+            "text_content": "ABC NEWS"
+        },
+        {
+            "id": 20,
+            "class": "Text",
+            "height": 14,
+            "width": 56,
+            "position": {
+                "column_min": 167,
+                "row_min": 505,
+                "column_max": 223,
+                "row_max": 519
+            },
+            "text_content": "ROYALTY"
+        },
+        {
+            "id": 21,
+            "class": "Text",
+            "height": 16,
+            "width": 224,
+            "position": {
+                "column_min": 317,
+                "row_min": 505,
+                "column_max": 541,
+                "row_max": 521
+            },
+            "text_content": "3hago ABC NEWS CHRISTMA5"
+        },
+        {
+            "id": 22,
+            "class": "Text",
+            "height": 54,
+            "width": 256,
+            "position": {
+                "column_min": 919,
+                "row_min": 513,
+                "column_max": 1175,
+                "row_max": 567
+            },
+            "text_content": "Ghago\nby Bridget McArthur Madigan Landry and\nABC NEWS\nBUSHFIRES\nGian De Poloni"
+        },
+        {
+            "id": 23,
+            "class": "Text",
+            "height": 21,
+            "width": 336,
+            "position": {
+                "column_min": 823,
+                "row_min": 596,
+                "column_max": 1159,
+                "row_max": 617
+            },
+            "text_content": "More National Stories\n0n\nABC NEWS"
+        }
+    ],
+    "connections": {
+        "0": {
+            "top": 6,
+            "bottom": 9,
+            "left": null,
+            "right": 1,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 10
+        },
+        "1": {
+            "top": null,
+            "bottom": 10,
+            "left": 0,
+            "right": 2,
+            "top_left": 6,
+            "top_right": null,
+            "bottom_left": 9,
+            "bottom_right": 11
+        },
+        "2": {
+            "top": null,
+            "bottom": 11,
+            "left": 1,
+            "right": 3,
+            "top_left": 6,
+            "top_right": null,
+            "bottom_left": 10,
+            "bottom_right": 12
+        },
+        "3": {
+            "top": null,
+            "bottom": 12,
+            "left": 2,
+            "right": null,
+            "top_left": 6,
+            "top_right": null,
+            "bottom_left": 11,
+            "bottom_right": null
+        },
+        "4": {
+            "top": null,
+            "bottom": 11,
+            "left": 1,
+            "right": 3,
+            "top_left": 6,
+            "top_right": null,
+            "bottom_left": 10,
+            "bottom_right": 12
+        },
+        "5": {
+            "top": null,
+            "bottom": 12,
+            "left": 2,
+            "right": null,
+            "top_left": 6,
+            "top_right": null,
+            "bottom_left": 11,
+            "bottom_right": null
+        },
+        "6": {
+            "top": null,
+            "bottom": 0,
+            "left": null,
+            "right": null,
+            "top_left": null,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": 1
+        },
+        "7": {
+            "top": null,
+            "bottom": 11,
+            "left": 1,
+            "right": 3,
+            "top_left": 6,
+            "top_right": null,
+            "bottom_left": 10,
+            "bottom_right": 12
+        },
+        "8": {
+            "top": null,
+            "bottom": 12,
+            "left": 2,
+            "right": null,
+            "top_left": 6,
+            "top_right": null,
+            "bottom_left": 11,
+            "bottom_right": null
+        },
+        "9": {
+            "top": 0,
+            "bottom": 13,
+            "left": null,
+            "right": 10,
+            "top_left": null,
+            "top_right": 1,
+            "bottom_left": null,
+            "bottom_right": 14
+        },
+        "10": {
+            "top": 1,
+            "bottom": 14,
+            "left": 9,
+            "right": 11,
+            "top_left": 0,
+            "top_right": 4,
+            "bottom_left": 13,
+            "bottom_right": 15
+        },
+        "11": {
+            "top": 2,
+            "bottom": 15,
+            "left": 10,
+            "right": 12,
+            "top_left": 1,
+            "top_right": 5,
+            "bottom_left": 14,
+            "bottom_right": 16
+        },
+        "12": {
+            "top": 3,
+            "bottom": 16,
+            "left": 15,
+            "right": null,
+            "top_left": 2,
+            "top_right": null,
+            "bottom_left": 17,
+            "bottom_right": null
+        },
+        "13": {
+            "top": 9,
+            "bottom": 18,
+            "left": null,
+            "right": 14,
+            "top_left": null,
+            "top_right": 10,
+            "bottom_left": null,
+            "bottom_right": 21
+        },
+        "14": {
+            "top": 10,
+            "bottom": 21,
+            "left": 13,
+            "right": 17,
+            "top_left": 9,
+            "top_right": 4,
+            "bottom_left": 20,
+            "bottom_right": 23
+        },
+        "15": {
+            "top": 11,
+            "bottom": 17,
+            "left": 14,
+            "right": 12,
+            "top_left": 10,
+            "top_right": 5,
+            "bottom_left": 21,
+            "bottom_right": 22
+        },
+        "16": {
+            "top": 12,
+            "bottom": 22,
+            "left": 15,
+            "right": null,
+            "top_left": 11,
+            "top_right": null,
+            "bottom_left": 21,
+            "bottom_right": null
+        },
+        "17": {
+            "top": 15,
+            "bottom": 23,
+            "left": 14,
+            "right": 16,
+            "top_left": 10,
+            "top_right": 12,
+            "bottom_left": 21,
+            "bottom_right": 22
+        },
+        "18": {
+            "top": 13,
+            "bottom": null,
+            "left": null,
+            "right": 19,
+            "top_left": null,
+            "top_right": 14,
+            "bottom_left": null,
+            "bottom_right": 23
+        },
+        "19": {
+            "top": 13,
+            "bottom": null,
+            "left": 18,
+            "right": 20,
+            "top_left": null,
+            "top_right": 14,
+            "bottom_left": null,
+            "bottom_right": 23
+        },
+        "20": {
+            "top": 13,
+            "bottom": null,
+            "left": 19,
+            "right": 21,
+            "top_left": null,
+            "top_right": 14,
+            "bottom_left": null,
+            "bottom_right": 23
+        },
+        "21": {
+            "top": 14,
+            "bottom": null,
+            "left": 20,
+            "right": 22,
+            "top_left": 13,
+            "top_right": 17,
+            "bottom_left": null,
+            "bottom_right": 23
+        },
+        "22": {
+            "top": 16,
+            "bottom": 23,
+            "left": 21,
+            "right": null,
+            "top_left": 17,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        },
+        "23": {
+            "top": 22,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "top_left": 7,
+            "top_right": null,
+            "bottom_left": null,
+            "bottom_right": null
+        }
+    }
+}

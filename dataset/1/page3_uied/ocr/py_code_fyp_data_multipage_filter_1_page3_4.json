@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        255,
+        1177,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "ABC Radio COFFS COAST",
+            "column_min": 15,
+            "row_min": 0,
+            "column_max": 381,
+            "row_max": 33,
+            "width": 366,
+            "height": 33
+        },
+        {
+            "id": 1,
+            "content": "UIVE",
+            "column_min": 163,
+            "row_min": 77,
+            "column_max": 191,
+            "row_max": 89,
+            "width": 28,
+            "height": 12
+        },
+        {
+            "id": 2,
+            "content": "PLAY LIVE RADIO",
+            "column_min": 985,
+            "row_min": 79,
+            "column_max": 1117,
+            "row_max": 99,
+            "width": 132,
+            "height": 20
+        },
+        {
+            "id": 3,
+            "content": "Overnights\nwith Michael Pavlich\n2OOAMto 6-OOAM",
+            "column_min": 145,
+            "row_min": 101,
+            "column_max": 287,
+            "row_max": 169,
+            "width": 142,
+            "height": 68
+        },
+        {
+            "id": 4,
+            "content": "SCHEDULE",
+            "column_min": 991,
+            "row_min": 143,
+            "column_max": 1077,
+            "row_max": 163,
+            "width": 86,
+            "height": 20
+        },
+        {
+            "id": 5,
+            "content": "Listen on the goon ABClistenapp [",
+            "column_min": 884,
+            "row_min": 222,
+            "column_max": 1172,
+            "row_max": 246,
+            "width": 288,
+            "height": 24
+        }
+    ]
+}

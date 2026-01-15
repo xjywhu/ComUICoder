@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        565,
+        1197,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Watch",
+            "column_min": 31,
+            "row_min": 17,
+            "column_max": 135,
+            "row_max": 53,
+            "width": 104,
+            "height": 36
+        },
+        {
+            "id": 1,
+            "content": "305",
+            "column_min": 359,
+            "row_min": 193,
+            "column_max": 389,
+            "row_max": 207,
+            "width": 30,
+            "height": 14
+        },
+        {
+            "id": 2,
+            "content": "3\u53e8 335",
+            "column_min": 659,
+            "row_min": 193,
+            "column_max": 715,
+            "row_max": 207,
+            "width": 56,
+            "height": 14
+        },
+        {
+            "id": 3,
+            "content": "325",
+            "column_min": 959,
+            "row_min": 191,
+            "column_max": 989,
+            "row_max": 207,
+            "width": 30,
+            "height": 16
+        },
+        {
+            "id": 4,
+            "content": "Natalie\nventriloquist\nMay",
+            "column_min": 13,
+            "row_min": 236,
+            "column_max": 168,
+            "row_max": 301,
+            "width": 155,
+            "height": 65
+        },
+        {
+            "id": 5,
+            "content": "Worlds tallest spotted\ngum\nStanding at over 72 metres tall Big\nSpotty liesin state forestjust off the\nPrinces Highway onthe NSW South\nCoast",
+            "column_min": 314,
+            "row_min": 238,
+            "column_max": 570,
+            "row_max": 401,
+            "width": 256,
+            "height": 163
+        },
+        {
+            "id": 6,
+            "content": "Darren Coggan\nperforms Fireand Rain\ninthe Anitas Theatre\nfoyer:\nWolongong musician Darren Coggan\nperforms an acoustic cover of Fireand\nRain by James Taylor inside the Anitas\nTheatre foyer",
+            "column_min": 609,
+            "row_min": 239,
+            "column_max": 877,
+            "row_max": 467,
+            "width": 268,
+            "height": 228
+        },
+        {
+            "id": 7,
+            "content": "Electric Vehicleshave\nbeenstoredat\nJamberoo Action Park\u3002",
+            "column_min": 914,
+            "row_min": 238,
+            "column_max": 1170,
+            "row_max": 330,
+            "width": 256,
+            "height": 92
+        },
+        {
+            "id": 8,
+            "content": "Ventriloquist Natalie May Says she has\nthe bestjobin the world\u3002",
+            "column_min": 15,
+            "row_min": 312,
+            "column_max": 277,
+            "row_max": 355,
+            "width": 262,
+            "height": 43
+        },
+        {
+            "id": 9,
+            "content": "Hundreds of BYD Vehicles are being\nstored at Jamberoo Action Parkin NSW\u3002",
+            "column_min": 915,
+            "row_min": 345,
+            "column_max": 1185,
+            "row_max": 387,
+            "width": 270,
+            "height": 42
+        },
+        {
+            "id": 10,
+            "content": "ABC NEWS",
+            "column_min": 15,
+            "row_min": 369,
+            "column_max": 83,
+            "row_max": 383,
+            "width": 68,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": "ABC NEWS",
+            "column_min": 915,
+            "row_min": 401,
+            "column_max": 983,
+            "row_max": 415,
+            "width": 68,
+            "height": 14
+        },
+        {
+            "id": 12,
+            "content": "ABC SOUTHEAST NSW",
+            "column_min": 315,
+            "row_min": 417,
+            "column_max": 455,
+            "row_max": 433,
+            "width": 140,
+            "height": 16
+        },
+        {
+            "id": 13,
+            "content": "ABC NEWS",
+            "column_min": 615,
+            "row_min": 481,
+            "column_max": 683,
+            "row_max": 495,
+            "width": 68,
+            "height": 14
+        },
+        {
+            "id": 14,
+            "content": "Watch\nmore news & entertainment on ABC iview",
+            "column_min": 703,
+            "row_min": 524,
+            "column_max": 1158,
+            "row_max": 548,
+            "width": 455,
+            "height": 24
+        }
+    ]
+}

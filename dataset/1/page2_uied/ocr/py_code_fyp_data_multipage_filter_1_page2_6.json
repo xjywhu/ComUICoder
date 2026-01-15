@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        374,
+        1170,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Connect with ABC Illawarra\nDiscover more on Facebook Text Us on 0467 922684 (rates apply) or call\nUson 1300973300.",
+            "column_min": 43,
+            "row_min": 43,
+            "column_max": 531,
+            "row_max": 125,
+            "width": 488,
+            "height": 82
+        },
+        {
+            "id": 1,
+            "content": "Get the ABC Illawarra\nnewsletter\nSign up for regular updates from ABC Iawarra",
+            "column_min": 627,
+            "row_min": 41,
+            "column_max": 963,
+            "row_max": 144,
+            "width": 336,
+            "height": 103
+        },
+        {
+            "id": 2,
+            "content": "Enter your emailaddress",
+            "column_min": 647,
+            "row_min": 183,
+            "column_max": 841,
+            "row_max": 203,
+            "width": 194,
+            "height": 20
+        },
+        {
+            "id": 3,
+            "content": "SUBSCRIBE",
+            "column_min": 999,
+            "row_min": 181,
+            "column_max": 1095,
+            "row_max": 201,
+            "width": 96,
+            "height": 20
+        },
+        {
+            "id": 4,
+            "content": "Your information is being handledin accordance with the\nABC Privacy Collection Statement\u3002",
+            "column_min": 629,
+            "row_min": 225,
+            "column_max": 991,
+            "row_max": 261,
+            "width": 362,
+            "height": 36
+        },
+        {
+            "id": 5,
+            "content": "This site is protected by reCAPTCHAand the Google Privacy Policy and Terms\nOf Service apply\u3002",
+            "column_min": 629,
+            "row_min": 277,
+            "column_max": 1111,
+            "row_max": 315,
+            "width": 482,
+            "height": 38
+        }
+    ]
+}

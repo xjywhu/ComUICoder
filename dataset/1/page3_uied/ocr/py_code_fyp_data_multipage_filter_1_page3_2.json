@@ -1,0 +1,249 @@
+{
+    "img_shape": [
+        1064,
+        1185,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Latest",
+            "column_min": 21,
+            "row_min": 5,
+            "column_max": 125,
+            "row_max": 41,
+            "width": 104,
+            "height": 36
+        },
+        {
+            "id": 1,
+            "content": "Smallregional charity\nstops thousandsof\nNepali girls being\ntrafficked",
+            "column_min": 605,
+            "row_min": 223,
+            "column_max": 859,
+            "row_max": 350,
+            "width": 254,
+            "height": 127
+        },
+        {
+            "id": 2,
+            "content": "Samoanfarm Worker\nsentenced to eight\nyears'jail for rapeof\nteenage girl\nAgaalofa Agaalofa\nSamoan national\nisjailed for raping\n17-year-old girlon\nbeach on the NSI mid north coastin\n2023",
+            "column_min": 904,
+            "row_min": 226,
+            "column_max": 1163,
+            "row_max": 453,
+            "width": 259,
+            "height": 227
+        },
+        {
+            "id": 3,
+            "content": "6m",
+            "column_min": 51,
+            "row_min": 349,
+            "column_max": 77,
+            "row_max": 363,
+            "width": 26,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": "Atter hearing harrowing stories ot\nabUse against young Nepalese women\nand girls\nPort Macquarie man Ross\nNancarrow wanted to help\u3002",
+            "column_min": 609,
+            "row_min": 367,
+            "column_max": 871,
+            "row_max": 455,
+            "width": 262,
+            "height": 88
+        },
+        {
+            "id": 5,
+            "content": "Seasonal Worker sentencedafter\npleading guilty to rape\nMon\nABC PACIFIC\nSEXUAL OFFENCES\nby Jordan Fennell",
+            "column_min": 3,
+            "row_min": 397,
+            "column_max": 505,
+            "row_max": 501,
+            "width": 502,
+            "height": 104
+        },
+        {
+            "id": 6,
+            "content": "Sun\nTRAFFICKING\nABC MID NORTH COAST\nby Wiriya Sati",
+            "column_min": 609,
+            "row_min": 469,
+            "column_max": 799,
+            "row_max": 505,
+            "width": 190,
+            "height": 36
+        },
+        {
+            "id": 7,
+            "content": "HUMAN",
+            "column_min": 815,
+            "row_min": 469,
+            "column_max": 863,
+            "row_max": 483,
+            "width": 48,
+            "height": 14
+        },
+        {
+            "id": 8,
+            "content": "Dec 2025\nCOAST\nCOURTS\nABC COFFS\nby Claire Simmonds",
+            "column_min": 909,
+            "row_min": 469,
+            "column_max": 1167,
+            "row_max": 505,
+            "width": 258,
+            "height": 36
+        },
+        {
+            "id": 9,
+            "content": "2m",
+            "column_min": 351,
+            "row_min": 659,
+            "column_max": 377,
+            "row_max": 673,
+            "width": 26,
+            "height": 14
+        },
+        {
+            "id": 10,
+            "content": "Former rough sleepers\ncoffee sacrifice planted\nseedsforhis charity",
+            "column_min": 5,
+            "row_min": 704,
+            "column_max": 276,
+            "row_max": 801,
+            "width": 271,
+            "height": 97
+        },
+        {
+            "id": 11,
+            "content": "The budding musicians\n'staying proud' through\nIndigenous rap music",
+            "column_min": 306,
+            "row_min": 701,
+            "column_max": 573,
+            "row_max": 800,
+            "width": 267,
+            "height": 99
+        },
+        {
+            "id": 12,
+            "content": "Migrant workers\ntreated 'tike pigs'amid\nclaims ofmodern\nslavery",
+            "column_min": 604,
+            "row_min": 706,
+            "column_max": 860,
+            "row_max": 832,
+            "width": 256,
+            "height": 126
+        },
+        {
+            "id": 13,
+            "content": "Electricity price\nblowout between city\nand countrya 'dire\nsituation'",
+            "column_min": 904,
+            "row_min": 701,
+            "column_max": 1156,
+            "row_max": 828,
+            "width": 252,
+            "height": 127
+        },
+        {
+            "id": 14,
+            "content": "Graham Lee is behind\nthousands of dollars through people\ncharity raising\nsacrificing one takeaway Coffee\nWeCk",
+            "column_min": 6,
+            "row_min": 813,
+            "column_max": 273,
+            "row_max": 879,
+            "width": 267,
+            "height": 66
+        },
+        {
+            "id": 15,
+            "content": "With sounds recordedin a makeshift\nstudio, this group of high school\nstudents produced music about First\nNations Culture",
+            "column_min": 307,
+            "row_min": 813,
+            "column_max": 561,
+            "row_max": 901,
+            "width": 254,
+            "height": 88
+        },
+        {
+            "id": 16,
+            "content": "Witnesses have told aninquiry into\nmodern slavery that migrant workers\nare being exploitedin the nations\nblueberry capital\u3002",
+            "column_min": 607,
+            "row_min": 844,
+            "column_max": 861,
+            "row_max": 935,
+            "width": 254,
+            "height": 91
+        },
+        {
+            "id": 17,
+            "content": "Regional ratepayers are shouldering\nhigher energy bills than their city\ncounterparts, and their councils have\nhad enough\u3002",
+            "column_min": 907,
+            "row_min": 843,
+            "column_max": 1163,
+            "row_max": 936,
+            "width": 256,
+            "height": 93
+        },
+        {
+            "id": 18,
+            "content": "14 Dec 2025\nCOAST\nREGIONAL COMMUNITIES\nABC MID NORTH\nby Emma Siossian",
+            "column_min": 7,
+            "row_min": 891,
+            "column_max": 223,
+            "row_max": 947,
+            "width": 216,
+            "height": 56
+        },
+        {
+            "id": 19,
+            "content": "14 Dec 2025\nNSI\nINDIGENOUS MUSIC\nABC SOUTH EAST\nby Floss Adams andlsla Evans",
+            "column_min": 307,
+            "row_min": 917,
+            "column_max": 509,
+            "row_max": 971,
+            "width": 202,
+            "height": 54
+        },
+        {
+            "id": 20,
+            "content": "13 Dec 2025\nCOAST\nAGRICULTURAL WORKERS\nABC COFFS\nby Charles Rushforth",
+            "column_min": 609,
+            "row_min": 947,
+            "column_max": 827,
+            "row_max": 1003,
+            "width": 218,
+            "height": 56
+        },
+        {
+            "id": 21,
+            "content": "12 Dec 2025\nLIVING\nby Nicola Ceccato\nABC RIVERINA",
+            "column_min": 907,
+            "row_min": 949,
+            "column_max": 1089,
+            "row_max": 983,
+            "width": 182,
+            "height": 34
+        },
+        {
+            "id": 22,
+            "content": "COSTOF",
+            "column_min": 1109,
+            "row_min": 949,
+            "column_max": 1163,
+            "row_max": 963,
+            "width": 54,
+            "height": 14
+        },
+        {
+            "id": 23,
+            "content": "More from Coffs Coast",
+            "column_min": 937,
+            "row_min": 1033,
+            "column_max": 1151,
+            "row_max": 1053,
+            "width": 214,
+            "height": 20
+        }
+    ]
+}

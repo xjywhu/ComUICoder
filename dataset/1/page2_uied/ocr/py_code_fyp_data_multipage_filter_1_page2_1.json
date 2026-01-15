@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        141,
+        1884,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Set location\nFor localnewsand weather",
+            "column_min": 1149,
+            "row_min": 7,
+            "column_max": 1311,
+            "row_max": 37,
+            "width": 162,
+            "height": 30
+        },
+        {
+            "id": 1,
+            "content": "LWABC",
+            "column_min": 5,
+            "row_min": 5,
+            "column_max": 115,
+            "row_max": 41,
+            "width": 110,
+            "height": 36
+        },
+        {
+            "id": 2,
+            "content": "Friday 26 December 2025",
+            "column_min": 931,
+            "row_min": 13,
+            "column_max": 1103,
+            "row_max": 31,
+            "width": 172,
+            "height": 18
+        },
+        {
+            "id": 3,
+            "content": "Search",
+            "column_min": 1487,
+            "row_min": 13,
+            "column_max": 1547,
+            "row_max": 31,
+            "width": 60,
+            "height": 18
+        },
+        {
+            "id": 4,
+            "content": "olisten\n2:OOANI\n5.30ANI\nOvernights with MichaelPavlich",
+            "column_min": 1019,
+            "row_min": 85,
+            "column_max": 1235,
+            "row_max": 127,
+            "width": 216,
+            "height": 42
+        },
+        {
+            "id": 5,
+            "content": "ILLAWARRA",
+            "column_min": 36,
+            "row_min": 86,
+            "column_max": 214,
+            "row_max": 118,
+            "width": 178,
+            "height": 32
+        },
+        {
+            "id": 6,
+            "content": "Home",
+            "column_min": 291,
+            "row_min": 95,
+            "column_max": 339,
+            "row_max": 111,
+            "width": 48,
+            "height": 16
+        },
+        {
+            "id": 7,
+            "content": "Programs",
+            "column_min": 365,
+            "row_min": 93,
+            "column_max": 444,
+            "row_max": 117,
+            "width": 79,
+            "height": 24
+        },
+        {
+            "id": 8,
+            "content": "Lsten Back",
+            "column_min": 469,
+            "row_min": 93,
+            "column_max": 563,
+            "row_max": 111,
+            "width": 94,
+            "height": 18
+        },
+        {
+            "id": 9,
+            "content": "News",
+            "column_min": 589,
+            "row_min": 95,
+            "column_max": 635,
+            "row_max": 111,
+            "width": 46,
+            "height": 16
+        },
+        {
+            "id": 10,
+            "content": "Weather",
+            "column_min": 661,
+            "row_min": 93,
+            "column_max": 731,
+            "row_max": 111,
+            "width": 70,
+            "height": 18
+        },
+        {
+            "id": 11,
+            "content": "PLAY LIVE RADIO",
+            "column_min": 845,
+            "row_min": 93,
+            "column_max": 983,
+            "row_max": 111,
+            "width": 138,
+            "height": 18
+        },
+        {
+            "id": 12,
+            "content": "Log",
+            "column_min": 1768,
+            "row_min": 13,
+            "column_max": 1800,
+            "row_max": 34,
+            "width": 32,
+            "height": 21
+        }
+    ]
+}

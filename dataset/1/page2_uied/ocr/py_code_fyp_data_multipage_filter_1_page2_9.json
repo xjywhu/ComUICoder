@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        516,
+        1182,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "What's happening",
+            "column_min": 27,
+            "row_min": 11,
+            "column_max": 305,
+            "row_max": 55,
+            "width": 278,
+            "height": 44
+        },
+        {
+            "id": 1,
+            "content": "Localnews direct to\nyourinbox",
+            "column_min": 10,
+            "row_min": 236,
+            "column_max": 238,
+            "row_max": 298,
+            "width": 228,
+            "height": 62
+        },
+        {
+            "id": 2,
+            "content": "Download our free ABC\nlistenapp",
+            "column_min": 308,
+            "row_min": 236,
+            "column_max": 574,
+            "row_max": 298,
+            "width": 266,
+            "height": 62
+        },
+        {
+            "id": 3,
+            "content": "Know Your ABCsinan\nEmergency",
+            "column_min": 609,
+            "row_min": 236,
+            "column_max": 858,
+            "row_max": 299,
+            "width": 249,
+            "height": 63
+        },
+        {
+            "id": 4,
+            "content": "Know your ABCsinan\nemergency",
+            "column_min": 909,
+            "row_min": 235,
+            "column_max": 1158,
+            "row_max": 298,
+            "width": 249,
+            "height": 63
+        },
+        {
+            "id": 5,
+            "content": "ABC Illawarras newsletter delivers local\nnews and stories from your community\nevery Thursday Sign upto stay\nconnected_",
+            "column_min": 13,
+            "row_min": 311,
+            "column_max": 283,
+            "row_max": 399,
+            "width": 270,
+            "height": 88
+        },
+        {
+            "id": 6,
+            "content": "The ABC listen app connects you to the\nbest podcasts and live radio from the\npresenters yOU know and love\nDownload it today and hearthe world\ndifferently\u3002",
+            "column_min": 313,
+            "row_min": 309,
+            "column_max": 577,
+            "row_max": 423,
+            "width": 264,
+            "height": 114
+        },
+        {
+            "id": 7,
+            "content": "This summer know JOUFABCs: action\nplan, he safe\nConnect With UIs.The ABC\nhas\nhost ofuseful resources and tips\non how to best prepare yourself for\nemergency weather 50 yOU can keep\nyoU and your household safe",
+            "column_min": 611,
+            "row_min": 311,
+            "column_max": 877,
+            "row_max": 449,
+            "width": 266,
+            "height": 138
+        },
+        {
+            "id": 8,
+            "content": "This summer know JOUFABCs: action\nplan, he safe\nConnect With UIs.The ABC\nhas\nhost ofuseful resources and tips\non how to best prepare yourself for\nemergency weather 50 yOU can keep\nyoU and your household safe",
+            "column_min": 911,
+            "row_min": 311,
+            "column_max": 1175,
+            "row_max": 449,
+            "width": 264,
+            "height": 138
+        },
+        {
+            "id": 9,
+            "content": "Jun 2021",
+            "column_min": 23,
+            "row_min": 415,
+            "column_max": 79,
+            "row_max": 429,
+            "width": 56,
+            "height": 14
+        },
+        {
+            "id": 10,
+            "content": "ABC ILLAWIARRA",
+            "column_min": 99,
+            "row_min": 415,
+            "column_max": 199,
+            "row_max": 429,
+            "width": 100,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": "27 AUg 2024",
+            "column_min": 311,
+            "row_min": 439,
+            "column_max": 389,
+            "row_max": 453,
+            "width": 78,
+            "height": 14
+        },
+        {
+            "id": 12,
+            "content": "ABC BRISBANE",
+            "column_min": 407,
+            "row_min": 439,
+            "column_max": 499,
+            "row_max": 453,
+            "width": 92,
+            "height": 14
+        },
+        {
+            "id": 13,
+            "content": "20 NOr 2023",
+            "column_min": 613,
+            "row_min": 463,
+            "column_max": 689,
+            "row_max": 477,
+            "width": 76,
+            "height": 14
+        },
+        {
+            "id": 14,
+            "content": "ABC SYDNEY",
+            "column_min": 709,
+            "row_min": 463,
+            "column_max": 787,
+            "row_max": 477,
+            "width": 78,
+            "height": 14
+        },
+        {
+            "id": 15,
+            "content": "11 Dec 2025\nEMERGENCY",
+            "column_min": 913,
+            "row_min": 463,
+            "column_max": 989,
+            "row_max": 497,
+            "width": 76,
+            "height": 34
+        },
+        {
+            "id": 16,
+            "content": "ABC\nBUSHFIRES",
+            "column_min": 1005,
+            "row_min": 463,
+            "column_max": 1077,
+            "row_max": 497,
+            "width": 72,
+            "height": 34
+        }
+    ]
+}
